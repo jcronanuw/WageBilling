@@ -1,0 +1,1733 @@
+Project,Text,Weekday,Date,Start time,Duration,Day accumulated
+FERA Staff Calendar,"Lascheck, LVE",Wednesday,1/1/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,1/1/2020,11:00 AM,8:30,16:30
+FERA Staff Calendar,"Lascheck, FLB",Thursday,1/2/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,1/2/2020,11:30 AM,9:30,14:30
+FERA Staff Calendar,"Lascheck, LVE",Thursday,1/2/2020,4:00 PM,3:00,17:30
+FERA Staff Calendar,"Lascheck, FLB",Friday,1/3/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,1/3/2020,11:30 AM,8:30,14:30
+FERA Staff Calendar,N. Tripodi ADM,Friday,1/3/2020,12:30 PM,1:00,15:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/3/2020,2:00 PM,6:00,21:30
+FERA Staff Calendar,"Lascheck, LVE",Friday,1/3/2020,5:00 PM,2:00,23:30
+FERA Staff Calendar,"Cronan, FLB",Monday,1/6/2020,10:30 AM,2:00,2:00
+FERA Staff Calendar,"Lascheck, FLB",Monday,1/6/2020,11:00 AM,4:00,6:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,1/6/2020,11:30 AM,1:30,7:30
+FERA Staff Calendar,N. Tripodi 3DF,Monday,1/6/2020,12:30 PM,7:00,14:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,1/6/2020,1:30 PM,7:30,22:00
+FERA Staff Calendar,"Lascheck, ADM",Monday,1/6/2020,3:00 PM,1:00,23:00
+FERA Staff Calendar,"Hallet, 3D",Monday,1/6/2020,3:40 PM,0:20,23:20
+FERA Staff Calendar,"Hallet, FLB",Monday,1/6/2020,4:00 PM,0:30,23:50
+FERA Staff Calendar,"Lascheck, 3DF",Monday,1/6/2020,4:00 PM,3:00,26:50
+FERA Staff Calendar,"Hallet, 3D",Monday,1/6/2020,4:30 PM,2:30,29:20
+FERA Staff Calendar,N.Tripodi ADM,Monday,1/6/2020,8:00 PM,1:00,30:20
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,1/7/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/7/2020,11:30 AM,2:00,6:00
+FERA Staff Calendar,N.Tripodi ADM,Tuesday,1/7/2020,12:30 PM,7:15,13:15
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,1/7/2020,2:00 PM,6:30,19:45
+FERA Staff Calendar,"Lascheck, FLB",Tuesday,1/7/2020,3:30 PM,4:00,23:45
+FERA Staff Calendar,N. Tripodi Taylor Creek,Tuesday,1/7/2020,8:15 PM,1:00,24:45
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,1/8/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/8/2020,12:00 PM,2:45,10:45
+FERA Staff Calendar,N. Tripodi Taylor Creek,Wednesday,1/8/2020,12:00 PM,3:00,13:45
+FERA Staff Calendar,"J. Thoreson, Taylor Creek",Wednesday,1/8/2020,2:45 PM,0:45,14:30
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/8/2020,3:30 PM,4:00,18:30
+FERA Staff Calendar,"Hallet, 3D",Wednesday,1/8/2020,3:40 PM,1:20,19:50
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,1/8/2020,4:00 PM,3:00,22:50
+FERA Staff Calendar,"Hallet, FSB",Wednesday,1/8/2020,5:00 PM,0:20,23:10
+FERA Staff Calendar,"Hallet, 3D",Wednesday,1/8/2020,5:20 PM,1:40,24:50
+FERA Staff Calendar,N. Tripodi ADM,Wednesday,1/8/2020,7:30 PM,1:30,26:20
+FERA Staff Calendar,"J. Thoreson, LVE",Thursday,1/9/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,1/9/2020,11:00 AM,6:30,15:00
+FERA Staff Calendar,N. Tripodi Carr/Taylor Creek,Thursday,1/9/2020,12:30 PM,1:00,16:00
+FERA Staff Calendar,N.Tripodi ADM,Thursday,1/9/2020,1:30 PM,2:30,18:30
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/9/2020,4:30 PM,5:00,23:30
+FERA Staff Calendar,"Lascheck, ADM",Thursday,1/9/2020,5:30 PM,1:30,25:00
+FERA Staff Calendar,"J. Thoreson, LVE",Friday,1/10/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Lascheck, 3DF",Friday,1/10/2020,11:00 AM,6:00,14:30
+FERA Staff Calendar,N. Tripodi ADM,Friday,1/10/2020,12:30 PM,1:00,15:30
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,1/10/2020,1:45 PM,6:00,21:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/10/2020,2:00 PM,5:00,26:30
+FERA Staff Calendar,"Hallet, 3D",Friday,1/10/2020,4:15 PM,2:30,29:00
+FERA Staff Calendar,"Lascheck, LVE",Friday,1/10/2020,5:00 PM,2:00,31:00
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,1/11/2020,1:00 PM,4:30,4:30
+FERA Staff Calendar,"T. Darmody, 3DF",Sunday,1/12/2020,1:40 PM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Monday,1/13/2020,12:00 PM,7:00,7:00
+FERA Staff Calendar,"J. Thoreson, LVE",Monday,1/13/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,N. Tripodi 3DF,Monday,1/13/2020,12:15 PM,4:30,19:30
+FERA Staff Calendar,N. Tripodi 3DF,Monday,1/13/2020,5:15 PM,4:30,24:00
+FERA Staff Calendar,Lascheck ADM,Monday,1/13/2020,7:00 PM,1:00,25:00
+FERA Staff Calendar,"Lascheck, FLB",Tuesday,1/14/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/14/2020,12:00 PM,4:00,12:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/14/2020,12:30 PM,3:00,15:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/14/2020,4:00 PM,5:30,20:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/14/2020,4:30 PM,4:00,24:30
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,1/15/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/15/2020,11:30 AM,4:00,8:00
+FERA Staff Calendar,N. Tripodi ADM,Wednesday,1/15/2020,12:30 PM,0:30,8:30
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/15/2020,1:00 PM,5:30,14:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,1/15/2020,3:20 PM,3:40,17:40
+FERA Staff Calendar,"Lascheck, FLB",Wednesday,1/15/2020,3:30 PM,4:00,21:40
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,1/15/2020,4:00 PM,4:30,26:10
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/15/2020,7:00 PM,2:00,28:10
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,1/16/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,1/16/2020,11:30 AM,2:00,8:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/16/2020,1:00 PM,2:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,1/16/2020,2:00 PM,5:00,15:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/16/2020,3:30 PM,5:30,20:30
+FERA Staff Calendar,"Lascheck, ADM",Thursday,1/16/2020,5:00 PM,2:00,22:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,1/16/2020,7:00 PM,2:00,24:30
+FERA Staff Calendar,"Lascheck, FLB",Friday,1/17/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/17/2020,11:30 AM,3:30,7:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,1/17/2020,12:30 PM,3:30,11:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,1/17/2020,1:00 PM,5:00,16:00
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/17/2020,3:30 PM,3:30,19:30
+FERA Staff Calendar,"Lascheck, 3DF",Friday,1/17/2020,3:30 PM,4:00,23:30
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,1/17/2020,3:30 PM,3:00,26:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,1/17/2020,4:30 PM,3:00,29:30
+FERA Staff Calendar,"T.Darmody, 3DF",Saturday,1/18/2020,11:30 AM,6:45,6:45
+FERA Staff Calendar,"T. Darmody, 3DF",Sunday,1/19/2020,12:15 PM,5:20,5:20
+FERA Staff Calendar,N. Tripodi Holiday,Monday,1/20/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, LVE",Monday,1/20/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/21/2020,6:30 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/21/2020,7:00 AM,9:00,18:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,1/21/2020,7:00 AM,14:30,33:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/21/2020,4:30 PM,5:30,38:30
+FERA Staff Calendar,"J. Thoreson, 3DF ",Tuesday,1/21/2020,4:30 PM,5:30,44:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/22/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/22/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,1/22/2020,10:00 AM,11:00,23:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,1/22/2020,3:40 PM,3:20,26:20
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/22/2020,5:15 PM,5:00,31:20
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/22/2020,5:15 PM,5:00,36:20
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,1/23/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/23/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,1/23/2020,10:00 AM,11:00,23:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/23/2020,4:30 PM,5:00,28:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,1/23/2020,4:30 PM,5:00,33:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,1/24/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,1/24/2020,10:30 AM,5:30,15:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/24/2020,10:30 AM,5:30,21:00
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,1/24/2020,1:30 PM,5:05,26:05
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,1/24/2020,4:30 PM,4:30,30:35
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/24/2020,4:30 PM,4:30,35:05
+FERA Staff Calendar,"Hallet, 3DF",Saturday,1/25/2020,12:30 AM,1:45,1:45
+FERA Staff Calendar,"Hallet, 3DF",Saturday,1/25/2020,2:45 AM,15:15,17:00
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,1/25/2020,10:00 AM,6:00,23:00
+FERA Staff Calendar,"Lascheck, 3DF",Saturday,1/25/2020,10:00 AM,11:00,34:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,1/25/2020,10:00 AM,6:00,40:00
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,1/25/2020,12:45 PM,4:25,44:25
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,1/25/2020,4:30 PM,5:00,49:25
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,1/25/2020,4:30 PM,5:00,54:25
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,1/26/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,"Lascheck, 3DF",Sunday,1/26/2020,11:00 AM,7:30,12:30
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,1/26/2020,11:00 AM,5:00,17:30
+FERA Staff Calendar,"T.Darmody, 3DF",Sunday,1/26/2020,11:45 AM,6:50,24:20
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,1/26/2020,4:30 PM,2:30,26:50
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,1/26/2020,4:30 PM,2:30,29:20
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,1/27/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Monday,1/27/2020,10:00 AM,10:30,16:30
+FERA Staff Calendar,N. Tripodi 3DF,Monday,1/27/2020,10:00 AM,6:00,22:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,1/27/2020,3:20 PM,3:40,26:10
+FERA Staff Calendar,N. Tripodi 3DF,Monday,1/27/2020,5:00 PM,4:30,30:40
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,1/27/2020,5:00 PM,4:30,35:10
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/28/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,1/28/2020,10:00 AM,10:30,16:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/28/2020,10:00 AM,6:00,22:30
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,1/28/2020,4:30 PM,4:30,27:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,1/28/2020,4:30 PM,4:30,31:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/29/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,1/29/2020,10:00 AM,11:00,17:00
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/29/2020,10:00 AM,6:00,23:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,1/29/2020,3:35 PM,3:25,26:25
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,1/29/2020,4:30 PM,5:00,31:25
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,1/29/2020,4:30 PM,5:00,36:25
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/30/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,1/30/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,1/30/2020,10:00 AM,11:00,23:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,1/30/2020,5:00 PM,4:00,27:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,1/30/2020,5:00 PM,4:00,31:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,1/31/2020,10:00 AM,10:30,10:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/31/2020,10:00 AM,6:00,16:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,1/31/2020,10:00 AM,6:00,22:30
+FERA Staff Calendar,"D. Nemens, ADM",Friday,1/31/2020,12:00 PM,8:00,30:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,1/31/2020,12:30 PM,2:25,32:55
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,1/31/2020,2:00 PM,3:00,35:55
+FERA Staff Calendar,"Hallet, 3DF",Friday,1/31/2020,3:25 PM,2:35,38:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,1/31/2020,4:30 PM,4:00,42:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,1/31/2020,4:30 PM,4:00,46:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,2/1/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Saturday,2/1/2020,10:00 AM,11:00,17:00
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,2/1/2020,10:00 AM,6:00,23:00
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,2/1/2020,12:15 PM,6:00,29:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,2/1/2020,4:30 PM,4:00,33:00
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,2/1/2020,4:30 PM,4:00,37:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,2/2/2020,10:00 AM,5:00,5:00
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,2/2/2020,10:00 AM,5:00,10:00
+FERA Staff Calendar,"Lascheck, 3DF",Sunday,2/2/2020,10:00 AM,8:00,18:00
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,2/2/2020,3:30 PM,3:00,21:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,2/2/2020,3:30 PM,3:00,24:00
+FERA Staff Calendar,N. Tripodi 3DF,Monday,2/3/2020,7:30 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,2/3/2020,7:30 AM,8:00,16:00
+FERA Staff Calendar,"Lascheck, 3DF",Monday,2/3/2020,10:00 AM,11:00,27:00
+FERA Staff Calendar,"D. Nemens, 3DF",Monday,2/3/2020,12:30 PM,6:00,33:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,2/3/2020,3:35 PM,2:10,35:10
+FERA Staff Calendar,"D. Nemens, JMV",Monday,2/3/2020,6:30 PM,2:00,37:10
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,2/4/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,2/4/2020,11:00 AM,2:00,12:00
+FERA Staff Calendar,N. Tripodi ADM,Tuesday,2/4/2020,11:45 AM,3:30,15:30
+FERA Staff Calendar,"D. Nemens, 3DF",Tuesday,2/4/2020,12:30 PM,6:00,21:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/4/2020,1:00 PM,2:00,23:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/4/2020,3:30 PM,4:30,28:00
+FERA Staff Calendar,N. Tripodi,Tuesday,2/4/2020,3:45 PM,4:30,32:30
+FERA Staff Calendar,"D. Nemens, JMV",Tuesday,2/4/2020,6:30 PM,2:00,34:30
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,2/5/2020,6:30 AM,14:30,14:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,2/5/2020,11:00 AM,5:30,20:00
+FERA Staff Calendar,"D. Nemens, 3DF",Wednesday,2/5/2020,12:30 PM,6:00,26:00
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,2/5/2020,12:45 PM,7:45,33:45
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,2/5/2020,3:25 PM,3:35,37:20
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,2/5/2020,5:30 PM,3:00,40:20
+FERA Staff Calendar,"D. Nemens, JMV",Wednesday,2/5/2020,6:30 PM,2:00,42:20
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,2/6/2020,12:00 PM,2:00,2:00
+FERA Staff Calendar,N. Tripodi ADM,Thursday,2/6/2020,12:15 PM,2:00,4:00
+FERA Staff Calendar,"D. Nemens, 3DF",Thursday,2/6/2020,12:30 PM,6:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/6/2020,1:00 PM,3:00,13:00
+FERA Staff Calendar,N.Tripodi 3DF,Thursday,2/6/2020,2:15 PM,2:00,15:00
+FERA Staff Calendar,"D. Nemens, JMV",Thursday,2/6/2020,6:30 PM,2:00,17:00
+FERA Staff Calendar,"J. Thoreson, LVE",Friday,2/7/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,2/7/2020,12:00 PM,2:30,10:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,2/7/2020,12:30 PM,5:00,15:30
+FERA Staff Calendar,"D. Nemens, 3DF",Friday,2/7/2020,12:30 PM,6:00,21:30
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,2/7/2020,12:45 PM,5:00,26:30
+FERA Staff Calendar,"D. Nemens, JMV",Friday,2/7/2020,6:30 PM,2:00,28:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,2/7/2020,7:00 PM,2:00,30:30
+FERA Staff Calendar,N. Tripodi 3DF,Monday,2/10/2020,8:00 AM,13:00,13:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,2/10/2020,8:00 AM,13:00,26:00
+FERA Staff Calendar,"D. Nemens, 3DF",Monday,2/10/2020,10:00 AM,10:00,36:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,2/10/2020,3:20 PM,2:25,38:25
+FERA Staff Calendar,"Lascheck, 3DF",Monday,2/10/2020,6:00 PM,23:00,61:25
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/11/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,2/11/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"D. Nemens, 3DF",Tuesday,2/11/2020,10:00 AM,10:00,22:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,2/11/2020,4:30 PM,4:30,26:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/11/2020,4:30 PM,4:30,31:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,2/12/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,2/12/2020,10:00 AM,6:00,16:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,2/12/2020,10:00 AM,6:00,22:00
+FERA Staff Calendar,"D. Nemens, 3DF",Wednesday,2/12/2020,10:00 AM,10:00,32:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,2/12/2020,4:30 PM,5:00,37:00
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,2/12/2020,4:30 PM,5:00,42:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/13/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,2/13/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"D. Nemens, 3DF",Thursday,2/13/2020,10:00 AM,10:00,22:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,2/13/2020,10:00 AM,10:00,32:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/13/2020,4:30 PM,4:00,36:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,2/13/2020,4:30 PM,4:00,40:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,2/14/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,N. Tripodi 3DF,Friday,2/14/2020,10:00 AM,6:00,12:00
+FERA Staff Calendar,"D. Nemens, 3DF",Friday,2/14/2020,10:00 AM,10:00,22:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,2/14/2020,10:00 AM,10:00,32:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,2/14/2020,12:30 PM,5:00,37:00
+FERA Staff Calendar,N. Tripodi 3DF,Friday,2/14/2020,4:30 PM,4:00,41:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,2/14/2020,4:30 PM,4:00,45:00
+FERA Staff Calendar,"Lascheck, 3DF",Saturday,2/15/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,2/15/2020,10:00 AM,6:00,16:00
+FERA Staff Calendar,"D. Nemens, 3DF",Saturday,2/15/2020,10:00 AM,10:00,26:00
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,2/15/2020,10:00 AM,6:00,32:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,2/15/2020,4:30 PM,5:00,37:00
+FERA Staff Calendar,N. Tripodi 3DF,Saturday,2/15/2020,4:30 PM,5:00,42:00
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,2/16/2020,10:00 AM,5:00,5:00
+FERA Staff Calendar,"D. Nemens, 3DF",Sunday,2/16/2020,10:00 AM,10:00,15:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,2/16/2020,10:00 AM,5:00,20:00
+FERA Staff Calendar,"Lascheck, 3DF",Sunday,2/16/2020,10:00 AM,10:00,30:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,2/16/2020,3:30 PM,5:00,35:00
+FERA Staff Calendar,N. Tripodi 3DF,Sunday,2/16/2020,3:30 PM,5:00,40:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,2/17/2020,10:00 AM,1:00,1:00
+FERA Staff Calendar,"Lascheck, 3DF",Monday,2/17/2020,10:00 AM,10:00,11:00
+FERA Staff Calendar,N. Tripodi ADM,Monday,2/17/2020,10:00 AM,1:00,12:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,2/17/2020,11:00 AM,5:00,17:00
+FERA Staff Calendar,N. Tripodi 3DF,Monday,2/17/2020,11:00 AM,5:00,22:00
+FERA Staff Calendar,D. Nemens LVE,Monday,2/17/2020,12:00 PM,8:00,30:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,2/17/2020,4:30 PM,4:30,34:30
+FERA Staff Calendar,N. Tripodi 3DF,Monday,2/17/2020,4:30 PM,4:30,39:00
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,2/18/2020,10:00 AM,5:00,5:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/18/2020,10:00 AM,5:00,10:00
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,2/18/2020,10:00 AM,10:30,20:30
+FERA Staff Calendar,D. Nemens ADM,Tuesday,2/18/2020,12:00 PM,8:00,28:30
+FERA Staff Calendar,N. Tripodi 3DF,Tuesday,2/18/2020,3:30 PM,4:30,33:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,2/18/2020,3:30 PM,4:30,37:30
+FERA Staff Calendar,N. Tripodi 3DF,Wednesday,2/19/2020,7:00 AM,8:00,8:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,2/19/2020,7:00 AM,9:30,17:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,2/19/2020,7:00 AM,7:00,24:30
+FERA Staff Calendar,D. Nemens ADM,Wednesday,2/19/2020,12:00 PM,8:00,32:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,2/19/2020,3:20 PM,2:40,35:10
+FERA Staff Calendar,"Lascheck, LVE",Thursday,2/20/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/20/2020,11:00 AM,5:00,15:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,2/20/2020,12:00 PM,8:00,23:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,2/20/2020,1:00 PM,5:00,28:00
+FERA Staff Calendar,"J. Thoreson, LVE",Friday,2/21/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,N. Tripodi LVE,Friday,2/21/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,D. Nemens JMV,Friday,2/21/2020,12:00 PM,8:00,24:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,2/21/2020,12:30 PM,5:00,29:00
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,2/22/2020,11:50 AM,3:55,3:55
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,2/22/2020,4:15 PM,4:00,7:55
+FERA Staff Calendar,"T. Darmody, 3DF",Sunday,2/23/2020,12:15 PM,4:55,4:55
+FERA Staff Calendar,"T. Darmody, 3DF",Sunday,2/23/2020,5:40 PM,2:05,7:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,2/24/2020,10:30 AM,3:00,3:00
+FERA Staff Calendar,"Lascheck, ADM",Monday,2/24/2020,11:00 AM,5:00,8:00
+FERA Staff Calendar,N. Tripodi LVE,Monday,2/24/2020,11:00 AM,8:30,16:30
+FERA Staff Calendar,Bumper Replacement Appointment,Monday,2/24/2020,12:00 PM,1:00,17:30
+FERA Staff Calendar,D.Nemens LVE,Monday,2/24/2020,12:00 PM,8:00,25:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,2/24/2020,1:30 PM,1:30,27:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,2/24/2020,3:15 PM,3:45,30:45
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,2/24/2020,3:30 PM,4:30,35:15
+FERA Staff Calendar,"Lascheck, FLB",Monday,2/24/2020,4:00 PM,3:00,38:15
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,2/25/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Lascheck, FLB",Tuesday,2/25/2020,11:30 AM,2:00,6:00
+FERA Staff Calendar,N. Tripodi ADM,Tuesday,2/25/2020,11:30 AM,1:00,7:00
+FERA Staff Calendar,D.Nemens ADM,Tuesday,2/25/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,N. Tripodi FLB,Tuesday,2/25/2020,12:30 PM,1:00,16:00
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,2/25/2020,1:30 PM,1:30,17:30
+FERA Staff Calendar,Field staff meeting,Tuesday,2/25/2020,1:30 PM,1:30,19:00
+FERA Staff Calendar,N. Tripodi ADM,Tuesday,2/25/2020,1:30 PM,1:30,20:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,2/25/2020,3:00 PM,2:00,22:30
+FERA Staff Calendar,N. Tripodi FLB,Tuesday,2/25/2020,3:30 PM,4:30,27:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,2/25/2020,3:30 PM,4:00,31:00
+FERA Staff Calendar,"Lascheck, FLB",Tuesday,2/25/2020,5:00 PM,3:00,34:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,2/26/2020,11:00 AM,1:30,1:30
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,2/26/2020,11:00 AM,5:00,6:30
+FERA Staff Calendar,D.Nemens LVE,Wednesday,2/26/2020,12:00 PM,8:00,14:30
+FERA Staff Calendar,N. Tripodi FLB,Wednesday,2/26/2020,12:00 PM,3:00,17:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,2/26/2020,12:30 PM,3:00,20:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,2/26/2020,3:15 PM,2:00,22:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,2/26/2020,3:30 PM,4:00,26:30
+FERA Staff Calendar,N. Tripodi FLB,Wednesday,2/26/2020,3:30 PM,5:00,31:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,2/27/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,"Lascheck, FLB",Thursday,2/27/2020,11:30 AM,3:00,5:00
+FERA Staff Calendar,D.Nemens LVE,Thursday,2/27/2020,12:00 PM,6:00,11:00
+FERA Staff Calendar,N. Tripodi ADM,Thursday,2/27/2020,12:00 PM,3:00,14:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/27/2020,1:00 PM,3:00,17:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,2/27/2020,2:30 PM,3:00,20:00
+FERA Staff Calendar,N. Tripodi 3DF,Thursday,2/27/2020,3:30 PM,5:00,25:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,2/27/2020,4:30 PM,2:30,27:30
+FERA Staff Calendar,"Lascheck, LVE",Thursday,2/27/2020,5:30 PM,2:00,29:30
+FERA Staff Calendar,D. Nemens JMV,Thursday,2/27/2020,6:00 PM,2:00,31:30
+FERA Staff Calendar,N. Tripodi 3DF,Friday,2/28/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,2/28/2020,11:00 AM,8:00,12:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,2/28/2020,11:30 AM,3:30,15:30
+FERA Staff Calendar,D. Nemens 3DF,Friday,2/28/2020,12:00 PM,3:00,18:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,2/28/2020,12:30 PM,5:00,23:30
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,2/28/2020,1:30 PM,6:30,30:00
+FERA Staff Calendar,D. Nemens ADM,Friday,2/28/2020,3:00 PM,5:00,35:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,2/28/2020,3:30 PM,4:00,39:00
+FERA Staff Calendar,N. Tripodi 3DF,Friday,2/28/2020,3:30 PM,4:00,43:00
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,2/29/2020,2:00 PM,3:30,3:30
+FERA Staff Calendar,"Lascheck, ADM",Monday,3/2/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/2/2020,11:00 AM,4:00,6:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,3/2/2020,11:20 AM,3:40,9:40
+FERA Staff Calendar,D. Nemens ADM,Monday,3/2/2020,12:00 PM,8:00,17:40
+FERA Staff Calendar,"Lascheck, 3DF",Monday,3/2/2020,1:00 PM,7:30,25:10
+FERA Staff Calendar,"Hallet, 3DF",Monday,3/2/2020,3:15 PM,3:30,28:40
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/2/2020,4:00 PM,4:30,33:10
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/2/2020,4:00 PM,4:30,37:40
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,3/3/2020,11:00 AM,1:00,1:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/3/2020,11:30 AM,3:30,4:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,3/3/2020,12:00 PM,6:00,10:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/3/2020,12:30 PM,2:30,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/3/2020,3:30 PM,5:30,18:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/3/2020,3:30 PM,4:30,23:00
+FERA Staff Calendar,"Lascheck, FLB",Tuesday,3/3/2020,6:00 PM,1:00,24:00
+FERA Staff Calendar,"Lascheck, FLB",Wednesday,3/4/2020,10:00 AM,7:30,7:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/4/2020,11:00 AM,4:30,12:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,3/4/2020,12:00 PM,8:00,20:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/4/2020,1:00 PM,3:00,23:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/4/2020,4:00 PM,3:30,26:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/4/2020,4:30 PM,3:30,30:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,3/4/2020,5:30 PM,1:30,31:30
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,3/5/2020,12:00 PM,6:30,6:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/5/2020,3:30 PM,4:50,11:20
+FERA Staff Calendar,"Lascheck, LVE",Thursday,3/5/2020,6:30 PM,2:00,13:20
+FERA Staff Calendar,"Lascheck, 3DF",Friday,3/6/2020,11:00 AM,3:00,3:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/6/2020,11:30 AM,3:30,6:30
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,3/6/2020,12:15 PM,2:45,9:15
+FERA Staff Calendar,"Hallet, 3DF",Friday,3/6/2020,12:30 PM,2:30,11:45
+FERA Staff Calendar,FERA Staff Meeting,Friday,3/6/2020,2:00 PM,1:00,12:45
+FERA Staff Calendar,"Lascheck, ADM",Friday,3/6/2020,2:00 PM,2:00,14:45
+FERA Staff Calendar,"T. Darmody, 3DF",Friday,3/6/2020,3:30 PM,5:15,20:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/6/2020,3:30 PM,4:30,24:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,3/6/2020,3:30 PM,2:45,27:15
+FERA Staff Calendar,"T. Darmody, 3DF",Saturday,3/7/2020,1:00 PM,2:00,2:00
+FERA Staff Calendar,"Lascheck, ADM",Monday,3/9/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/9/2020,11:30 AM,8:00,10:00
+FERA Staff Calendar,Nemens ADM,Monday,3/9/2020,12:00 PM,8:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/9/2020,12:30 PM,2:30,20:30
+FERA Staff Calendar,"Lascheck, 3DF",Monday,3/9/2020,1:00 PM,6:00,26:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,3/9/2020,2:30 PM,4:00,30:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/9/2020,3:30 PM,4:00,34:30
+FERA Staff Calendar,Nemens JMV,Tuesday,3/10/2020,10:30 AM,4:00,4:00
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,3/10/2020,11:00 AM,2:00,6:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/10/2020,11:30 AM,3:30,9:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/10/2020,11:30 AM,8:00,17:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,3/10/2020,1:00 PM,6:00,23:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/10/2020,3:30 PM,4:30,28:00
+FERA Staff Calendar,Nemens ADM,Tuesday,3/10/2020,4:00 PM,4:00,32:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/11/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Lascheck, FLB",Wednesday,3/11/2020,11:00 AM,6:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/11/2020,11:30 AM,8:00,18:00
+FERA Staff Calendar,Nemens ADM,Wednesday,3/11/2020,12:00 PM,8:00,26:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,3/11/2020,1:00 PM,3:10,29:10
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,3/11/2020,2:30 PM,4:30,33:40
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/11/2020,3:30 PM,4:00,37:40
+FERA Staff Calendar,"Lascheck, LVE",Wednesday,3/11/2020,5:00 PM,2:00,39:40
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,3/12/2020,11:30 AM,8:00,8:00
+FERA Staff Calendar,Nemens 3DF,Thursday,3/12/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/12/2020,12:30 PM,2:30,18:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,3/12/2020,1:00 PM,2:30,21:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/12/2020,3:30 PM,5:30,26:30
+FERA Staff Calendar,Darmody,Thursday,3/12/2020,4:00 PM,5:30,32:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,3/13/2020,11:30 AM,8:00,8:00
+FERA Staff Calendar,Nemens LVE,Friday,3/13/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,3/13/2020,12:15 PM,5:00,21:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/13/2020,1:00 PM,2:00,23:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/13/2020,3:30 PM,3:30,26:30
+FERA Staff Calendar,"Darmody, 3DF",Saturday,3/14/2020,1:00 PM,6:00,6:00
+FERA Staff Calendar,"Hallet, 3DF",Saturday,3/14/2020,3:20 PM,2:15,8:15
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/16/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/16/2020,11:30 AM,3:30,7:00
+FERA Staff Calendar,Nemens LVE,Monday,3/16/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,3/16/2020,12:30 PM,6:30,21:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,3/16/2020,2:15 PM,4:45,26:15
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/16/2020,3:30 PM,4:45,31:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/16/2020,3:30 PM,4:45,35:45
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/17/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/17/2020,11:45 AM,3:45,7:45
+FERA Staff Calendar,Nemens LVE,Tuesday,3/17/2020,12:00 PM,8:00,15:45
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/17/2020,3:30 PM,4:00,19:45
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/17/2020,4:00 PM,4:15,24:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/18/2020,12:00 PM,3:30,3:30
+FERA Staff Calendar,Nemens LVE,Wednesday,3/18/2020,12:00 PM,8:00,11:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/18/2020,12:00 PM,4:00,15:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,3/18/2020,2:15 PM,4:15,19:45
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,3/18/2020,4:00 PM,4:30,24:15
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/18/2020,4:00 PM,4:30,28:45
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/18/2020,4:30 PM,4:00,32:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/19/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,Nemens LVE,Thursday,3/19/2020,12:00 PM,8:00,12:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,3/19/2020,12:00 PM,6:00,18:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,3/19/2020,12:30 PM,4:00,22:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,3/19/2020,4:00 PM,5:00,27:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/19/2020,4:00 PM,4:00,31:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,3/19/2020,5:00 PM,4:00,35:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,3/20/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,Nemens LVE,Friday,3/20/2020,12:00 PM,8:00,14:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/20/2020,1:00 PM,2:00,16:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,3/20/2020,4:00 PM,6:35,22:35
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,3/20/2020,5:30 PM,2:00,24:35
+FERA Staff Calendar,"P.Eagle,3DF",Friday,3/20/2020,10:00 PM,4:00,28:35
+FERA Staff Calendar,"P.Eagle,3DF",Saturday,3/21/2020,11:00 AM,4:30,4:30
+FERA Staff Calendar,"Darmody, 3DF",Saturday,3/21/2020,3:00 PM,2:30,7:00
+FERA Staff Calendar,"P.Eagle,3DF",Sunday,3/22/2020,6:30 PM,2:00,2:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/23/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/23/2020,11:00 AM,2:00,8:00
+FERA Staff Calendar,Nemens LVE,Monday,3/23/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,3/23/2020,12:00 PM,5:30,21:30
+FERA Staff Calendar,"P. Eagle, 3DF",Monday,3/23/2020,2:00 PM,3:00,24:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,3/23/2020,2:30 PM,3:00,27:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/23/2020,4:00 PM,6:00,33:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,3/23/2020,4:00 PM,1:00,34:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/24/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/24/2020,11:30 AM,4:00,8:00
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,3/24/2020,12:00 PM,4:00,12:00
+FERA Staff Calendar,Nemens LVE,Tuesday,3/24/2020,12:00 PM,8:00,20:00
+FERA Staff Calendar,"P. Eagle, 3DF",Tuesday,3/24/2020,12:30 PM,5:00,25:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/24/2020,3:30 PM,4:00,29:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,3/24/2020,4:00 PM,4:30,33:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/24/2020,4:00 PM,4:00,37:30
+FERA Staff Calendar,"Darmody, 3Df",Tuesday,3/24/2020,4:30 PM,4:00,41:30
+FERA Staff Calendar,"P. Eagle, 3DF",Tuesday,3/24/2020,9:30 PM,2:30,44:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,3/25/2020,10:00 AM,6:00,6:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/25/2020,12:00 PM,2:00,8:00
+FERA Staff Calendar,Nemens LVE,Wednesday,3/25/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,3/25/2020,12:00 PM,3:30,19:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,3/25/2020,1:00 PM,0:30,20:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,3/25/2020,4:00 PM,4:00,24:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,3/25/2020,4:15 PM,0:45,24:45
+FERA Staff Calendar,"P. Eagle, 3DF",Wednesday,3/25/2020,5:00 PM,1:00,25:45
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,3/25/2020,5:00 PM,6:00,31:45
+FERA Staff Calendar,"P. Eagle, FASMEE",Wednesday,3/25/2020,6:00 PM,4:30,36:15
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,3/25/2020,6:20 PM,1:30,37:45
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,3/26/2020,10:30 AM,4:30,4:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/26/2020,11:00 AM,4:00,8:30
+FERA Staff Calendar,Nemens LVE,Thursday,3/26/2020,12:00 PM,8:00,16:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,3/26/2020,12:00 PM,6:00,22:30
+FERA Staff Calendar,"Hallet, 3DF",Thursday,3/26/2020,1:00 PM,3:00,25:30
+FERA Staff Calendar,"P. Eagle, 3DF",Thursday,3/26/2020,2:00 PM,7:00,32:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,3/26/2020,3:30 PM,3:30,36:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,3/26/2020,3:30 PM,4:00,40:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,3/27/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,3/27/2020,12:00 PM,6:00,11:00
+FERA Staff Calendar,Nemens LVE,Friday,3/27/2020,12:00 PM,8:00,19:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,3/27/2020,1:00 PM,2:45,21:45
+FERA Staff Calendar,"P.Eagle, 3DF",Friday,3/27/2020,1:30 PM,3:30,25:15
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,3/27/2020,4:30 PM,3:00,28:15
+FERA Staff Calendar,"Darmody, 3DF",Saturday,3/28/2020,2:00 PM,2:45,2:45
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/30/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,J. Thoreson,Monday,3/30/2020,11:30 AM,3:30,7:00
+FERA Staff Calendar,Nemens LVE,Monday,3/30/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,3/30/2020,12:00 PM,2:30,17:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,3/30/2020,3:30 PM,5:00,22:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,3/30/2020,3:30 PM,4:30,27:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,3/31/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/31/2020,11:30 AM,3:30,7:00
+FERA Staff Calendar,Nemens LVE,Tuesday,3/31/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,3/31/2020,1:00 PM,6:00,21:00
+FERA Staff Calendar,"Hallet, FLB",Tuesday,3/31/2020,1:20 PM,2:40,23:40
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,3/31/2020,3:30 PM,5:00,28:40
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,3/31/2020,3:30 PM,4:30,33:10
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,3/31/2020,4:00 PM,0:45,33:55
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,3/31/2020,4:00 PM,0:40,34:35
+FERA Staff Calendar,"Hallet, FLB",Tuesday,3/31/2020,4:45 PM,0:35,35:10
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/1/2020,11:00 AM,5:38,5:38
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/1/2020,11:30 AM,3:30,9:08
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,4/1/2020,11:30 AM,3:45,12:53
+FERA Staff Calendar,Nemens LVE,Wednesday,4/1/2020,12:00 PM,8:00,20:53
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,4/1/2020,12:30 PM,2:00,22:53
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/1/2020,1:00 PM,6:00,28:53
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/1/2020,3:30 PM,5:00,33:53
+FERA Staff Calendar,"J. Thoreson, JMV",Wednesday,4/1/2020,3:30 PM,4:30,38:23
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/2/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/2/2020,11:30 AM,3:45,7:15
+FERA Staff Calendar,Nemens LVE,Thursday,4/2/2020,12:00 PM,8:00,15:15
+FERA Staff Calendar,"P.Eagle, 3DF",Thursday,4/2/2020,1:00 PM,6:00,21:15
+FERA Staff Calendar,"Darmody, 3DF",Thursday,4/2/2020,3:00 PM,4:00,25:15
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,4/2/2020,3:30 PM,4:30,29:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/2/2020,3:30 PM,4:30,34:15
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/3/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/3/2020,11:30 AM,3:45,7:45
+FERA Staff Calendar,Nemens LVE,Friday,4/3/2020,12:00 PM,8:00,15:45
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/3/2020,12:30 PM,4:55,20:40
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/3/2020,3:30 PM,4:00,24:40
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/3/2020,3:30 PM,4:30,29:10
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/3/2020,7:00 PM,1:40,30:50
+FERA Staff Calendar,"P.Eagle,DLP",Monday,4/6/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,4/6/2020,11:30 AM,4:00,5:00
+FERA Staff Calendar,Nemens ADM,Monday,4/6/2020,12:00 PM,8:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/6/2020,12:00 PM,3:00,16:00
+FERA Staff Calendar,"Hallet, FLB",Monday,4/6/2020,12:30 PM,1:00,17:00
+FERA Staff Calendar,"P.Eagle, 3DF",Monday,4/6/2020,1:00 PM,7:00,24:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,4/6/2020,1:30 PM,1:30,25:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/6/2020,3:30 PM,5:00,30:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,4/6/2020,4:00 PM,4:00,34:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,4/7/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/7/2020,12:00 PM,3:00,7:00
+FERA Staff Calendar,Nemens ADM,Tuesday,4/7/2020,12:00 PM,8:00,15:00
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,4/7/2020,12:00 PM,1:00,16:00
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,4/7/2020,2:00 PM,4:30,20:30
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,4/7/2020,2:15 PM,2:30,23:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/7/2020,3:30 PM,5:30,28:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,4/7/2020,4:00 PM,4:00,32:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,4/8/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,Nemens ADM,Wednesday,4/8/2020,12:00 PM,8:00,12:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,4/8/2020,12:00 PM,3:30,15:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/8/2020,12:00 PM,3:00,18:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/8/2020,12:30 PM,6:00,24:30
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/8/2020,1:30 PM,0:30,25:00
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,4/8/2020,2:00 PM,1:00,26:00
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/8/2020,3:00 PM,1:30,27:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/8/2020,3:30 PM,5:00,32:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,4/8/2020,4:00 PM,4:00,36:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,4/9/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/9/2020,11:30 AM,3:30,7:30
+FERA Staff Calendar,Nemens ADM,Thursday,4/9/2020,12:00 PM,8:00,15:30
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,4/9/2020,12:00 PM,3:00,18:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,4/9/2020,3:00 PM,4:15,22:45
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,4/9/2020,3:00 PM,1:00,23:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/9/2020,3:30 PM,4:30,28:15
+FERA Staff Calendar,"P.Eagle, 3DF",Thursday,4/9/2020,4:00 PM,4:45,33:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,4/9/2020,4:00 PM,4:00,37:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/10/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,Nemens ADM,Friday,4/10/2020,12:00 PM,8:00,12:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/10/2020,12:00 PM,3:00,15:00
+FERA Staff Calendar,"Tripodi, FLB",Friday,4/10/2020,3:30 PM,2:00,17:00
+FERA Staff Calendar,"P.Eagle,3DF",Friday,4/10/2020,4:00 PM,4:00,21:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/10/2020,4:00 PM,4:00,25:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/10/2020,4:30 PM,6:40,31:40
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/10/2020,5:30 PM,3:00,34:40
+FERA Staff Calendar,"Hallet, 3DF",Sunday,4/12/2020,2:50 PM,2:15,2:15
+FERA Staff Calendar,"Lascheck, ADM",Monday,4/13/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J. Thoreson,FLB",Monday,4/13/2020,12:00 PM,4:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/13/2020,12:00 PM,4:00,12:00
+FERA Staff Calendar,Nemens 3DF,Monday,4/13/2020,12:00 PM,8:00,20:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,4/13/2020,12:10 PM,2:00,22:00
+FERA Staff Calendar,"P.Eagle,3DFuels",Monday,4/13/2020,2:30 PM,5:00,27:00
+FERA Staff Calendar,"Lascheck, 3DF",Monday,4/13/2020,3:00 PM,4:00,31:00
+FERA Staff Calendar,"Tripodi, FLB",Monday,4/13/2020,4:30 PM,2:00,33:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,4/13/2020,4:30 PM,4:00,37:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/13/2020,6:30 PM,3:00,40:00
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,4/14/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,4/14/2020,12:00 PM,4:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/14/2020,12:00 PM,4:00,14:00
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/14/2020,12:00 PM,1:00,15:00
+FERA Staff Calendar,Nemens 3DF,Tuesday,4/14/2020,12:00 PM,8:00,23:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,4/14/2020,2:00 PM,3:00,26:00
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/14/2020,2:30 PM,4:45,30:45
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,4/14/2020,4:30 PM,2:00,32:45
+FERA Staff Calendar,"J. Thoreson, TRN",Tuesday,4/14/2020,4:30 PM,1:30,34:15
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,4/14/2020,5:00 PM,2:00,36:15
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,4/14/2020,6:00 PM,2:30,38:45
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/14/2020,6:30 PM,2:00,40:45
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,4/15/2020,11:30 AM,4:30,4:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,4/15/2020,12:00 PM,4:00,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/15/2020,12:00 PM,4:00,12:30
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,4/15/2020,12:00 PM,4:00,16:30
+FERA Staff Calendar,Nemens 3DF,Wednesday,4/15/2020,12:00 PM,8:00,24:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/15/2020,12:15 PM,3:45,28:15
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,4/15/2020,4:00 PM,0:45,29:00
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,4/15/2020,4:00 PM,1:30,30:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/15/2020,4:00 PM,1:30,32:00
+FERA Staff Calendar,"Lascheck, ADM",Wednesday,4/15/2020,4:00 PM,2:00,34:00
+FERA Staff Calendar,"Darmody, ADM",Wednesday,4/15/2020,4:00 PM,1:06,35:06
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,4/15/2020,4:45 PM,5:15,40:21
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/15/2020,5:06 PM,1:09,41:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/15/2020,6:00 PM,2:30,44:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,4/15/2020,6:00 PM,2:00,46:00
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,4/15/2020,6:00 PM,2:30,48:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,4/16/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,4/16/2020,11:00 AM,5:30,11:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/16/2020,11:30 AM,8:30,20:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,4/16/2020,12:00 PM,3:00,23:00
+FERA Staff Calendar,Nemens 3DF,Thursday,4/16/2020,12:00 PM,8:00,31:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,4/16/2020,12:00 PM,1:45,32:45
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,4/16/2020,2:00 PM,1:00,33:45
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,4/16/2020,3:30 PM,5:00,38:45
+FERA Staff Calendar,"Lascheck, ADM",Thursday,4/16/2020,4:30 PM,2:30,41:15
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,4/16/2020,6:00 PM,1:15,42:30
+FERA Staff Calendar,"Lascheck, ADM",Friday,4/17/2020,11:00 AM,1:00,1:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/17/2020,11:30 AM,8:30,9:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/17/2020,12:00 PM,6:00,15:30
+FERA Staff Calendar,"Lascheck, 3DF",Friday,4/17/2020,12:00 PM,7:00,22:30
+FERA Staff Calendar,Nemens 3DF,Friday,4/17/2020,12:00 PM,8:00,30:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/17/2020,12:00 PM,1:00,31:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/17/2020,1:00 PM,3:00,34:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,4/17/2020,4:30 PM,3:00,37:30
+FERA Staff Calendar,"J. Thoreson, TRN",Friday,4/17/2020,7:30 PM,1:00,38:30
+FERA Staff Calendar,"Hallet, 3DF",Saturday,4/18/2020,6:50 PM,2:15,2:15
+FERA Staff Calendar,"Thoreson, 3DF",Monday,4/20/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,"Lascheck, ADM",Monday,4/20/2020,11:00 AM,0:30,10:30
+FERA Staff Calendar,"Lascheck, 3DF",Monday,4/20/2020,11:30 AM,7:30,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/20/2020,11:30 AM,4:30,22:30
+FERA Staff Calendar,Nemens ADM,Monday,4/20/2020,12:00 PM,8:00,30:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,4/20/2020,12:00 PM,2:30,33:00
+FERA Staff Calendar,"P.Eagle,3DF",Monday,4/20/2020,12:00 PM,4:45,37:45
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/20/2020,4:30 PM,4:00,41:45
+FERA Staff Calendar,"P.Eagle,DLP",Monday,4/20/2020,4:45 PM,0:15,42:00
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,4/21/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,4/21/2020,11:00 AM,9:00,9:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,4/21/2020,11:30 AM,7:30,17:00
+FERA Staff Calendar,Nemens ADM,Tuesday,4/21/2020,12:00 PM,8:00,25:00
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/21/2020,12:00 PM,6:30,31:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/21/2020,12:00 PM,4:00,35:30
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,4/21/2020,1:55 PM,3:15,38:45
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/21/2020,4:30 PM,4:00,42:45
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/21/2020,8:30 PM,2:00,44:45
+FERA Staff Calendar,Do vehicle inspection today,Wednesday,4/22/2020,10:00 AM,0:30,0:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/22/2020,11:00 AM,1:00,1:30
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,4/22/2020,11:00 AM,2:30,4:00
+FERA Staff Calendar,"Lascheck, ADM",Wednesday,4/22/2020,11:00 AM,3:30,7:30
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,4/22/2020,11:30 AM,0:30,8:00
+FERA Staff Calendar,"Hallet, ADM",Wednesday,4/22/2020,12:00 PM,1:30,9:30
+FERA Staff Calendar,Nemens ADM,Wednesday,4/22/2020,12:00 PM,8:00,17:30
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,4/22/2020,12:00 PM,1:30,19:00
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,4/22/2020,12:00 PM,1:30,20:30
+FERA Staff Calendar,"Darmody, ADM",Wednesday,4/22/2020,12:00 PM,1:30,22:00
+FERA Staff Calendar,FERA Meeting,Wednesday,4/22/2020,12:00 PM,1:30,23:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/22/2020,1:30 PM,2:30,26:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,4/22/2020,1:30 PM,2:00,28:00
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/22/2020,1:30 PM,2:00,30:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/22/2020,1:30 PM,1:00,31:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,4/22/2020,2:00 PM,5:00,36:00
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,4/22/2020,2:30 PM,4:30,40:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/22/2020,4:30 PM,3:30,44:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,4/22/2020,5:00 PM,1:15,45:15
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/22/2020,5:00 PM,1:30,46:45
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,4/22/2020,8:00 PM,0:30,47:15
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,4/22/2020,11:30 PM,3:45,51:00
+FERA Staff Calendar,"Lascheck, ADM",Thursday,4/23/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/23/2020,11:30 AM,3:30,4:00
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,4/23/2020,11:30 AM,7:30,11:30
+FERA Staff Calendar,"Thoreson, ADM",Thursday,4/23/2020,11:30 AM,0:30,12:00
+FERA Staff Calendar,Nemens ADM,Thursday,4/23/2020,12:00 PM,8:00,20:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,4/23/2020,12:00 PM,3:30,23:30
+FERA Staff Calendar,"P.Eagle, 3DF",Thursday,4/23/2020,2:30 PM,0:30,24:00
+FERA Staff Calendar,"P.Eagle, ADM",Thursday,4/23/2020,3:00 PM,0:30,24:30
+FERA Staff Calendar,"Tripodi, ADM",Thursday,4/23/2020,3:30 PM,3:30,28:00
+FERA Staff Calendar,"P.Eagle, 3DF",Thursday,4/23/2020,3:30 PM,3:45,31:45
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,4/23/2020,4:00 PM,3:00,34:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/23/2020,7:00 PM,1:00,35:45
+FERA Staff Calendar,"Lascheck, 3DF",Friday,4/24/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/24/2020,11:30 AM,2:30,8:30
+FERA Staff Calendar,Nemens ADM,Friday,4/24/2020,12:00 PM,8:00,16:30
+FERA Staff Calendar,"Thoreson, ADM",Friday,4/24/2020,12:00 PM,1:00,17:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/24/2020,12:00 PM,4:00,21:30
+FERA Staff Calendar,"Thoreson, 3DF",Friday,4/24/2020,1:00 PM,3:00,24:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,4/24/2020,4:00 PM,2:30,27:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,4/24/2020,4:30 PM,3:00,30:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,4/24/2020,4:30 PM,2:00,32:00
+FERA Staff Calendar,"Lascheck, ADM",Friday,4/24/2020,5:00 PM,2:00,34:00
+FERA Staff Calendar,"Tripodi, ADM",Friday,4/24/2020,6:30 PM,2:00,36:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,4/25/2020,10:30 AM,5:30,5:30
+FERA Staff Calendar,"Darmody, 3DF",Saturday,4/25/2020,4:30 PM,1:45,7:15
+FERA Staff Calendar,"Lascheck, ADM",Monday,4/27/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,4/27/2020,11:35 AM,2:15,10:15
+FERA Staff Calendar,"Thoreson, 3DF",Monday,4/27/2020,12:00 PM,4:00,14:15
+FERA Staff Calendar,D. Nemens 3DF,Monday,4/27/2020,12:00 PM,8:00,22:15
+FERA Staff Calendar,"Tripodi, 3DF",Monday,4/27/2020,12:00 PM,10:00,32:15
+FERA Staff Calendar,"Thoreson, 3DF",Monday,4/27/2020,4:30 PM,4:00,36:15
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,4/28/2020,11:00 AM,4:30,4:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,4/28/2020,12:00 PM,10:30,15:00
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,4/28/2020,12:00 PM,8:00,23:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,4/28/2020,12:00 PM,4:00,27:00
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/28/2020,12:00 PM,2:00,29:00
+FERA Staff Calendar,"P.Eagle,SERA",Tuesday,4/28/2020,3:00 PM,1:00,30:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,4/28/2020,3:00 PM,2:45,32:45
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,4/28/2020,3:30 PM,3:30,36:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,4/28/2020,4:30 PM,4:00,40:15
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,4/28/2020,5:00 PM,4:30,44:45
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,4/29/2020,11:45 AM,2:15,2:15
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,4/29/2020,12:00 PM,8:00,10:15
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,4/29/2020,12:00 PM,4:00,14:15
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,4/29/2020,12:00 PM,10:30,24:45
+FERA Staff Calendar,"Lascheck, ADM",Wednesday,4/29/2020,12:00 PM,5:00,29:45
+FERA Staff Calendar,"Hallet, ADM",Wednesday,4/29/2020,2:00 PM,1:30,31:15
+FERA Staff Calendar,"Darmody, ADM",Wednesday,4/29/2020,2:00 PM,1:15,32:30
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,4/29/2020,2:00 PM,1:15,33:45
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,4/29/2020,3:30 PM,5:00,38:45
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,4/29/2020,4:30 PM,4:00,42:45
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,4/29/2020,5:00 PM,3:00,45:45
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,4/29/2020,10:00 PM,1:30,47:15
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,4/29/2020,11:30 PM,0:30,47:45
+FERA Staff Calendar,"Lascheck, ADM",Thursday,4/30/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,4/30/2020,11:00 AM,5:00,5:30
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,4/30/2020,11:30 AM,7:30,13:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,4/30/2020,12:00 PM,8:00,21:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,4/30/2020,12:00 PM,11:00,32:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,4/30/2020,12:00 PM,4:00,36:00
+FERA Staff Calendar,"P.Eagle, ADM",Thursday,4/30/2020,3:00 PM,3:30,39:30
+FERA Staff Calendar,"Thoreson, TRN",Thursday,4/30/2020,4:30 PM,4:00,43:30
+FERA Staff Calendar,"P.Eagle,DLP",Thursday,4/30/2020,6:30 PM,0:15,43:45
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,4/30/2020,7:00 PM,0:30,44:15
+FERA Staff Calendar,"P.Eagle,3DF",Friday,5/1/2020,12:30 AM,0:30,0:30
+FERA Staff Calendar,"Lascheck, ADM",Friday,5/1/2020,11:00 AM,2:00,2:30
+FERA Staff Calendar,"Darmody, 3Df",Friday,5/1/2020,11:15 AM,2:15,4:45
+FERA Staff Calendar,"Thoreson, TRN",Friday,5/1/2020,12:00 PM,2:00,6:45
+FERA Staff Calendar,D. Nemens 3DF,Friday,5/1/2020,12:00 PM,8:00,14:45
+FERA Staff Calendar,"Lascheck, 3DF",Friday,5/1/2020,1:00 PM,6:00,20:45
+FERA Staff Calendar,"P.Eagle,SERA",Friday,5/1/2020,3:00 PM,1:30,22:15
+FERA Staff Calendar,"Darmody, 3DF",Friday,5/1/2020,6:00 PM,2:00,24:15
+FERA Staff Calendar,"Darmody, 3DF",Saturday,5/2/2020,11:00 AM,7:00,7:00
+FERA Staff Calendar,"Thoreson, TRN",Saturday,5/2/2020,12:00 PM,5:00,12:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,5/4/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Lascheck, ADM",Monday,5/4/2020,11:00 AM,0:30,8:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,5/4/2020,11:00 AM,10:00,18:30
+FERA Staff Calendar,"Lascheck, 3DF",Monday,5/4/2020,11:30 AM,8:00,26:30
+FERA Staff Calendar,D. Nemens ADM,Monday,5/4/2020,12:00 PM,8:00,34:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/5/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,5/5/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Lascheck, ADM",Tuesday,5/5/2020,11:00 AM,0:30,18:30
+FERA Staff Calendar,"Lascheck, 3DF",Tuesday,5/5/2020,11:30 AM,7:00,25:30
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,5/5/2020,12:00 PM,8:00,33:30
+FERA Staff Calendar,D. Nemens ADM,Tuesday,5/5/2020,12:00 PM,8:00,41:30
+FERA Staff Calendar,Darmody,Tuesday,5/5/2020,1:00 PM,4:00,45:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,5/6/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,5/6/2020,11:00 AM,7:00,17:00
+FERA Staff Calendar,"Lascheck, ADM",Wednesday,5/6/2020,11:00 AM,2:00,19:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,5/6/2020,12:00 PM,8:00,27:00
+FERA Staff Calendar,"Darmody, ADM",Wednesday,5/6/2020,1:00 PM,1:40,28:40
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,5/6/2020,1:00 PM,1:30,30:10
+FERA Staff Calendar,"Lascheck, 3DF",Wednesday,5/6/2020,1:00 PM,5:00,35:10
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,5/6/2020,6:00 PM,2:30,37:40
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,5/6/2020,6:00 PM,1:00,38:40
+FERA Staff Calendar,"Lascheck, 3DF",Thursday,5/7/2020,10:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/7/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,5/7/2020,11:00 AM,5:00,23:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,5/7/2020,12:00 PM,8:00,31:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,5/7/2020,2:00 PM,1:00,32:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,5/7/2020,3:00 PM,1:00,33:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,5/7/2020,4:00 PM,6:00,39:00
+FERA Staff Calendar,"Tripodi, TRN",Thursday,5/7/2020,4:00 PM,3:00,42:00
+FERA Staff Calendar,"Lascheck, ADM",Thursday,5/7/2020,6:00 PM,1:00,43:00
+FERA Staff Calendar,1:30-2:30pm Hacking the Academy,Thursday,5/7/2020,11:30 PM,1:00,44:00
+FERA Staff Calendar,"Tripodi, TRN",Friday,5/8/2020,11:00 AM,6:00,6:00
+FERA Staff Calendar,"Lascheck, ADM",Friday,5/8/2020,12:00 PM,3:00,9:00
+FERA Staff Calendar,D. Nemens ADM,Friday,5/8/2020,12:00 PM,8:00,17:00
+FERA Staff Calendar,"Lascheck, 3DF",Friday,5/8/2020,3:00 PM,5:00,22:00
+FERA Staff Calendar,D. Nemens 3DF,Monday,5/11/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,Tripodi 3DF,Monday,5/11/2020,11:30 AM,10:00,18:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,5/11/2020,11:45 AM,2:45,20:45
+FERA Staff Calendar,"Thoreson, 3DF",Monday,5/11/2020,12:00 PM,4:00,24:45
+FERA Staff Calendar,"P.Eagle,ADM",Monday,5/11/2020,12:30 PM,1:00,25:45
+FERA Staff Calendar,"P.Eagle,3DF",Monday,5/11/2020,1:30 PM,2:30,28:15
+FERA Staff Calendar,"Thoreson, 3DF",Monday,5/11/2020,4:30 PM,4:00,32:15
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,5/12/2020,12:00 AM,1:00,1:00
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,5/12/2020,11:00 AM,8:00,9:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,5/12/2020,11:30 AM,10:00,19:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/12/2020,12:00 PM,4:00,23:00
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,5/12/2020,12:00 PM,8:00,31:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,5/12/2020,1:50 PM,3:00,34:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/12/2020,4:30 PM,4:00,38:00
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,5/12/2020,11:00 PM,2:30,40:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,5/13/2020,10:00 AM,3:30,3:30
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,5/13/2020,11:00 AM,8:00,11:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,5/13/2020,11:30 AM,10:00,21:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/13/2020,12:00 PM,1:30,23:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,5/13/2020,12:00 PM,4:00,27:00
+FERA Staff Calendar,"Darmody, ADM",Wednesday,5/13/2020,1:30 PM,1:00,28:00
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,5/13/2020,1:30 PM,1:15,29:15
+FERA Staff Calendar,"Hallet, ADM",Wednesday,5/13/2020,1:30 PM,1:00,30:15
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/13/2020,2:30 PM,0:30,30:45
+FERA Staff Calendar,"P.Eagle, 3DF",Wednesday,5/13/2020,2:45 PM,3:15,34:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,5/13/2020,4:30 PM,4:00,38:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,5/14/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,5/14/2020,11:30 AM,10:00,18:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/14/2020,12:00 PM,4:00,22:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,5/14/2020,1:00 PM,3:00,25:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,5/14/2020,4:00 PM,2:45,27:45
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/14/2020,4:30 PM,3:00,30:45
+FERA Staff Calendar,"Thoreson, TRN",Thursday,5/14/2020,7:30 PM,1:00,31:45
+FERA Staff Calendar,D. Nemens 3DF,Friday,5/15/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, TRN",Friday,5/15/2020,12:00 PM,4:00,12:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,5/15/2020,1:30 PM,6:30,18:30
+FERA Staff Calendar,"Thoreson, 3DF",Friday,5/15/2020,4:30 PM,4:00,22:30
+FERA Staff Calendar,D. Nemens 3DF,Saturday,5/16/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Sunday,5/17/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens 3DF,Sunday,5/17/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,5/18/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,5/18/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,D. Nemens ADM,Monday,5/18/2020,11:00 AM,8:00,26:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,5/18/2020,12:00 PM,2:30,28:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/19/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,5/19/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,5/19/2020,11:00 AM,8:00,26:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,5/19/2020,1:00 PM,7:00,33:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,5/19/2020,1:45 PM,2:35,35:35
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,5/20/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,5/20/2020,11:00 AM,8:00,10:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,5/20/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/20/2020,12:00 PM,0:30,18:30
+FERA Staff Calendar,"Hallet, ADM",Wednesday,5/20/2020,12:30 PM,1:00,19:30
+FERA Staff Calendar,"Darmody, ADM",Wednesday,5/20/2020,12:30 PM,1:00,20:30
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,5/20/2020,12:30 PM,1:00,21:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/20/2020,1:30 PM,1:00,22:30
+FERA Staff Calendar,"P.Eagle, DLP",Wednesday,5/20/2020,1:30 PM,3:00,25:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,5/20/2020,1:30 PM,6:00,31:30
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,5/20/2020,4:30 PM,0:30,32:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/21/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,5/21/2020,11:00 AM,8:00,12:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,5/21/2020,11:00 AM,8:00,20:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,5/21/2020,1:30 PM,4:30,24:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/21/2020,3:30 PM,2:00,26:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,5/21/2020,6:00 PM,4:00,30:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,5/22/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,D. Nemens ADM,Friday,5/22/2020,11:00 AM,8:00,10:00
+FERA Staff Calendar,"Thoreson, TRN",Friday,5/22/2020,11:00 AM,6:00,16:00
+FERA Staff Calendar,"Tripodi, TRN",Friday,5/22/2020,1:00 PM,6:00,22:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,5/22/2020,3:00 PM,3:00,25:00
+FERA Staff Calendar,"Darmody, ADM",Saturday,5/23/2020,1:15 PM,1:00,1:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,5/23/2020,2:15 PM,4:00,5:00
+FERA Staff Calendar,D. Nemens ADM,Monday,5/25/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, LVE",Monday,5/25/2020,12:00 PM,8:00,16:00
+FERA Staff Calendar,"Thoreson, LVE",Monday,5/25/2020,12:00 PM,8:00,24:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,5/26/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Darmody, ADM",Tuesday,5/26/2020,12:00 PM,1:15,9:15
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,5/26/2020,12:00 PM,4:00,13:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/26/2020,12:00 PM,4:00,17:15
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,5/26/2020,3:00 PM,2:00,19:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,5/26/2020,4:30 PM,4:00,23:15
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,5/26/2020,6:00 PM,5:00,28:15
+FERA Staff Calendar,D. Nemens ADM,Wednesday,5/27/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,5/27/2020,12:00 PM,4:00,12:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/27/2020,12:00 PM,1:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,5/27/2020,12:00 PM,10:00,23:00
+FERA Staff Calendar,"Hallet, ADM",Wednesday,5/27/2020,1:00 PM,1:00,24:00
+FERA Staff Calendar,"Darmody, ADM",Wednesday,5/27/2020,1:00 PM,1:00,25:00
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,5/27/2020,1:00 PM,7:30,32:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,5/27/2020,2:00 PM,0:30,33:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,5/27/2020,4:30 PM,4:00,37:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,5/28/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,5/28/2020,12:00 PM,11:00,19:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/28/2020,12:00 PM,4:00,23:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,5/28/2020,4:30 PM,4:00,27:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,5/29/2020,10:30 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens ADM,Friday,5/29/2020,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,5/29/2020,12:00 PM,2:00,15:00
+FERA Staff Calendar,"Thoreson, TRN",Friday,5/29/2020,12:00 PM,4:00,19:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,5/29/2020,4:30 PM,4:00,23:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,5/30/2020,3:00 PM,2:00,2:00
+FERA Staff Calendar,"Darmody, ADM",Saturday,5/30/2020,5:00 PM,2:25,4:25
+FERA Staff Calendar,D. Nemens ADM,Monday,6/1/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,6/1/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,6/1/2020,11:00 AM,4:00,22:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,6/1/2020,11:00 AM,8:00,30:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/1/2020,12:00 PM,2:00,32:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,6/2/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/2/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,6/2/2020,11:00 AM,8:00,26:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,6/2/2020,12:30 PM,3:00,29:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,6/3/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,6/3/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,6/3/2020,11:00 AM,10:00,26:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/3/2020,12:00 PM,0:30,26:30
+FERA Staff Calendar,"Darmody, ADM",Wednesday,6/3/2020,12:30 PM,1:00,27:30
+FERA Staff Calendar,"Hallet, ADM",Wednesday,6/3/2020,12:30 PM,1:00,28:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/3/2020,1:30 PM,1:00,29:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,6/4/2020,11:00 AM,1:30,1:30
+FERA Staff Calendar,D. Nemens ADM,Thursday,6/4/2020,11:00 AM,8:00,9:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,6/4/2020,11:00 AM,10:00,19:30
+FERA Staff Calendar,"Tripodi, TRN",Thursday,6/4/2020,12:30 PM,6:30,26:00
+FERA Staff Calendar,D. Nemens ADM,Friday,6/5/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, TRN",Friday,6/5/2020,11:00 AM,6:30,14:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,6/5/2020,5:30 PM,1:30,16:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,6/6/2020,12:00 PM,5:00,5:00
+FERA Staff Calendar,"Darmody, 3DF",Sunday,6/7/2020,10:15 AM,6:10,6:10
+FERA Staff Calendar,"Thoreson, ADM",Monday,6/8/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens 3DF,Monday,6/8/2020,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,6/8/2020,12:00 PM,10:00,23:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/8/2020,12:15 PM,2:00,25:00
+FERA Staff Calendar,"P.Eagle,3DF",Monday,6/8/2020,1:00 PM,7:00,32:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,6/8/2020,4:30 PM,3:00,35:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/9/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,6/9/2020,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,6/9/2020,12:00 PM,10:00,23:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,6/9/2020,3:55 PM,2:00,25:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/9/2020,4:30 PM,3:00,28:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,6/10/2020,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,6/10/2020,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,6/10/2020,11:30 AM,6:30,19:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,6/10/2020,12:00 PM,10:00,29:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/10/2020,12:00 PM,4:30,34:00
+FERA Staff Calendar,"Thoreson, TRN",Wednesday,6/10/2020,4:30 PM,3:00,37:00
+FERA Staff Calendar,"Thoreson, TRN",Thursday,6/11/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,6/11/2020,11:00 AM,8:00,10:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,6/11/2020,11:30 AM,5:30,15:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,6/11/2020,1:00 PM,3:00,18:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,6/11/2020,1:30 PM,2:30,21:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,6/11/2020,2:15 PM,1:45,22:45
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,6/11/2020,3:00 PM,2:00,24:45
+FERA Staff Calendar,"Darmody, ADM",Thursday,6/11/2020,4:00 PM,1:00,25:45
+FERA Staff Calendar,"Hallet, ADM",Thursday,6/11/2020,4:00 PM,1:00,26:45
+FERA Staff Calendar,"Thoreson, ADM",Thursday,6/11/2020,4:00 PM,1:00,27:45
+FERA Staff Calendar,"Tripodi, Sick Leave",Thursday,6/11/2020,5:00 PM,3:30,31:15
+FERA Staff Calendar,"Darmody, 3DF",Thursday,6/11/2020,5:00 PM,1:30,32:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,6/11/2020,8:30 PM,1:00,33:45
+FERA Staff Calendar,"Thoreson, LVE",Friday,6/12/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,6/12/2020,11:00 AM,2:00,10:00
+FERA Staff Calendar,D. Nemens 3DF,Friday,6/12/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,6/12/2020,3:00 PM,1:30,19:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,6/15/2020,11:00 AM,9:30,9:30
+FERA Staff Calendar,D. Nemens ADM,Monday,6/15/2020,11:00 AM,8:00,17:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,6/15/2020,11:30 AM,10:00,27:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/15/2020,12:40 PM,2:00,29:30
+FERA Staff Calendar,"P.Eagle, 3DF",Monday,6/15/2020,1:00 PM,7:00,36:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/15/2020,4:00 PM,3:00,39:30
+FERA Staff Calendar,"Thoreson, ADM",Monday,6/15/2020,8:30 PM,0:30,40:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/16/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,6/16/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,6/16/2020,11:30 AM,10:00,28:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,6/16/2020,12:00 PM,1:00,29:00
+FERA Staff Calendar,"Hallet, ADM",Tuesday,6/16/2020,12:00 PM,1:00,30:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,6/16/2020,1:00 PM,4:00,34:00
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,6/16/2020,1:00 PM,0:30,34:30
+FERA Staff Calendar,"P.Eagle, ADM",Tuesday,6/16/2020,1:30 PM,1:00,35:30
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,6/16/2020,2:00 PM,7:15,42:45
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,6/16/2020,2:30 PM,7:30,50:15
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,6/17/2020,11:00 AM,7:00,7:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,6/17/2020,11:00 AM,8:00,15:00
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,6/17/2020,11:30 AM,1:30,16:30
+FERA Staff Calendar,"Tripodi, Sick LVE",Wednesday,6/17/2020,12:00 PM,3:00,19:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/17/2020,12:00 PM,5:00,24:30
+FERA Staff Calendar,Eye appointment,Wednesday,6/17/2020,12:30 PM,1:00,25:30
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,6/17/2020,1:00 PM,7:00,32:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,6/17/2020,3:00 PM,7:00,39:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,6/18/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,6/18/2020,11:00 AM,10:00,14:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,6/18/2020,11:00 AM,8:00,22:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,6/18/2020,11:30 AM,10:00,32:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,6/18/2020,12:00 PM,4:30,36:30
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,6/18/2020,12:30 PM,4:00,40:30
+FERA Staff Calendar,"P.Eagle, ADM",Thursday,6/18/2020,4:30 PM,0:30,41:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,6/18/2020,5:00 PM,1:00,42:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,6/18/2020,5:30 PM,2:00,44:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,6/19/2020,10:30 AM,3:30,3:30
+FERA Staff Calendar,"Thoreson, 3DF",Friday,6/19/2020,11:00 AM,4:00,7:30
+FERA Staff Calendar,D. Nemens ADM,Friday,6/19/2020,11:00 AM,8:00,15:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,6/19/2020,12:40 PM,4:30,20:00
+FERA Staff Calendar,"P.Eagle,DLP",Friday,6/19/2020,1:00 PM,1:00,21:00
+FERA Staff Calendar,"Thoreson, TRN",Friday,6/19/2020,3:00 PM,6:00,27:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,6/19/2020,3:00 PM,3:00,30:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,6/20/2020,10:30 AM,5:00,5:00
+FERA Staff Calendar,"Darmody, 3DF",Saturday,6/20/2020,6:30 PM,1:15,6:15
+FERA Staff Calendar,"Darmody, 3DF",Sunday,6/21/2020,10:30 AM,2:00,2:00
+FERA Staff Calendar,D. Nemens 3DF,Monday,6/22/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,6/22/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,6/22/2020,11:00 AM,1:00,19:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/22/2020,12:00 PM,5:00,24:00
+FERA Staff Calendar,"Tripodi, Sick LVE",Monday,6/22/2020,12:00 PM,7:00,31:00
+FERA Staff Calendar,"P.Eagle,3DF",Monday,6/22/2020,2:30 PM,1:15,32:15
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/22/2020,4:00 PM,2:00,34:15
+FERA Staff Calendar,"P.Eagle, DLP",Monday,6/22/2020,4:00 PM,4:30,38:45
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,6/23/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, Sick LVE",Tuesday,6/23/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/23/2020,11:00 AM,10:00,26:00
+FERA Staff Calendar,"Darmody, TRN",Tuesday,6/23/2020,11:00 AM,0:40,26:40
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,6/23/2020,12:00 PM,5:00,31:40
+FERA Staff Calendar,"P.Eagle, 3DF",Tuesday,6/23/2020,12:00 PM,8:00,39:40
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,6/23/2020,4:30 PM,1:45,41:25
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,6/24/2020,10:00 AM,2:30,2:30
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,6/24/2020,11:00 AM,8:00,10:30
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,6/24/2020,11:00 AM,2:30,13:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/24/2020,12:00 PM,0:30,13:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,6/24/2020,12:00 PM,2:00,15:30
+FERA Staff Calendar,"Darmody, ADM",Wednesday,6/24/2020,12:30 PM,1:05,16:35
+FERA Staff Calendar,"Hallet, ADM",Wednesday,6/24/2020,12:30 PM,1:30,18:05
+FERA Staff Calendar,"P.Eagle, ADM",Wednesday,6/24/2020,12:30 PM,1:00,19:05
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,6/24/2020,1:30 PM,7:30,26:35
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,6/24/2020,1:30 PM,2:30,29:05
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,6/24/2020,2:00 PM,1:30,30:35
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,6/24/2020,2:00 PM,3:00,33:35
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,6/24/2020,3:30 PM,1:00,34:35
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,6/24/2020,4:00 PM,4:30,39:05
+FERA Staff Calendar,"Tripodi, Sick LVE",Wednesday,6/24/2020,4:30 PM,1:30,40:35
+FERA Staff Calendar,D. Nemens 3DF,Thursday,6/25/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, TRN",Thursday,6/25/2020,11:00 AM,4:00,12:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,6/25/2020,11:00 AM,10:00,22:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,6/25/2020,12:00 PM,8:00,30:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,6/25/2020,12:00 PM,5:00,35:00
+FERA Staff Calendar,"Tripodi, Sick LVE",Thursday,6/25/2020,3:00 PM,4:00,39:00
+FERA Staff Calendar,D. Nemens 3DF,Friday,6/26/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, UAV",Friday,6/26/2020,11:45 AM,10:30,18:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,6/26/2020,12:00 PM,5:00,23:30
+FERA Staff Calendar,,Sunday,6/28/2020,1:30 PM,1:00,1:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,6/29/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, Sick LVE",Monday,6/29/2020,11:00 AM,2:00,10:00
+FERA Staff Calendar,D. Nemens ADM,Monday,6/29/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"P.Eagle,FLB",Monday,6/29/2020,12:00 PM,8:00,26:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,6/29/2020,12:00 PM,3:00,29:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,6/29/2020,1:00 PM,0:30,29:30
+FERA Staff Calendar,"Tripodi, AMFAV",Monday,6/29/2020,1:30 PM,1:30,31:00
+FERA Staff Calendar,"Tripodi, UAV",Monday,6/29/2020,3:00 PM,2:30,33:30
+FERA Staff Calendar,"Tripodi, ADM",Monday,6/29/2020,5:30 PM,1:00,34:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,6/29/2020,6:30 PM,4:30,39:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,6/30/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,6/30/2020,11:00 AM,1:30,9:30
+FERA Staff Calendar,"Tripodi, UAV",Tuesday,6/30/2020,12:00 PM,2:00,11:30
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,6/30/2020,12:00 PM,4:00,15:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,6/30/2020,12:30 PM,6:30,22:00
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,6/30/2020,4:00 PM,1:00,23:00
+FERA Staff Calendar,"Darmody, ADM",Tuesday,6/30/2020,4:00 PM,1:00,24:00
+FERA Staff Calendar,"Hallet, ADM",Tuesday,6/30/2020,4:00 PM,1:00,25:00
+FERA Staff Calendar,"Tripodi, UAV",Tuesday,6/30/2020,5:00 PM,4:30,29:30
+FERA Staff Calendar,"Thoreson, LVE",Wednesday,7/1/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,7/1/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,7/1/2020,11:00 AM,8:00,24:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,7/1/2020,12:00 PM,5:00,29:00
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,7/1/2020,1:00 PM,2:30,31:30
+FERA Staff Calendar,"Darmody, TRN",Wednesday,7/1/2020,3:00 PM,1:15,32:45
+FERA Staff Calendar,"Tripodi, AMFAV",Wednesday,7/1/2020,3:30 PM,2:30,35:15
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,7/1/2020,8:30 PM,0:55,36:10
+FERA Staff Calendar,"Thoreson, LVE",Thursday,7/2/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,7/2/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,7/2/2020,11:00 AM,8:00,24:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,7/2/2020,1:00 PM,4:30,28:30
+FERA Staff Calendar,"Hallet, 3DF",Thursday,7/2/2020,1:15 PM,5:00,33:30
+FERA Staff Calendar,"Tripodi, TRN",Thursday,7/2/2020,5:30 PM,3:00,36:30
+FERA Staff Calendar,"Thoreson, LVE",Friday,7/3/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, LVE",Friday,7/3/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,D. Nemens LVE,Friday,7/3/2020,11:00 AM,8:00,24:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,7/3/2020,12:15 PM,5:00,29:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,7/6/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,D. Nemens 3DF,Monday,7/6/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,7/6/2020,11:15 AM,11:00,29:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,7/6/2020,12:00 PM,6:00,35:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,7/6/2020,1:00 PM,5:00,40:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,7/6/2020,3:45 PM,3:15,43:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,7/7/2020,11:00 AM,10:00,10:00
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,7/7/2020,11:00 AM,8:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,7/7/2020,11:30 AM,10:00,28:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,7/7/2020,12:00 PM,6:00,34:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,7/7/2020,2:00 PM,4:00,38:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,7/8/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,7/8/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,7/8/2020,11:00 AM,1:00,17:00
+FERA Staff Calendar,"P.Eagle,FLB",Wednesday,7/8/2020,12:00 PM,6:00,23:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,7/8/2020,12:00 PM,9:00,32:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,7/8/2020,12:45 PM,0:15,32:15
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,7/8/2020,1:00 PM,0:45,33:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,7/8/2020,1:15 PM,3:15,36:15
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,7/8/2020,4:30 PM,2:00,38:15
+FERA Staff Calendar,"Darmody, ADM",Wednesday,7/8/2020,4:30 PM,2:00,40:15
+FERA Staff Calendar,"Hallet, ADM",Wednesday,7/8/2020,4:30 PM,1:45,42:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,7/8/2020,6:30 PM,0:45,42:45
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,7/8/2020,9:00 PM,2:30,45:15
+FERA Staff Calendar,D. Nemens 3DF,Thursday,7/9/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,7/9/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,7/9/2020,11:00 AM,8:00,26:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,7/9/2020,12:00 PM,6:00,32:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,7/9/2020,12:00 PM,3:00,35:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,7/9/2020,1:00 PM,5:00,40:00
+FERA Staff Calendar,"Tripodi, TRN",Thursday,7/9/2020,3:00 PM,0:30,40:30
+FERA Staff Calendar,"Tripodi, ADM",Thursday,7/9/2020,3:30 PM,4:30,45:00
+FERA Staff Calendar,D. Nemens 3DF,Friday,7/10/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"P.Eagle,FLB",Friday,7/10/2020,12:00 PM,6:00,14:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,7/10/2020,12:00 PM,8:30,22:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,7/10/2020,12:25 PM,5:00,27:30
+FERA Staff Calendar,"Darmody, 3DF ",Friday,7/10/2020,7:20 PM,1:25,28:55
+FERA Staff Calendar,"Darmody, 3DF",Saturday,7/11/2020,1:00 PM,2:50,2:50
+FERA Staff Calendar,Tyler's Wedding,Sunday,7/12/2020,1:00 PM,1:00,1:00
+FERA Staff Calendar,D. Nemens ADM,Monday,7/13/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,7/13/2020,11:00 AM,10:00,18:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,7/13/2020,12:00 PM,1:30,19:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,7/13/2020,12:45 PM,4:30,24:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,7/13/2020,1:00 PM,3:00,27:00
+FERA Staff Calendar,"Tripodi, UAV",Monday,7/13/2020,1:30 PM,8:00,35:00
+FERA Staff Calendar,"P.Eagle,3DF",Monday,7/13/2020,4:00 PM,1:00,36:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,7/13/2020,5:00 PM,3:00,39:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,7/14/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,7/14/2020,11:00 AM,10:30,18:30
+FERA Staff Calendar,"Tripodi, Sick LVE",Tuesday,7/14/2020,11:00 AM,8:00,26:30
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,7/14/2020,12:30 PM,5:00,31:30
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,7/14/2020,1:00 PM,8:00,39:30
+FERA Staff Calendar,"Thoreson, JMV",Wednesday,7/15/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,7/15/2020,10:30 AM,2:00,13:00
+FERA Staff Calendar,"Tripodi, Sick LVE",Wednesday,7/15/2020,11:00 AM,8:00,21:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,7/15/2020,11:00 AM,8:00,29:00
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,7/15/2020,1:00 PM,8:00,37:00
+FERA Staff Calendar,Darmody,Wednesday,7/15/2020,1:00 PM,4:30,41:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,7/15/2020,1:00 PM,5:00,46:30
+FERA Staff Calendar,D. Nemens 3DF,Thursday,7/16/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, ADM",Thursday,7/16/2020,11:30 AM,1:45,9:45
+FERA Staff Calendar,"Thoreson, UAV",Thursday,7/16/2020,12:00 PM,4:30,14:15
+FERA Staff Calendar,"Hallet, 3DF",Thursday,7/16/2020,12:45 PM,3:45,18:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,7/16/2020,1:00 PM,4:30,22:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,7/16/2020,1:15 PM,3:15,25:45
+FERA Staff Calendar,"Darmody, 3DF",Thursday,7/16/2020,1:45 PM,1:45,27:30
+FERA Staff Calendar,"Hallet, ADM",Thursday,7/16/2020,4:30 PM,1:15,28:45
+FERA Staff Calendar,"Thoreson, ADM",Thursday,7/16/2020,4:30 PM,1:00,29:45
+FERA Staff Calendar,"Darmody, ADM",Thursday,7/16/2020,4:30 PM,1:00,30:45
+FERA Staff Calendar,"Tripodi, ADM",Thursday,7/16/2020,4:30 PM,1:00,31:45
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,7/16/2020,5:30 PM,1:00,32:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,7/16/2020,5:30 PM,2:30,35:15
+FERA Staff Calendar,"Thoreson, UAV",Thursday,7/16/2020,5:30 PM,4:00,39:15
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,7/16/2020,6:30 PM,1:30,40:45
+FERA Staff Calendar,D. Nemens ADM,Friday,7/17/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, ADM",Friday,7/17/2020,11:30 AM,0:30,8:30
+FERA Staff Calendar,"Tripodi, FLB",Friday,7/17/2020,12:00 PM,2:30,11:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,7/17/2020,12:30 PM,5:00,16:00
+FERA Staff Calendar,"Tripodi, TRN",Friday,7/17/2020,2:30 PM,1:30,17:30
+FERA Staff Calendar,"Tripodi, ADM",Friday,7/17/2020,4:00 PM,1:00,18:30
+FERA Staff Calendar,"Tripodi, TRN",Friday,7/17/2020,5:00 PM,0:30,19:00
+FERA Staff Calendar,"P.Eagle, FLB",Monday,7/20/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens ADM,Monday,7/20/2020,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Thoreson, UAV",Monday,7/20/2020,11:00 AM,10:00,26:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,7/20/2020,11:30 AM,8:15,34:15
+FERA Staff Calendar,"Hallet, 3DF",Monday,7/20/2020,12:15 PM,5:00,39:15
+FERA Staff Calendar,"Thoreson, JMV",Tuesday,7/21/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,7/21/2020,11:00 AM,8:00,19:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,7/21/2020,11:00 AM,8:00,27:00
+FERA Staff Calendar,"Tripodi, UAS",Tuesday,7/21/2020,11:30 AM,3:30,30:30
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,7/21/2020,3:00 PM,1:30,32:00
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,7/21/2020,4:30 PM,3:00,35:00
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,7/22/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,7/22/2020,11:30 AM,4:00,12:00
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,7/22/2020,11:30 AM,2:00,14:00
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,7/22/2020,12:00 PM,1:00,15:00
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,7/22/2020,1:00 PM,7:00,22:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,7/22/2020,1:30 PM,3:30,25:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,7/22/2020,3:30 PM,4:00,29:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,7/22/2020,5:00 PM,1:00,30:30
+FERA Staff Calendar,"Darmody, ADM ",Wednesday,7/22/2020,5:00 PM,1:00,31:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,7/22/2020,6:00 PM,1:30,33:00
+FERA Staff Calendar,"Thoreson, UAV",Thursday,7/23/2020,11:00 AM,10:30,10:30
+FERA Staff Calendar,D. Nemens 3DF,Thursday,7/23/2020,11:00 AM,8:00,18:30
+FERA Staff Calendar,"Tripodi, Rx",Thursday,7/23/2020,11:00 AM,13:00,31:30
+FERA Staff Calendar,"Hallet, 3DF",Thursday,7/23/2020,12:30 PM,5:00,36:30
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,7/23/2020,1:00 PM,6:00,42:30
+FERA Staff Calendar,D. Nemens 3DF,Friday,7/24/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,7/24/2020,12:30 PM,5:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,7/24/2020,12:30 PM,5:15,18:15
+FERA Staff Calendar,"Darmody, 3DF",Saturday,7/25/2020,10:00 AM,4:15,4:15
+FERA Staff Calendar,"Darmody, 3DF",Saturday,7/25/2020,6:30 PM,2:00,6:15
+FERA Staff Calendar,"Darmody, 3DF",Sunday,7/26/2020,11:30 AM,3:00,3:00
+FERA Staff Calendar,"Hallet, UAV",Monday,7/27/2020,9:30 AM,5:00,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,7/27/2020,10:15 AM,11:45,16:45
+FERA Staff Calendar,"Thoreson, 3DF",Monday,7/27/2020,10:30 AM,10:30,27:15
+FERA Staff Calendar,D. Nemens ADM,Monday,7/27/2020,11:00 AM,8:00,35:15
+FERA Staff Calendar,"Hallet, UAV",Monday,7/27/2020,3:30 PM,5:00,40:15
+FERA Staff Calendar,"Hallet, UAV",Tuesday,7/28/2020,9:30 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,7/28/2020,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,7/28/2020,11:00 AM,4:00,17:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,7/28/2020,11:00 AM,11:15,28:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,7/28/2020,3:00 PM,5:30,33:45
+FERA Staff Calendar,"Hallet, UAV",Tuesday,7/28/2020,3:30 PM,5:00,38:45
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,7/28/2020,10:15 PM,0:30,39:15
+FERA Staff Calendar,D. Nemens ADM,Wednesday,7/29/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,7/29/2020,11:30 AM,3:30,11:30
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,7/29/2020,12:00 PM,3:00,14:30
+FERA Staff Calendar,Truck Recall Appointment,Wednesday,7/29/2020,1:00 PM,1:00,15:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,7/29/2020,2:15 PM,1:45,17:15
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,7/29/2020,3:00 PM,2:00,19:15
+FERA Staff Calendar,"Thoreson, TRN",Wednesday,7/29/2020,3:00 PM,5:00,24:15
+FERA Staff Calendar,"Hallet, ADM",Wednesday,7/29/2020,4:00 PM,1:30,25:45
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,7/29/2020,5:30 PM,1:45,27:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,7/29/2020,5:30 PM,1:30,29:00
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,7/29/2020,7:00 PM,1:00,30:00
+FERA Staff Calendar,D. Nemens AL,Thursday,7/30/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, TRN",Thursday,7/30/2020,12:00 PM,2:00,10:00
+FERA Staff Calendar,D. Nemens AL,Friday,7/31/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,7/31/2020,11:00 AM,10:30,18:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/3/2020,10:30 AM,4:30,4:30
+FERA Staff Calendar,"Tripodi, TRN",Monday,8/3/2020,11:00 AM,4:00,8:30
+FERA Staff Calendar,D. Nemens AL,Monday,8/3/2020,11:00 AM,8:00,16:30
+FERA Staff Calendar,"Thoreson, TRN",Monday,8/3/2020,11:00 AM,7:00,23:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,8/3/2020,1:30 PM,2:00,25:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,8/3/2020,3:00 PM,3:00,28:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/3/2020,3:30 PM,2:30,31:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,8/3/2020,4:00 PM,2:00,33:00
+FERA Staff Calendar,"Hallet, ADM",Monday,8/3/2020,6:00 PM,1:10,34:10
+FERA Staff Calendar,"Thoreson, ADM",Monday,8/3/2020,6:00 PM,2:00,36:10
+FERA Staff Calendar,"Darmody, ADM",Monday,8/3/2020,6:00 PM,1:00,37:10
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/3/2020,7:00 PM,0:20,37:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,8/3/2020,7:00 PM,0:30,38:00
+FERA Staff Calendar,"Tripodi, TRN",Monday,8/3/2020,7:30 PM,1:00,39:00
+FERA Staff Calendar,D. Nemens AL,Tuesday,8/4/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,8/4/2020,11:00 AM,5:30,13:30
+FERA Staff Calendar,"Tripodi, TRN",Tuesday,8/4/2020,12:00 PM,7:30,21:00
+FERA Staff Calendar,"P.Eagle,FLB",Tuesday,8/4/2020,12:00 PM,8:00,29:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,8/4/2020,2:00 PM,5:00,34:00
+FERA Staff Calendar,"Thoreson, UAV",Wednesday,8/5/2020,9:30 AM,10:30,10:30
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,8/5/2020,10:30 AM,2:30,13:00
+FERA Staff Calendar,D. Nemens AL,Wednesday,8/5/2020,11:00 AM,8:00,21:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,8/5/2020,11:00 AM,4:00,25:00
+FERA Staff Calendar,"Tripodi, UAV",Wednesday,8/5/2020,2:00 PM,6:30,31:30
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,8/5/2020,2:55 PM,4:50,36:20
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,8/5/2020,3:30 PM,4:10,40:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,8/6/2020,10:30 AM,8:30,8:30
+FERA Staff Calendar,D. Nemens AL,Thursday,8/6/2020,11:00 AM,8:00,16:30
+FERA Staff Calendar,"Thoreson, ADM",Thursday,8/6/2020,12:00 PM,2:00,18:30
+FERA Staff Calendar,"Thoreson, UAV",Thursday,8/6/2020,2:00 PM,5:30,24:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,8/6/2020,2:10 PM,5:00,29:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,8/6/2020,3:00 PM,4:00,33:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,8/6/2020,7:30 PM,3:00,36:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,8/7/2020,10:30 AM,10:30,10:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,8/7/2020,10:30 AM,10:30,21:00
+FERA Staff Calendar,D. Nemens ADM,Friday,8/7/2020,11:00 AM,8:00,29:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,8/7/2020,12:00 PM,6:30,35:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,8/7/2020,1:50 PM,2:00,37:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,8/7/2020,4:20 PM,3:30,41:00
+FERA Staff Calendar,D. Nemens 3DF,Monday,8/10/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,8/10/2020,11:30 AM,2:30,10:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/10/2020,12:00 PM,4:30,15:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,8/10/2020,1:00 PM,3:00,18:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,8/10/2020,1:50 PM,1:40,19:40
+FERA Staff Calendar,"Thoreson, ADM",Monday,8/10/2020,4:00 PM,1:30,21:10
+FERA Staff Calendar,"Tripodi, ADM",Monday,8/10/2020,4:30 PM,1:00,22:10
+FERA Staff Calendar,"Hallet, ADM",Monday,8/10/2020,4:30 PM,1:00,23:10
+FERA Staff Calendar,"Darmody, ADM",Monday,8/10/2020,4:30 PM,1:00,24:10
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/10/2020,5:30 PM,2:00,26:10
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,8/11/2020,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,8/11/2020,11:30 AM,1:30,9:30
+FERA Staff Calendar,"Thoreson, JMV",Tuesday,8/11/2020,11:30 AM,9:30,19:00
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,8/11/2020,12:30 PM,7:00,26:00
+FERA Staff Calendar,"Tripodi, TRN",Tuesday,8/11/2020,1:00 PM,3:30,29:30
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,8/11/2020,1:20 PM,3:30,33:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,8/11/2020,4:30 PM,3:30,36:30
+FERA Staff Calendar,"Tripodi, UAV",Wednesday,8/12/2020,11:00 AM,5:30,5:30
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,8/12/2020,11:00 AM,8:00,13:30
+FERA Staff Calendar,"Thoreson, UAV",Wednesday,8/12/2020,12:00 PM,4:30,18:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,8/12/2020,12:20 PM,5:10,23:10
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,8/12/2020,1:30 PM,5:00,28:10
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,8/12/2020,4:30 PM,3:00,31:10
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,8/12/2020,5:00 PM,3:00,34:10
+FERA Staff Calendar,"Tripodi, ADM",Thursday,8/13/2020,11:00 AM,4:30,4:30
+FERA Staff Calendar,D. Nemens 3DF,Thursday,8/13/2020,11:00 AM,8:00,12:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,8/13/2020,11:30 AM,5:00,17:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,8/13/2020,12:15 PM,5:30,23:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,8/13/2020,3:30 PM,4:00,27:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,8/13/2020,4:30 PM,1:00,28:00
+FERA Staff Calendar,"Tripodi, UAV",Friday,8/14/2020,8:45 AM,12:45,12:45
+FERA Staff Calendar,"Darmody, UAV",Friday,8/14/2020,9:00 AM,12:30,25:15
+FERA Staff Calendar,"Thoreson, UAV",Friday,8/14/2020,9:00 AM,12:30,37:45
+FERA Staff Calendar,D. Nemens 3DF,Friday,8/14/2020,11:00 AM,8:00,45:45
+FERA Staff Calendar,"Tripodi, 3DF",Monday,8/17/2020,10:30 AM,11:00,11:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/17/2020,12:00 PM,6:00,17:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,8/17/2020,12:30 PM,8:00,25:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,8/17/2020,2:50 PM,3:10,28:10
+FERA Staff Calendar,"Darmody, ADM",Monday,8/17/2020,6:00 PM,0:45,28:55
+FERA Staff Calendar,"Hallet, ADM",Monday,8/17/2020,6:00 PM,1:00,29:55
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/17/2020,6:45 PM,0:15,30:10
+FERA Staff Calendar,"Thoreson, UAV",Monday,8/17/2020,8:30 PM,1:00,31:10
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,8/18/2020,10:00 AM,10:30,10:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,8/18/2020,10:00 AM,10:30,21:00
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,8/18/2020,12:50 PM,3:10,24:10
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,8/18/2020,2:15 PM,4:45,28:55
+FERA Staff Calendar,"Darmody, UAV",Wednesday,8/19/2020,8:30 AM,12:10,12:10
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,8/19/2020,10:00 AM,11:30,23:40
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,8/19/2020,10:00 AM,11:30,35:10
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,8/19/2020,1:30 PM,5:00,40:10
+FERA Staff Calendar,"Darmody, UAV",Thursday,8/20/2020,8:30 AM,12:00,12:00
+FERA Staff Calendar,"Hallet, UAV",Thursday,8/20/2020,9:00 AM,6:00,18:00
+FERA Staff Calendar,N_Tripodi ADM,Thursday,8/20/2020,10:45 AM,0:30,18:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,8/20/2020,11:15 AM,0:30,19:00
+FERA Staff Calendar,"Tripodi, ADM",Thursday,8/20/2020,11:45 AM,6:30,25:30
+FERA Staff Calendar,,Thursday,8/20/2020,12:00 PM,8:00,33:30
+FERA Staff Calendar,"Hallet, UAV",Thursday,8/20/2020,4:00 PM,4:30,38:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,8/20/2020,6:15 PM,1:00,39:00
+FERA Staff Calendar,,Friday,8/21/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"Hallet, 3DF",Friday,8/21/2020,1:35 PM,5:00,13:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,8/24/2020,10:30 AM,11:15,11:15
+FERA Staff Calendar,"Thoreson, 3DF",Monday,8/24/2020,11:30 AM,11:00,22:15
+FERA Staff Calendar,D. Nemens 3DF,Monday,8/24/2020,12:00 PM,8:00,30:15
+FERA Staff Calendar,"P.Eagle,DLP",Monday,8/24/2020,1:00 PM,1:00,31:15
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/24/2020,2:00 PM,2:30,33:45
+FERA Staff Calendar,"P.Eagle,ADM",Monday,8/24/2020,2:00 PM,5:00,38:45
+FERA Staff Calendar,"Darmody, ADM",Monday,8/24/2020,4:30 PM,1:05,39:50
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/24/2020,5:35 PM,2:05,41:55
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,8/25/2020,10:00 AM,12:15,12:15
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,8/25/2020,10:00 AM,12:15,24:30
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,8/25/2020,12:00 PM,8:00,32:30
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,8/25/2020,12:50 PM,6:50,39:20
+FERA Staff Calendar,"P.Eagle,DLP",Tuesday,8/25/2020,7:00 PM,2:00,41:20
+FERA Staff Calendar,"Darmody, UAV",Wednesday,8/26/2020,8:45 AM,6:15,6:15
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,8/26/2020,10:00 AM,10:45,17:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,8/26/2020,10:00 AM,1:30,18:30
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,8/26/2020,12:00 PM,8:00,26:30
+FERA Staff Calendar,D. Nemens 3DF,Wednesday,8/26/2020,12:00 PM,8:00,34:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,8/26/2020,12:00 PM,9:00,43:30
+FERA Staff Calendar,"Darmody, UAV",Wednesday,8/26/2020,3:30 PM,6:00,49:30
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,8/27/2020,10:00 AM,10:30,10:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,8/27/2020,10:00 AM,10:45,21:15
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,8/27/2020,10:00 AM,10:45,32:00
+FERA Staff Calendar,D. Nemens 3DF,Thursday,8/27/2020,12:00 PM,8:00,40:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,8/27/2020,12:45 PM,6:30,46:30
+FERA Staff Calendar,D. Nemens 3DF,Friday,8/28/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"Darmody, 3DF ",Friday,8/28/2020,12:30 PM,6:00,14:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,8/31/2020,10:00 AM,11:15,11:15
+FERA Staff Calendar,"Tripodi, 3DF",Monday,8/31/2020,10:00 AM,11:15,22:30
+FERA Staff Calendar,"P.Eagle, ADM",Monday,8/31/2020,11:00 AM,10:00,32:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,8/31/2020,12:45 PM,5:45,38:15
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,9/1/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,9/1/2020,10:00 AM,11:00,22:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,9/1/2020,12:35 PM,3:20,25:20
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,9/1/2020,1:15 PM,7:00,32:20
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,9/2/2020,10:00 AM,11:15,11:15
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,9/2/2020,10:00 AM,10:30,21:45
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,9/2/2020,10:00 AM,11:15,33:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,9/2/2020,12:10 PM,6:00,39:00
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,9/2/2020,1:50 PM,4:50,43:50
+FERA Staff Calendar,"Hallet, 3DF",Thursday,9/3/2020,10:00 AM,5:00,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,9/3/2020,10:00 AM,11:00,16:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,9/3/2020,10:00 AM,11:00,27:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,9/3/2020,12:00 PM,4:00,31:00
+FERA Staff Calendar,"Hallet, 3DF",Thursday,9/3/2020,4:00 PM,5:00,36:00
+FERA Staff Calendar,"Thoreson, UAV",Friday,9/4/2020,9:00 AM,12:30,12:30
+FERA Staff Calendar,"Tripodi, LVE",Friday,9/4/2020,11:00 AM,8:00,20:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,9/4/2020,2:25 PM,5:00,25:30
+FERA Staff Calendar,"Hallet, 3DF",Monday,9/7/2020,1:35 PM,5:00,5:00
+FERA Staff Calendar,"Hallet, UAV",Tuesday,9/8/2020,9:45 AM,5:30,5:30
+FERA Staff Calendar,"Thoreson, LVE",Tuesday,9/8/2020,11:00 AM,8:00,13:30
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,9/8/2020,11:00 AM,4:00,17:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,9/8/2020,3:30 PM,4:30,22:00
+FERA Staff Calendar,"Hallet, UAV",Tuesday,9/8/2020,4:15 PM,5:30,27:30
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,9/8/2020,5:00 PM,4:00,31:30
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,9/8/2020,9:30 PM,5:00,36:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,9/9/2020,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,9/9/2020,12:00 PM,2:00,11:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,9/9/2020,1:00 PM,3:45,14:45
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,9/9/2020,2:00 PM,6:30,21:15
+FERA Staff Calendar,"Hallet, 3DF",Wednesday,9/9/2020,2:25 PM,4:30,25:45
+FERA Staff Calendar,"Darmody, ADM",Wednesday,9/9/2020,6:00 PM,0:50,26:35
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,9/10/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,9/10/2020,10:00 AM,11:15,22:15
+FERA Staff Calendar,"Hallet, 3DF",Thursday,9/10/2020,10:00 AM,5:00,27:15
+FERA Staff Calendar,"P.Eagle,DLP",Thursday,9/10/2020,11:30 AM,1:00,28:15
+FERA Staff Calendar,"Hallet, 3DF",Thursday,9/10/2020,4:00 PM,5:15,33:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,9/11/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,9/11/2020,12:30 PM,6:30,10:30
+FERA Staff Calendar,"Hallet, 3DF",Friday,9/11/2020,3:00 PM,4:00,14:30
+FERA Staff Calendar,"Tripodi, FLB",Monday,9/14/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Thoreson, FLB",Monday,9/14/2020,11:00 AM,8:30,17:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,9/14/2020,12:00 PM,5:00,22:00
+FERA Staff Calendar,"Hallet, 3DF",Monday,9/14/2020,2:30 PM,5:00,27:00
+FERA Staff Calendar,"P.Eagle,3DF",Monday,9/14/2020,5:00 PM,1:00,28:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,9/14/2020,6:00 PM,8:00,36:00
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,9/15/2020,11:00 AM,2:00,2:00
+FERA Staff Calendar,"Thoreson, FLB",Tuesday,9/15/2020,11:30 AM,5:30,7:30
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,9/15/2020,12:30 PM,4:30,12:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,9/15/2020,1:00 PM,5:00,17:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,9/15/2020,1:00 PM,6:30,23:30
+FERA Staff Calendar,Pickup LincPass 11:15,Tuesday,9/15/2020,2:15 PM,0:30,24:00
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,9/15/2020,2:40 PM,3:20,27:20
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,9/15/2020,5:00 PM,3:00,30:20
+FERA Staff Calendar,"Hallet, ADM",Tuesday,9/15/2020,6:00 PM,1:10,31:30
+FERA Staff Calendar,"Darmody, ADM",Tuesday,9/15/2020,6:00 PM,1:10,32:40
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,9/15/2020,6:00 PM,1:15,33:55
+FERA Staff Calendar,"Hallet, 3DF",Tuesday,9/15/2020,7:10 PM,0:30,34:25
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,9/16/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,9/16/2020,11:00 AM,8:30,17:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,9/16/2020,11:30 AM,6:15,23:15
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,9/16/2020,12:00 PM,8:00,31:15
+FERA Staff Calendar,"P. Eagle, ADM",Wednesday,9/16/2020,10:00 PM,4:00,35:15
+FERA Staff Calendar,"Thoreson, FLB",Thursday,9/17/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Tripodi, FLB",Thursday,9/17/2020,11:00 AM,8:30,17:00
+FERA Staff Calendar,"P.Eagle,ADM",Thursday,9/17/2020,1:00 PM,6:30,23:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,9/18/2020,10:30 AM,9:30,9:30
+FERA Staff Calendar,"Thoreson, FLB",Friday,9/18/2020,11:00 AM,8:30,18:00
+FERA Staff Calendar,"Thoreson, FLB",Monday,9/21/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, FLB",Monday,9/21/2020,10:00 AM,11:00,22:00
+FERA Staff Calendar,"P.Eagle, ADM",Monday,9/21/2020,1:00 PM,6:30,28:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,9/21/2020,1:00 PM,3:00,31:30
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,9/22/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Thoreson, FLB",Tuesday,9/22/2020,10:00 AM,11:00,22:00
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,9/22/2020,1:00 PM,8:30,30:30
+FERA Staff Calendar,Darmody,Tuesday,9/22/2020,6:30 PM,7:00,37:30
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,9/23/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"Thoreson, FLB",Wednesday,9/23/2020,10:00 AM,10:00,20:00
+FERA Staff Calendar,"Darmody, UAV",Wednesday,9/23/2020,11:30 AM,3:15,23:15
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,9/23/2020,1:00 PM,4:00,27:15
+FERA Staff Calendar,"Darmody, UAV",Wednesday,9/23/2020,4:00 PM,3:30,30:45
+FERA Staff Calendar,"P.Eagle,DLP",Wednesday,9/23/2020,5:00 PM,3:00,33:45
+FERA Staff Calendar,"Tripodi, FLB",Thursday,9/24/2020,10:00 AM,8:00,8:00
+FERA Staff Calendar,"Thoreson, FLB",Thursday,9/24/2020,10:00 AM,8:00,16:00
+FERA Staff Calendar,"Tripodi, FLB",Friday,9/25/2020,10:00 AM,9:30,9:30
+FERA Staff Calendar,"Thoreson, FLB",Friday,9/25/2020,10:00 AM,9:30,19:00
+FERA Staff Calendar,"Darmody, UAV",Friday,9/25/2020,1:00 PM,4:45,23:45
+FERA Staff Calendar,"Thoreson, FLB",Saturday,9/26/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, FLB",Saturday,9/26/2020,10:00 AM,10:00,20:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,9/28/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,9/28/2020,11:30 AM,4:00,8:00
+FERA Staff Calendar,"Darmody, UAV",Monday,9/28/2020,1:00 PM,2:00,10:00
+FERA Staff Calendar,"P.Eagle,ADM",Monday,9/28/2020,1:00 PM,4:00,14:00
+FERA Staff Calendar,"Darmody, UAV",Monday,9/28/2020,3:30 PM,2:00,16:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,9/28/2020,4:00 PM,4:30,20:30
+FERA Staff Calendar,"Tripodi, ADM",Monday,9/28/2020,4:00 PM,4:30,25:00
+FERA Staff Calendar,"Darmody, ADM",Monday,9/28/2020,7:00 PM,1:10,26:10
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,9/29/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,9/29/2020,11:30 AM,8:30,12:00
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,9/29/2020,3:30 PM,4:30,16:30
+FERA Staff Calendar,"P.Eagle,3DF",Tuesday,9/29/2020,6:00 PM,2:00,18:30
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,9/30/2020,10:30 AM,9:30,9:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,9/30/2020,10:45 AM,5:15,14:45
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,9/30/2020,11:30 AM,2:00,16:45
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,9/30/2020,2:30 PM,4:30,21:15
+FERA Staff Calendar,"Darmody, Fuel Moisture",Wednesday,9/30/2020,2:45 PM,3:45,25:00
+FERA Staff Calendar,"Tripodi,",Wednesday,9/30/2020,4:30 PM,3:30,28:30
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,9/30/2020,10:00 PM,4:00,32:30
+FERA Staff Calendar,"Thoreson, UAV",Thursday,10/1/2020,10:00 AM,10:00,10:00
+FERA Staff Calendar,"Tripodi, ADM",Thursday,10/1/2020,1:00 PM,1:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/1/2020,2:30 PM,3:30,14:30
+FERA Staff Calendar,"Tripodi, Sick Leave",Thursday,10/1/2020,6:00 PM,2:00,16:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/1/2020,8:00 PM,2:00,18:30
+FERA Staff Calendar,"Thoreson, UAV",Friday,10/2/2020,8:30 AM,14:00,14:00
+FERA Staff Calendar,"Tripodi, ADM",Friday,10/2/2020,10:30 AM,11:15,25:15
+FERA Staff Calendar,"Darmody, Fuel Moisture",Friday,10/2/2020,5:30 PM,5:30,30:45
+FERA Staff Calendar,"Thoreson, ADM",Monday,10/5/2020,12:00 PM,8:30,8:30
+FERA Staff Calendar,"Tripodi, ADM",Monday,10/5/2020,12:00 PM,10:15,18:45
+FERA Staff Calendar,"P.Eagle,ADM",Monday,10/5/2020,1:00 PM,7:00,25:45
+FERA Staff Calendar,"P.Eagle,ADM",Tuesday,10/6/2020,12:00 PM,9:00,9:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,10/6/2020,12:00 PM,8:30,17:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,10/7/2020,11:30 AM,2:00,2:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/7/2020,12:00 PM,8:30,10:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/7/2020,2:00 PM,7:00,17:30
+FERA Staff Calendar,P.Eagle,Wednesday,10/7/2020,3:00 PM,5:00,22:30
+FERA Staff Calendar,"P.Eagle,ADM",Wednesday,10/7/2020,10:00 PM,3:00,25:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,10/8/2020,10:00 AM,11:15,11:15
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/8/2020,10:00 AM,11:15,22:30
+FERA Staff Calendar,"Thoreson, 3DF",Friday,10/9/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,10/9/2020,10:10 AM,11:20,22:20
+FERA Staff Calendar,"Thoreson, 3DF",Saturday,10/10/2020,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Saturday,10/10/2020,10:00 AM,11:20,22:20
+FERA Staff Calendar,"Thoreson, 3DF",Sunday,10/11/2020,10:00 AM,9:00,9:00
+FERA Staff Calendar,"Tripodi, 3DF",Sunday,10/11/2020,10:10 AM,8:50,17:50
+FERA Staff Calendar,"Thoreson, 3DF",Monday,10/12/2020,10:30 AM,11:30,11:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,10/12/2020,10:30 AM,11:30,23:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,10/12/2020,1:00 PM,6:00,29:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,10/13/2020,11:00 AM,11:00,11:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,10/13/2020,11:00 AM,11:00,22:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/14/2020,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/14/2020,11:00 AM,8:30,17:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,10/14/2020,1:00 PM,5:45,22:45
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/15/2020,10:30 AM,11:00,11:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,10/15/2020,11:00 AM,10:30,21:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,10/16/2020,12:50 PM,6:10,6:10
+FERA Staff Calendar,"Thoreson, ADM",Sunday,10/18/2020,3:00 PM,0:30,0:30
+FERA Staff Calendar,Drop Mitsubishi off at J & J,Monday,10/19/2020,10:00 AM,2:00,2:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,10/19/2020,11:00 AM,4:00,6:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,10/19/2020,12:00 PM,2:00,8:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,10/19/2020,12:30 PM,2:00,10:00
+FERA Staff Calendar,"Darmody, ADM",Monday,10/19/2020,2:30 PM,1:30,11:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,10/19/2020,2:30 PM,6:00,17:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,10/19/2020,3:30 PM,4:00,21:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,10/19/2020,4:00 PM,3:45,25:15
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,10/20/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,10/20/2020,11:30 AM,1:30,5:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,10/20/2020,1:00 PM,1:00,6:30
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,10/20/2020,2:30 PM,5:30,12:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,10/20/2020,3:30 PM,4:00,16:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/21/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/21/2020,12:30 PM,3:30,7:30
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,10/21/2020,2:00 PM,1:00,8:30
+FERA Staff Calendar,3D Fuels meeting,Wednesday,10/21/2020,3:00 PM,1:00,9:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/21/2020,3:30 PM,4:00,13:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/21/2020,4:30 PM,4:30,18:00
+FERA Staff Calendar,"P.Eagle,3DF",Wednesday,10/21/2020,5:30 PM,1:00,19:00
+FERA Staff Calendar,"Thoreson, ADM",Thursday,10/22/2020,11:00 AM,1:00,1:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/22/2020,11:00 AM,4:00,5:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,10/22/2020,12:30 PM,7:00,12:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,10/22/2020,1:00 PM,2:00,14:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/22/2020,3:30 PM,4:00,18:00
+FERA Staff Calendar,"P.Eagle,3DF",Thursday,10/22/2020,4:00 PM,2:00,20:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,10/23/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,10/23/2020,12:00 PM,3:00,7:00
+FERA Staff Calendar,"P.Eagle,3DF",Friday,10/23/2020,2:00 PM,3:00,10:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,10/23/2020,3:30 PM,5:00,15:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,10/23/2020,3:30 PM,4:00,19:00
+FERA Staff Calendar,"Tripodi, 3DF",Monday,10/26/2020,11:00 AM,3:30,3:30
+FERA Staff Calendar,"Thoreson, ADM",Monday,10/26/2020,12:30 PM,3:30,7:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,10/26/2020,12:30 PM,2:00,9:00
+FERA Staff Calendar,"Darmody, ADM",Monday,10/26/2020,2:30 PM,1:20,10:20
+FERA Staff Calendar,"Tripodi, ADM",Monday,10/26/2020,2:30 PM,1:30,11:50
+FERA Staff Calendar,"Darmody, 3DF",Monday,10/26/2020,3:50 PM,2:15,14:05
+FERA Staff Calendar,"Tripodi, 3DF",Monday,10/26/2020,4:00 PM,3:00,17:05
+FERA Staff Calendar,"Thoreson, 3DF",Monday,10/26/2020,4:30 PM,4:30,21:35
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,10/27/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,10/27/2020,11:30 AM,1:00,5:00
+FERA Staff Calendar,"Thoreson, FLB",Tuesday,10/27/2020,12:30 PM,1:00,6:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,10/27/2020,1:30 PM,2:30,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,10/27/2020,3:30 PM,4:00,12:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,10/27/2020,4:30 PM,4:30,17:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/28/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,10/28/2020,11:30 AM,2:30,6:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,10/28/2020,1:00 PM,6:10,12:40
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/28/2020,2:00 PM,1:30,14:10
+FERA Staff Calendar,"Thoreson, FLB",Wednesday,10/28/2020,3:30 PM,0:30,14:40
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,10/28/2020,3:30 PM,4:00,18:40
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,10/28/2020,4:30 PM,3:30,22:10
+FERA Staff Calendar,"Tripodi, ADM",Thursday,10/29/2020,11:00 AM,1:30,1:30
+FERA Staff Calendar,"Thoreson, FLB",Thursday,10/29/2020,11:30 AM,1:30,3:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/29/2020,12:30 PM,2:30,5:30
+FERA Staff Calendar,"Thoreson, ADM",Thursday,10/29/2020,1:00 PM,1:00,6:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,10/29/2020,2:00 PM,2:00,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,10/29/2020,4:00 PM,5:00,13:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,10/29/2020,4:30 PM,4:00,17:30
+FERA Staff Calendar,"Thoreson, 3DF",Friday,10/30/2020,12:00 PM,6:30,6:30
+FERA Staff Calendar,"Tripodi, FLB",Monday,11/2/2020,10:00 AM,5:00,5:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,11/2/2020,12:00 PM,1:00,6:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/2/2020,12:10 PM,5:05,11:05
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/2/2020,1:00 PM,3:00,14:05
+FERA Staff Calendar,"Tripodi, FLB",Monday,11/2/2020,3:30 PM,7:00,21:05
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/2/2020,4:30 PM,3:30,24:35
+FERA Staff Calendar,"Tripodi, FLB",Monday,11/2/2020,11:30 PM,1:00,25:35
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/3/2020,9:00 AM,6:00,6:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,11/3/2020,11:00 AM,4:00,10:00
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/3/2020,3:30 PM,1:30,11:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,11/3/2020,3:30 PM,5:00,16:30
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/4/2020,10:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,11/4/2020,1:00 PM,1:00,5:00
+FERA Staff Calendar,"Darmody, ADM",Wednesday,11/4/2020,1:30 PM,1:30,6:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,11/4/2020,2:00 PM,7:00,13:30
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/4/2020,2:30 PM,4:30,18:00
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,11/4/2020,3:00 PM,3:35,21:35
+FERA Staff Calendar,"Tripodi, FLB",Thursday,11/5/2020,10:00 AM,4:00,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,11/5/2020,12:00 PM,3:00,7:00
+FERA Staff Calendar,"Tripodi, FLB",Thursday,11/5/2020,2:30 PM,5:45,12:45
+FERA Staff Calendar,"Thoreson, FLB",Thursday,11/5/2020,3:30 PM,2:30,15:15
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,11/5/2020,6:00 PM,2:30,17:45
+FERA Staff Calendar,"Tripodi, FLB",Friday,11/6/2020,10:00 AM,15:30,15:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,11/6/2020,11:45 AM,7:50,23:20
+FERA Staff Calendar,"Thoreson, 3DF",Friday,11/6/2020,1:00 PM,8:00,31:20
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/9/2020,11:30 AM,3:00,3:00
+FERA Staff Calendar,"Tripodi, FLB",Monday,11/9/2020,11:30 AM,3:00,6:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,11/9/2020,2:30 PM,1:30,7:30
+FERA Staff Calendar,"Darmody, ADM",Monday,11/9/2020,2:30 PM,1:30,9:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,11/9/2020,2:30 PM,1:30,10:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/9/2020,4:30 PM,3:30,14:00
+FERA Staff Calendar,"Tripodi, adm",Monday,11/9/2020,4:30 PM,4:00,18:00
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,11/10/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/10/2020,11:30 AM,3:30,4:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,11/10/2020,11:30 AM,5:00,9:00
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/10/2020,3:30 PM,4:30,13:30
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,11/10/2020,5:00 PM,2:30,16:00
+FERA Staff Calendar,"Tripodi, PT",Wednesday,11/11/2020,12:30 PM,1:00,1:00
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/11/2020,1:30 PM,1:30,2:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,11/11/2020,3:00 PM,1:30,4:00
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/11/2020,5:00 PM,4:00,8:00
+FERA Staff Calendar,"Thoreson, ADM",Thursday,11/12/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,11/12/2020,11:30 AM,4:30,5:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,11/12/2020,2:30 PM,3:00,8:00
+FERA Staff Calendar,"Thoreson, TRN",Thursday,11/12/2020,5:00 PM,3:00,11:00
+FERA Staff Calendar,"Thoreson, ADM",Friday,11/13/2020,12:00 PM,0:30,0:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,11/13/2020,12:15 PM,6:10,6:40
+FERA Staff Calendar,"Thoreson, 3DF",Friday,11/13/2020,12:30 PM,4:00,10:40
+FERA Staff Calendar,"Thoreson, 3DF",Friday,11/13/2020,5:30 PM,3:00,13:40
+FERA Staff Calendar,"Tripodi, FLB",Monday,11/16/2020,11:20 AM,9:00,9:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/16/2020,12:00 PM,3:30,12:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/16/2020,12:10 PM,2:50,15:20
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/16/2020,3:30 PM,0:30,15:50
+FERA Staff Calendar,"Darmody, ADM",Monday,11/16/2020,4:00 PM,1:00,16:50
+FERA Staff Calendar,"Thoreson, ADM",Monday,11/16/2020,4:00 PM,1:00,17:50
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/16/2020,5:00 PM,1:45,19:35
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/16/2020,5:00 PM,3:30,23:05
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,11/17/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,11/17/2020,12:30 PM,0:30,1:30
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,11/17/2020,1:00 PM,6:00,7:30
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/17/2020,2:30 PM,5:30,13:00
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,11/17/2020,7:00 PM,2:30,15:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,11/18/2020,11:30 AM,0:30,0:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,11/18/2020,11:30 AM,7:00,7:30
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,11/18/2020,12:00 PM,2:00,9:30
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,11/18/2020,1:15 PM,3:45,13:15
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/18/2020,2:30 PM,2:00,15:15
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,11/18/2020,4:30 PM,3:30,18:45
+FERA Staff Calendar,"Thoreson, LVE",Thursday,11/19/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, TRN",Thursday,11/19/2020,12:00 PM,1:00,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,11/19/2020,1:00 PM,2:00,7:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,11/19/2020,3:00 PM,1:30,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,11/19/2020,3:30 PM,4:30,13:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,11/19/2020,5:00 PM,2:30,15:30
+FERA Staff Calendar,"Tripodi, TRN",Friday,11/20/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,11/20/2020,11:30 AM,2:30,3:30
+FERA Staff Calendar,"Darmody, 3DF",Friday,11/20/2020,1:15 PM,5:45,9:15
+FERA Staff Calendar,"Thoreson, TRN",Friday,11/20/2020,2:00 PM,0:30,9:45
+FERA Staff Calendar,"Thoreson, 3DF",Friday,11/20/2020,2:30 PM,5:00,14:45
+FERA Staff Calendar,"Tripodi, ADM",Monday,11/23/2020,11:00 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,11/23/2020,11:30 AM,0:30,1:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,11/23/2020,12:00 PM,5:00,6:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,11/23/2020,12:00 PM,3:00,9:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,11/23/2020,3:30 PM,2:00,11:30
+FERA Staff Calendar,"Thoreson, ADM",Monday,11/23/2020,5:30 PM,2:30,14:00
+FERA Staff Calendar,"Darmody, ADM",Monday,11/23/2020,5:30 PM,1:20,15:20
+FERA Staff Calendar,"Tripodi, ADM",Monday,11/23/2020,5:30 PM,1:00,16:20
+FERA Staff Calendar,"Tripodi, 3DF",Monday,11/23/2020,6:30 PM,1:15,17:35
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,11/24/2020,11:00 AM,0:45,0:45
+FERA Staff Calendar,"Tripodi, TRN",Tuesday,11/24/2020,11:45 AM,2:00,2:45
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,11/24/2020,12:00 PM,6:00,8:45
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,11/24/2020,12:30 PM,4:00,12:45
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/24/2020,1:45 PM,1:15,14:00
+FERA Staff Calendar,"Tripodi, FLB",Tuesday,11/24/2020,3:30 PM,2:30,16:30
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,11/24/2020,6:00 PM,2:00,18:30
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,11/24/2020,6:00 PM,2:00,20:30
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,11/25/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,11/25/2020,11:30 AM,0:30,1:30
+FERA Staff Calendar,"Tripodi, FLB",Wednesday,11/25/2020,12:00 PM,1:00,2:30
+FERA Staff Calendar,"Thoreson,3DF",Wednesday,11/25/2020,12:30 PM,2:30,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,11/25/2020,1:00 PM,5:00,10:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,11/25/2020,3:30 PM,3:30,13:30
+FERA Staff Calendar,"Tripodi, TRN",Wednesday,11/25/2020,6:00 PM,1:00,14:30
+FERA Staff Calendar,"Thoreson, LVE",Wednesday,11/25/2020,7:00 PM,1:00,15:30
+FERA Staff Calendar,"Thoreson, LVE",Thursday,11/26/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"Thoreson, LVE",Friday,11/27/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/30/2020,11:30 AM,4:30,4:30
+FERA Staff Calendar,"Thoreson, LVE",Monday,11/30/2020,12:00 PM,8:00,12:30
+FERA Staff Calendar,"Darmody, ADM",Monday,11/30/2020,4:00 PM,1:15,13:45
+FERA Staff Calendar,"Darmody, 3DF",Monday,11/30/2020,5:15 PM,0:45,14:30
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,12/1/2020,11:30 AM,0:30,0:30
+FERA Staff Calendar,"Thoreson, LVE",Tuesday,12/1/2020,12:00 PM,8:00,8:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/1/2020,12:00 PM,3:00,11:30
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,12/1/2020,3:30 PM,2:00,13:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/1/2020,5:30 PM,3:00,16:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/2/2020,12:00 PM,4:00,4:00
+FERA Staff Calendar,"Thoreson, LVE",Wednesday,12/2/2020,12:00 PM,8:00,12:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/2/2020,4:30 PM,4:30,16:30
+FERA Staff Calendar,"Tripodi, ADM",Thursday,12/3/2020,10:30 AM,0:30,0:30
+FERA Staff Calendar,"Tripodi, TRN",Thursday,12/3/2020,11:00 AM,4:00,4:30
+FERA Staff Calendar,"Thoreson, LVE",Thursday,12/3/2020,12:00 PM,8:00,12:30
+FERA Staff Calendar,"Darmody, 3DF",Thursday,12/3/2020,12:30 PM,6:00,18:30
+FERA Staff Calendar,"Tripodi, TRN",Thursday,12/3/2020,3:30 PM,0:30,19:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,12/3/2020,4:00 PM,3:30,22:30
+FERA Staff Calendar,"Thoreson, LVE",Friday,12/4/2020,12:00 PM,8:00,8:00
+FERA Staff Calendar,"Darmody, 3DF",Friday,12/4/2020,1:00 PM,4:45,12:45
+FERA Staff Calendar,"Darmody, 3DF",Friday,12/4/2020,9:50 PM,0:55,13:40
+FERA Staff Calendar,"Tripodi, ADM",Monday,12/7/2020,11:45 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,12/7/2020,11:45 AM,2:45,3:45
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/7/2020,12:05 PM,2:25,6:10
+FERA Staff Calendar,"Tripodi, TRN",Monday,12/7/2020,12:45 PM,0:45,6:55
+FERA Staff Calendar,"Tripodi, ADM",Monday,12/7/2020,1:30 PM,2:30,9:25
+FERA Staff Calendar,"Darmody, ADM",Monday,12/7/2020,2:30 PM,1:00,10:25
+FERA Staff Calendar,"Thoreson, ADM",Monday,12/7/2020,2:30 PM,1:30,11:55
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/7/2020,3:30 PM,2:15,14:10
+FERA Staff Calendar,"Tripodi, 3DF",Monday,12/7/2020,4:30 PM,4:00,18:10
+FERA Staff Calendar,"Thoreson, 3DF",Monday,12/7/2020,4:30 PM,3:45,21:55
+FERA Staff Calendar,"Thoreson, TRN",Tuesday,12/8/2020,11:00 AM,4:00,4:00
+FERA Staff Calendar,"Tripodi, 3Df",Tuesday,12/8/2020,11:30 AM,4:30,8:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,12/8/2020,3:30 PM,4:00,12:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/8/2020,4:30 PM,3:30,16:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,12/9/2020,11:30 AM,0:30,0:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/9/2020,11:30 AM,4:30,5:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/9/2020,12:00 PM,3:15,8:15
+FERA Staff Calendar,"Thoreson, TRN",Wednesday,12/9/2020,3:15 PM,0:30,8:45
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/9/2020,4:15 PM,3:45,12:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/9/2020,4:30 PM,4:00,16:30
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,12/10/2020,1:00 PM,2:30,2:30
+FERA Staff Calendar,"Tripodi, ADM",Thursday,12/10/2020,1:15 PM,1:45,4:15
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,12/10/2020,3:30 PM,2:00,6:15
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,12/10/2020,4:00 PM,5:30,11:45
+FERA Staff Calendar,"Tripodi, TRN",Thursday,12/10/2020,5:30 PM,2:00,13:45
+FERA Staff Calendar,"Thoreson, ADM",Friday,12/11/2020,11:00 AM,0:30,0:30
+FERA Staff Calendar,"Tripodi, ADM",Friday,12/11/2020,11:30 AM,1:30,2:00
+FERA Staff Calendar,"Thoreson, UAV",Friday,12/11/2020,11:30 AM,1:30,3:30
+FERA Staff Calendar,"Thoreson, TRN",Friday,12/11/2020,1:00 PM,3:00,6:30
+FERA Staff Calendar,"Tripodi, 3DF",Friday,12/11/2020,1:00 PM,3:30,10:00
+FERA Staff Calendar,"Thoreson, 3DF",Friday,12/11/2020,4:30 PM,0:30,10:30
+FERA Staff Calendar,"Thoreson, UAV",Friday,12/11/2020,5:00 PM,2:30,13:00
+FERA Staff Calendar,"Darmody, UAV",Saturday,12/12/2020,3:15 PM,3:30,3:30
+FERA Staff Calendar,"Tripodi, ADM",Monday,12/14/2020,11:30 AM,0:30,0:30
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/14/2020,11:40 AM,2:50,3:20
+FERA Staff Calendar,"Thoreson, TRN",Monday,12/14/2020,12:00 PM,2:00,5:20
+FERA Staff Calendar,"Tripodi, 3DF",Monday,12/14/2020,12:00 PM,2:30,7:50
+FERA Staff Calendar,"Thoreson, ADM",Monday,12/14/2020,2:00 PM,3:00,10:50
+FERA Staff Calendar,"Darmody, ADM",Monday,12/14/2020,2:30 PM,1:15,12:05
+FERA Staff Calendar,"Thoreson, TRN",Monday,12/14/2020,5:00 PM,3:00,15:05
+FERA Staff Calendar,"Tripodi, 3DF",Monday,12/14/2020,5:00 PM,3:30,18:35
+FERA Staff Calendar,"Tripodi, ADM",Tuesday,12/15/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,12/15/2020,12:00 PM,1:30,2:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/15/2020,12:30 PM,3:00,5:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,12/15/2020,1:30 PM,2:00,7:30
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/15/2020,4:00 PM,4:00,11:30
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,12/15/2020,4:30 PM,4:00,15:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/16/2020,11:30 AM,3:30,3:30
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,12/16/2020,11:45 AM,1:00,4:30
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/16/2020,12:45 PM,2:15,6:45
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/16/2020,3:30 PM,3:30,10:15
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/16/2020,3:30 PM,4:45,15:00
+FERA Staff Calendar,"Tripodi, ADM",Thursday,12/17/2020,11:30 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,12/17/2020,12:00 PM,4:00,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,12/17/2020,12:30 PM,4:00,9:00
+FERA Staff Calendar,"Thoreson, 3DF",Thursday,12/17/2020,4:30 PM,5:00,14:00
+FERA Staff Calendar,"Tripodi, 3DF",Thursday,12/17/2020,5:00 PM,3:00,17:00
+FERA Staff Calendar,"Tripodi, ADM",Friday,12/18/2020,11:30 AM,0:45,0:45
+FERA Staff Calendar,"Thoreson, 3DF",Friday,12/18/2020,12:00 PM,4:15,5:00
+FERA Staff Calendar,"Tripodi, 3DF",Friday,12/18/2020,12:15 PM,4:00,9:00
+FERA Staff Calendar,"Darmody, UAV",Friday,12/18/2020,12:25 PM,3:05,12:05
+FERA Staff Calendar,"Darmody, 3DF",Friday,12/18/2020,4:00 PM,5:30,17:35
+FERA Staff Calendar,"Thoreson, 3DF",Friday,12/18/2020,4:30 PM,4:00,21:35
+FERA Staff Calendar,"Tripodi, 3DF",Friday,12/18/2020,5:00 PM,3:00,24:35
+FERA Staff Calendar,"Tripodi, 3DF",Monday,12/21/2020,11:30 AM,3:00,3:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/21/2020,12:00 PM,2:30,5:30
+FERA Staff Calendar,"Thoreson, 3DF",Monday,12/21/2020,12:00 PM,2:30,8:00
+FERA Staff Calendar,"Darmody, ADM",Monday,12/21/2020,2:30 PM,1:00,9:00
+FERA Staff Calendar,"Thoreson, ADM",Monday,12/21/2020,2:30 PM,1:00,10:00
+FERA Staff Calendar,"Tripodi, ADM",Monday,12/21/2020,2:30 PM,1:00,11:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/21/2020,3:30 PM,3:00,14:00
+FERA Staff Calendar,"Thoreson, 3DF",Monday,12/21/2020,3:30 PM,4:30,18:30
+FERA Staff Calendar,"Tripodi, 3DF",Monday,12/21/2020,4:00 PM,4:00,22:30
+FERA Staff Calendar,"Thoreson, ADM",Tuesday,12/22/2020,12:00 PM,1:00,1:00
+FERA Staff Calendar,"Tripodi, 3DF",Tuesday,12/22/2020,12:30 PM,7:50,8:50
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,12/22/2020,1:00 PM,3:00,11:50
+FERA Staff Calendar,"Thoreson, 3DF",Tuesday,12/22/2020,4:30 PM,4:00,15:50
+FERA Staff Calendar,"Tripodi, ADM",Wednesday,12/23/2020,10:15 AM,1:00,1:00
+FERA Staff Calendar,"Thoreson, ADM",Wednesday,12/23/2020,11:00 AM,1:00,2:00
+FERA Staff Calendar,"Tripodi, 3DF",Wednesday,12/23/2020,11:15 AM,5:00,7:00
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/23/2020,1:00 PM,2:30,9:30
+FERA Staff Calendar,"Thoreson, 3DF",Wednesday,12/23/2020,4:00 PM,4:30,14:00
+FERA Staff Calendar,"Darmody, 3DF",Thursday,12/24/2020,11:30 AM,4:00,4:00
+FERA Staff Calendar,"Darmody, 3DF",Monday,12/28/2020,11:15 AM,6:35,6:35
+FERA Staff Calendar,"Darmody, 3DF",Tuesday,12/29/2020,1:00 PM,6:45,6:45
+FERA Staff Calendar,"Darmody, 3DF",Wednesday,12/30/2020,12:15 PM,7:00,7:00

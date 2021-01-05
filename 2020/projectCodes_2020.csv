@@ -1,0 +1,22 @@
+code,project name,owner
+ADM,Administrative Work that cannot be billed to a project. Includes training.,All
+LVE,"Leave (Holiday, Sick Leave, Annual Leave)",PaidLeave
+3DF,3D Fuels Characterization,Prichard
+FLB,FASMEE: Fish Lake Rx Burns,Ottmar
+JMV,Miscellaneous work for Morgan Varner,Varner
+WWC,Western Wildfire Campaign,Ottmar
+FCM,Fuelbed Characterization & Mapping,Cronan
+FCC,Pyrolosis: Fort Jackson Burns,Ottmar
+TMS,Tree Mortality Study,Varner
+LEF,Lubrecht Experimental Forest Burns,Ottmar
+UAV,Drone Demonstration,Mell
+RBP,Resiliency Burning Pilot,Ottmar
+MJO,Miscellaneous work for Morris Johnson,Johnson
+SMC,Smoke Management Tcourse (Rx410),Ottmar
+PSP,Photoseries Project,Ottmar
+RUD,Miscellaneous work for Ruddy Mell,Mell
+EEF,EPA Lab Burning,Prichard
+DUL,Document Unit Leader,Ottmar
+ROG,Miscellaneous work for Roger Ottmar,Ottmar
+PFS,Prescribed Fire Science,Varner
+DLP,Miscellaneous work for Dave L. Peterson,Peterson
