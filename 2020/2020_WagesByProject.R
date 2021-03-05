@@ -12,8 +12,9 @@ library(dplyr)
 library(tidyr)
 library(stringr)
 library(rlang)
-library(Rfast)
-
+#library(Rfast) - there is a bug if this library is open at the same time as dplyr. RStudio will hang if functions to view
+#object details (e.g., head, length, str) are run while Rfast and dplyr are open at the same time. There is also significant
+#CPU ~ 30%.
 
 #Open Data
 setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/2020")
@@ -34,7 +35,7 @@ head(raw.data)
 date <- as.Date(raw.data$V4, format = "%m/%d/%Y")
 
 #Generate a vector that converts dates into work weeks
-week <- as.numeric(strftime(date, format = "%V"))
+week <- as.numeric(strftime(date, format = "%W"))
 
 #Convert column with names and job codes into a character string
 col2.1 <- as.character(raw.data$V2)
@@ -49,10 +50,10 @@ lastName.List <- character(length = length(col2.1))
 for(i in 1:length(last.names))
   { 
   for(v in 1:length(col2.1))
-       {
-         if(is_empty(unlist(str_extract_all(col2.1[v], last.names[i]))) == T)
-         {lastName.List[v] <- lastName.List[v]} else
-         {lastName.List[v] <- unlist(str_extract_all(col2.1[v], last.names[i]))}
+    {
+    if(is_empty(unlist(str_extract_all(col2.1[v], last.names[i]))) == T)
+    {lastName.List[v] <- lastName.List[v]} else
+        {lastName.List[v] <- unlist(str_extract_all(col2.1[v], last.names[i]))}
   }
 }
 
@@ -77,6 +78,13 @@ for(i in 1:length(last.names))
 }
 test.names2 <- data.frame(raw = raw.data2$V2, new = lastName.List2)
 tr <- test.names2[test.names2$new == "",]
+tr #There should be no data here. If there are, then the scripts above did not do their job cleaning out calendar entries that are not hour entries.
+
+#Generate a vector that converts factor levels of dates into date values
+date2 <- as.Date(raw.data2$V4, format = "%m/%d/%Y")
+
+#Generate a vector that converts dates into work weeks
+week2 <- as.numeric(strftime(date2, format = "%W"))
 
 #If there are rows with mispelled names fix them
 if(nrow(tr) == 0)
@@ -172,22 +180,22 @@ test <- cbind(col2.2, projectCode.List)
 test[test[,2] == "",]
 
 #Calculate duration
-col3.1 <- strsplit(as.character(raw.data$V6), ":")
+col3.1 <- strsplit(as.character(raw.data2$V6), ":")
 col3.1_hrs <- as.numeric(unlist(lapply(col3.1, function(x) x[1])))
 col3.1_mins <- as.numeric(unlist(lapply(col3.1, function(x) x[2])))/60
 duration <- round(col3.1_hrs + col3.1_mins,2)
 
 
 #Create a data frame
-cal_d <- as.character(unlist(lapply(raw.data$V4, function(x) x[1])))
-s_time <- as.character(unlist(lapply(raw.data$V5, function(x) x[1])))
+cal_d <- as.character(unlist(lapply(raw.data2$V4, function(x) x[1])))
+s_time <- as.character(unlist(lapply(raw.data2$V5, function(x) x[1])))
 
-billing <- data.frame(last_name = lastName.List, 
+billing <- data.frame(last_name = lastName.List2, 
                       project_code = projectCode.List, 
                       date = cal_d, 
                       start_time = s_time, 
                       duration = duration, 
-                      week = week, stringsAsFactors = F)
+                      week = week2, stringsAsFactors = F)
 
 #Summarize hours by week to ID OT
 billing_by_week <- as.data.frame(billing %>% 
@@ -207,7 +215,7 @@ base[base > 40] <- 40
 code.name <- expand.grid(project.codes, last.names)
 lastName_vec <- as.character(unlist(lapply(code.name[,2], function(x) x[1])))
 projectCode_vec <- as.character(unlist(lapply(code.name[,1], function(x) x[1])))
-week_number <- 1:52
+week_number <- sort(unique(week2))
 time_by_week <- data.frame(lastName = lastName_vec, 
                            projectCode = projectCode_vec, 
                            matrix(data = NA, nrow = length(code.name[,1]), ncol = length(week_number)), 
@@ -220,10 +228,56 @@ for(a in 1:length(week_number))
   for(b in 1:length(time_by_week[,1]))
   {
     time_by_week[b,(a+2)] <- sum(billing$duration[billing$week == week_number[a]
-                                                 & billing$last_name == time_by_week$lastName[b] 
-                                                 & billing$project_code == time_by_week$projectCode[b]])
+                                                  & billing$last_name == time_by_week$lastName[b] 
+                                                  & billing$project_code == time_by_week$projectCode[b]])
   }
 }
+
+######################################################################################################################
+######################################################################################################################
+######################################################################################################################
+######################################################################################################################
+#                                                       NEMENS
+#Deborah submitted her fall 2020 hours on a spreadhseet with a much different format than the Google hours spreadhseet.
+#This section will format the info so it can be merged with the rest of the hours in the time_by_week data frame
+#This is the most logical place to merge Deborah's hours for September-December.
+nemens <- read.table("Nemens_Sep_Dec_2020.csv", header = T, fill = T, skip = 0, sep = ",", quote = "\"")
+
+#Generate a vector that converts factor levels of dates into date values
+nemens.date <- as.Date(nemens$Date, format = "%m/%d/%Y")
+
+#Generate a vector that converts dates into work weeks
+nemens.week <- as.numeric(strftime(nemens.date, format = "%W"))
+
+#Strip out project codes from column namnes
+pcn.1 <- colnames(nemens)[2:length(nemens[1,])]
+pcn.2 <- strsplit(pcn.1, "X")
+pcn.3 <- vector()
+for(i in 1:length(pcn.1))
+{
+  if(length(pcn.2[[i]]) > 1)
+  {
+    pcn.3[i] <- pcn.2[[i]][2]
+  } else
+  {
+    pcn.3[i] <- pcn.2[[i]][1]
+  }
+}
+
+#Merge Nemens Sep-Dec data with everyone else's data.
+nwl <- sort(unique(nemens.week))
+for(i in nwl)
+{
+  for(z in 1:length(pcn.3))
+  {
+    time_by_week[time_by_week$lastName == "Nemens" & time_by_week$projectCode == pcn.3[z], 2+(i+1)] <- sum(nemens[nemens.week == i, 1+z], na.rm = T)
+  }
+}
+
+#                                                       END
+######################################################################################################################
+######################################################################################################################
+######################################################################################################################
 
 #Calculate total hours worked per week and overtime hours worked per week.
 #Calculate project codes billed each week (group by employee) and the number of hours attributed to them. Codes are
@@ -289,35 +343,38 @@ othMatrix <- matrix(data = unlist(OT_CodeHrs_FullCount),nrow = (length(last.name
 #3: Hours attributed to each project code
 #4: Base (0-40) hours for each of the 20 project codes
 weekXnames <- expand.grid(week_number,last.names)
+row_stop <- length(last.names)*20
+col_stop <- length(time_by_week[1,])
 wage_table <- data.frame(LastName = weekXnames[,2], 
                          Week_No = weekXnames[,1], 
                          Total_Hrs = Total_Hours,
                          OT_Hours = OT_Hours,
                          otcMatrix,
                          othMatrix, 
-                         as.vector(unlist(t(time_by_week[seq(1,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(2,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(3,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(4,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(5,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(6,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(7,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(8,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(9,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(10,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(11,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(12,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(13,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(14,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(15,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(16,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(17,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(18,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(19,120,20),3:54]))),
-                         as.vector(unlist(t(time_by_week[seq(20,120,20),3:54]))))
-names(wage_table)[5:18] <- c("pc1","pc2","pc3","pc4","pc5","pc6","pc7",
-                             "ph1","ph2","ph3","ph4","ph5","ph6","ph7")
-names(wage_table)[19:38] <- project.codes
+                         as.vector(unlist(t(time_by_week[seq(1,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(2,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(3,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(4,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(5,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(6,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(7,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(8,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(9,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(10,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(11,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(12,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(13,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(14,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(15,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(16,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(17,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(18,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(19,row_stop,20),3:col_stop]))),
+                         as.vector(unlist(t(time_by_week[seq(20,row_stop,20),3:col_stop]))))
+names(wage_table)[5:((max_codes*2)+(5-1))] <- c(paste0("pc", seq(1,max_codes,1)),
+                                                paste0("ph", seq(1,max_codes,1)))
+base_cols <- (5+(max_codes*2)):(((5-1)+(max_codes*2))+length(project.codes))
+names(wage_table)[base_cols] <- project.codes
 
 #Create a matrix with employee/week (rows) and project codes (column to hold OT hours)
 #This corresponds with the fourth section in wage_table.
@@ -349,9 +406,10 @@ for(i in 1:length(rwt[,1]))
 
 #Add table with overtime hours by project to wage_table
 rwta <- cbind(rwt, ot_matrix)
-rwta[,39:58][is.na(rwta[,39:58]) == T] <- 0
-check_base <- apply(rwta[,19:38], 1, sum)
-check_ot <- apply(rwta[,39:58], 1, sum)
+ot_cols <- (dim(rwt)[2]+1):(dim(rwt)[2]+length(project.codes))
+rwta[,ot_cols][is.na(rwta[,ot_cols]) == T] <- 0
+check_base <- apply(rwta[,ot_cols], 1, sum)
+check_ot <- apply(rwta[,ot_cols], 1, sum)
 check_summary <- data.frame(base_hrs = (rwta$Total_Hrs-rwta$OT_Hours), check_base = check_base, ot_hrs = rwta$OT_Hours, check_ot = check_ot)
 sort(unique(check_summary$base_hrs - check_summary$check_base))
 sort(unique(check_summary$ot_hrs - check_summary$check_ot))
@@ -359,13 +417,13 @@ which(check_summary$base_hrs != check_summary$check_base)
 
 #Multiply OT hours by 1.5
 #For representation by wage type (base, OT, leave)
-rwta_ot_type <- rwta[,c(39, 41:58)]
-rwta_base_type <- rwta[,c(19, 21:38)]
-rwta_leave_type <- rwta[,c(20,40)]
+rwta_ot_type <- rwta[,c(ot_cols[1], ot_cols[3]:max(ot_cols))]
+rwta_base_type <- rwta[,c(base_cols[1], base_cols[3]:max(base_cols))]
+rwta_leave_type <- rwta[,c(base_cols[2],ot_cols[2])]
 
 #For representation by PI
-rwta_ot_pi <- rwta[,39:58] * 1.5
-rwta_base_pi <- rwta[,19:38]
+rwta_ot_pi <- rwta[,ot_cols] * 1.5
+rwta_base_pi <- rwta[,base_cols]
 
 #Calculate total hours per week (grouped by employee) with OT hours multiplied by 1.5
 #This can be multiplied by the employees wage to determine cost per week.
@@ -417,31 +475,48 @@ total_leave <- apply(rwta_leave_type, 1, sum)
 total_ot <- apply(rwta_ot_type, 1, sum)
 
 #I need dates for week numbers
-wn <- strftime(date, format = "%V")
-wn1 <- sort(unique(wn))
-wn2a <- as.Date(paste(2017, 52, 1, sep="-"), "%Y-%U-%u")
-wn2b <- as.Date(paste(2018, wn1[1:51], 1, sep="-"), "%Y-%U-%u")
-wn2 <- c(wn2a, wn2b)
+#I need dates for week numbers
+wn <- strftime(date, format = "%U")
+wn1 <- sort(unique(wn)) 
+wn2a1 <- as.Date(paste(2020, sort(unique(week2)), 0, sep="-"), "%Y-%W-%w")
+wn2a2 <- wn2a1[!is.na(wn2a1)]
+wn2b <- as.Date(paste(2021, 1, 0, sep="-"), "%Y-%W-%w")
+wn2 <- c(wn2a2, wn2b)
 wn3 <- substring(wn2,6)
 
 #Barplot of hours by week for each UW field staff employee
 dev.off()
-par(mfrow=c(4,1), mar = c(4, 4, 4, 2))
+par(mfrow=c(3,2), mar = c(4, 4, 4, 2))
 cf <- 0.5
 ln <- "Nemens"
 barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
         las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
-ln <- "Restaino"
+ln <- "Lascheck"
 barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
         las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
-ln <- "Yang"
+ln <- "Thoreson"
 barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
         las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
-ln <- "Wiggins"
+ln <- "Tripodi"
 barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
         las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
-#legend(1,80, c("Paid Leave", "Base", "OT"), fill = gray((1:3)/4))
+ln <- "Darmody"
+barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
+        las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
+ln <- "Hallet"
+barplot(cbind(total_leave[rwta$LastName == ln], total_base[rwta$LastName == ln], total_ot[rwta$LastName == ln]) ~ wn3, 
+        las = 2, xlab ="", ylim = c(0,90), col = gray((1:3)/4), main = ln)
+
+
+legend(50,80, c("Paid Leave", "Base", "OT"), fill = gray((1:3)/4))
+total_base_arch <- total_base
+total_leave_arch <- total_leave
+total_ot_arch <- total_ot
 
 #Save 
 write.csv(summary_owner_2018, file = "summary_byOwner_2018.csv")
 
+#Calculate salary allocations as a percentage
+total_hrs <- apply(owner_summary[,2:10], 1, sum)
+percent_by_owner <- round(((owner_summary[,2:10]/total_hrs)*100),1)
+row.names(percent_by_owner) <- owner_summary$LastName

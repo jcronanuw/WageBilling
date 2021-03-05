@@ -1,740 +1,740 @@
 Project,Text,Weekday,Date,Start time,Duration,Day accumulated
-FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,1/1/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, LVE",Tuesday,1/1/2019,12:00 PM,6:00,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,1/2/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/2/2019,12:30 PM,3:00,11:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/2/2019,4:00 PM,3:00,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Thursday,1/3/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,Chetco Bar,Monday,5/27/2019,7:30 AM,313:00:00,313:00:00
+FERA Staff Calendar,Conference call,Monday,8/12/2019,5:00 PM,1:00,9:00
+FERA Staff Calendar,D. Nemens,Monday,4/15/2019,4:30 PM,3:00,41:00:00
+FERA Staff Calendar,D. Nemens,Tuesday,4/16/2019,4:30 PM,3:00,32:30:00
+FERA Staff Calendar,D. Nemens,Wednesday,4/17/2019,4:30 PM,3:00,30:00:00
+FERA Staff Calendar,D. Nemens,Thursday,4/18/2019,4:30 PM,3:00,31:30:00
+FERA Staff Calendar,D. Nemens,Friday,4/19/2019,4:30 PM,3:00,24:00:00
+FERA Staff Calendar,D. Nemens,Monday,4/22/2019,4:30 PM,3:00,29:45:00
+FERA Staff Calendar,D. Nemens,Tuesday,4/23/2019,4:30 PM,3:00,35:00:00
+FERA Staff Calendar,D. Nemens,Wednesday,4/24/2019,4:30 PM,3:00,31:30:00
+FERA Staff Calendar,D. Nemens,Thursday,4/25/2019,4:30 PM,3:00,33:00:00
+FERA Staff Calendar,D. Nemens,Friday,4/26/2019,4:30 PM,3:00,31:30:00
+FERA Staff Calendar,D. Nemens,Monday,4/29/2019,4:30 PM,3:00,34:30:00
+FERA Staff Calendar,D. Nemens,Tuesday,4/30/2019,4:30 PM,3:00,34:20:00
+FERA Staff Calendar,D. Nemens,Wednesday,5/1/2019,4:30 PM,3:00,33:30:00
+FERA Staff Calendar,D. Nemens,Thursday,5/2/2019,4:30 PM,3:00,33:30:00
+FERA Staff Calendar,D. Nemens,Friday,5/3/2019,4:30 PM,3:00,31:10:00
+FERA Staff Calendar,D. Nemens,Monday,5/6/2019,4:30 PM,3:00,25:00:00
+FERA Staff Calendar,D. Nemens,Tuesday,5/7/2019,4:30 PM,3:00,22:30
+FERA Staff Calendar,D. Nemens,Wednesday,5/8/2019,4:30 PM,3:00,25:00:00
+FERA Staff Calendar,D. Nemens,Thursday,5/9/2019,4:30 PM,3:00,23:30
+FERA Staff Calendar,D. Nemens,Friday,5/10/2019,4:30 PM,3:00,15:30
+FERA Staff Calendar,D. Nemens,Monday,5/13/2019,4:30 PM,3:00,23:30
+FERA Staff Calendar,D. Nemens,Tuesday,5/14/2019,4:30 PM,3:00,26:30:00
+FERA Staff Calendar,D. Nemens,Wednesday,5/15/2019,4:30 PM,3:00,24:30:00
+FERA Staff Calendar,D. Nemens,Thursday,5/16/2019,4:30 PM,3:00,22:30
+FERA Staff Calendar,D. Nemens,Friday,5/17/2019,4:30 PM,3:00,24:30:00
+FERA Staff Calendar,D. Nemens,Monday,5/20/2019,4:30 PM,3:00,23:15
+FERA Staff Calendar,D. Nemens,Tuesday,5/21/2019,4:30 PM,3:00,21:30
+FERA Staff Calendar,D. Nemens,Wednesday,5/22/2019,4:30 PM,3:00,26:00:00
+FERA Staff Calendar,D. Nemens,Thursday,5/23/2019,4:30 PM,3:00,23:30
+FERA Staff Calendar,D. Nemens,Friday,5/24/2019,4:30 PM,3:00,19:00
+FERA Staff Calendar,D. Nemens,Monday,5/27/2019,4:30 PM,3:00,340:30:00
+FERA Staff Calendar,D. Nemens,Tuesday,5/28/2019,4:30 PM,3:00,25:00:00
+FERA Staff Calendar,D. Nemens,Wednesday,5/29/2019,4:30 PM,3:00,27:00:00
+FERA Staff Calendar,D. Nemens,Thursday,5/30/2019,4:30 PM,3:00,25:30:00
+FERA Staff Calendar,D. Nemens,Friday,5/31/2019,4:30 PM,3:00,22:30
+FERA Staff Calendar,D. Nemens 3DF,Monday,7/1/2019,11:00 AM,8:00,18:30
+FERA Staff Calendar,D. Nemens 3DF,Tuesday,7/2/2019,11:00 AM,8:00,17:00
+FERA Staff Calendar,D. Nemens ADM,Monday,3/25/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,D. Nemens ADM,Tuesday,3/26/2019,1:00 PM,2:00,40:30:00
+FERA Staff Calendar,D. Nemens ADM,Friday,3/29/2019,11:30 AM,8:00,34:00:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,4/3/2019,1:30 PM,2:00,33:30:00
+FERA Staff Calendar,D. Nemens ADM,Friday,4/5/2019,5:00 PM,2:30,37:00:00
+FERA Staff Calendar,D. Nemens ADM,Monday,4/8/2019,4:00 PM,4:00,26:00:00
+FERA Staff Calendar,D. Nemens ADM,Tuesday,4/9/2019,4:00 PM,4:00,22:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,4/10/2019,4:00 PM,4:00,89:00:00
+FERA Staff Calendar,D. Nemens ADM,Thursday,4/11/2019,4:00 PM,4:00,38:00:00
+FERA Staff Calendar,D. Nemens ADM,Friday,4/12/2019,4:00 PM,4:00,39:00:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,7/3/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens ADM,Friday,7/5/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens ADM,Wednesday,8/14/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens FLB,Monday,6/3/2019,11:00 AM,8:00,17:50
+FERA Staff Calendar,D. Nemens FLB,Tuesday,6/4/2019,11:00 AM,8:00,21:00
+FERA Staff Calendar,D. Nemens FLB,Wednesday,6/5/2019,11:00 AM,8:00,23:00
+FERA Staff Calendar,D. Nemens FLB,Thursday,6/6/2019,11:00 AM,8:00,28:00:00
+FERA Staff Calendar,D. Nemens FLB,Friday,6/7/2019,11:00 AM,8:00,25:45:00
+FERA Staff Calendar,D. Nemens FLB,Monday,6/10/2019,11:00 AM,8:00,24:30:00
+FERA Staff Calendar,D. Nemens FLB,Tuesday,6/11/2019,11:00 AM,8:00,26:30:00
+FERA Staff Calendar,D. Nemens FLB,Wednesday,6/12/2019,11:00 AM,8:00,30:00:00
+FERA Staff Calendar,D. Nemens FLB,Thursday,6/13/2019,11:00 AM,8:00,29:30:00
+FERA Staff Calendar,D. Nemens FLB,Friday,6/14/2019,11:00 AM,8:00,29:00:00
+FERA Staff Calendar,D. Nemens FLB,Monday,6/17/2019,11:00 AM,8:00,18:30
+FERA Staff Calendar,D. Nemens FLB,Tuesday,6/18/2019,11:00 AM,8:00,19:45
+FERA Staff Calendar,D. Nemens FLB,Wednesday,6/19/2019,11:00 AM,8:00,21:00
+FERA Staff Calendar,D. Nemens FLB,Thursday,6/20/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens FLB,Friday,6/21/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens JMV,Monday,4/1/2019,11:30 AM,32:30:00,130:30:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,4/3/2019,3:30 PM,3:30,37:00:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,4/4/2019,11:30 AM,8:00,40:00:00
+FERA Staff Calendar,D. Nemens JMV,Friday,4/5/2019,11:00 AM,6:00,14:30
+FERA Staff Calendar,D. Nemens JMV,Monday,4/8/2019,11:30 AM,4:00,18:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,4/9/2019,11:30 AM,4:00,18:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,4/10/2019,11:30 AM,4:00,85:00:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,4/11/2019,11:30 AM,4:00,34:00:00
+FERA Staff Calendar,D. Nemens JMV,Friday,4/12/2019,11:30 AM,4:00,35:00:00
+FERA Staff Calendar,D. Nemens JMV,Monday,4/15/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,4/16/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,4/17/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,4/18/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Friday,4/19/2019,11:00 AM,5:00,9:00
+FERA Staff Calendar,D. Nemens JMV,Monday,4/22/2019,11:00 AM,5:00,5:30
+FERA Staff Calendar,D. Nemens JMV,Tuesday,4/23/2019,11:00 AM,5:00,14:30
+FERA Staff Calendar,D. Nemens JMV,Wednesday,4/24/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,4/25/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Friday,4/26/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Monday,4/29/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,4/30/2019,11:00 AM,5:00,14:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,5/1/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,5/2/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Friday,5/3/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Monday,5/6/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,5/7/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,5/8/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,5/9/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Friday,5/10/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Monday,5/13/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,5/14/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,5/15/2019,11:00 AM,5:00,15:30
+FERA Staff Calendar,D. Nemens JMV,Thursday,5/16/2019,11:00 AM,5:00,15:30
+FERA Staff Calendar,D. Nemens JMV,Friday,5/17/2019,11:00 AM,5:00,15:30
+FERA Staff Calendar,D. Nemens JMV,Monday,5/20/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,5/21/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,5/22/2019,11:00 AM,5:00,5:30
+FERA Staff Calendar,D. Nemens JMV,Thursday,5/23/2019,11:00 AM,5:00,5:30
+FERA Staff Calendar,D. Nemens JMV,Friday,5/24/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,D. Nemens JMV,Monday,5/27/2019,11:00 AM,5:00,331:30:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,5/28/2019,11:00 AM,5:00,15:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,5/29/2019,11:00 AM,5:00,18:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,5/30/2019,11:00 AM,5:00,15:30
+FERA Staff Calendar,D. Nemens JMV,Friday,5/31/2019,11:00 AM,5:00,15:30
+FERA Staff Calendar,D. Nemens JMV,Monday,6/24/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens JMV,Tuesday,6/25/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens JMV,Wednesday,6/26/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens JMV,Thursday,6/27/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens JMV,Friday,6/28/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,D. Nemens S/L,Wednesday,4/3/2019,11:00 AM,2:30,15:30
+FERA Staff Calendar,D. Nemens S/L,Wednesday,4/24/2019,11:00 AM,1:00,14:30
+FERA Staff Calendar,D. Nemens TRN,Thursday,3/28/2019,10:00 AM,10:30,10:30
+FERA Staff Calendar,Dentist,Saturday,8/10/2019,11:00 AM,1:00,1:00
+FERA Staff Calendar,DN Dr's appt,Wednesday,7/17/2019,6:00 PM,1:00,10:30
+FERA Staff Calendar,field crew meeting,Wednesday,8/21/2019,4:00 PM,1:00,9:30
+FERA Staff Calendar,Field Staff Meeting,Thursday,10/3/2019,5:30 PM,1:00,17:30
+FERA Staff Calendar,Holiday -- Forest Service and Univ. of Washington,Monday,2/18/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,IFPL Measurements,Monday,12/2/2019,3:30 AM,265:00:00,265:00:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,9/22/2019,10:30 AM,12:30,12:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,9/23/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,9/24/2019,10:30 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,9/25/2019,10:30 AM,10:30,23:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,9/26/2019,10:30 AM,12:00,23:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,9/27/2019,10:30 AM,11:00,11:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,9/28/2019,10:00 AM,12:30,12:30
+FERA Staff Calendar,"J. Thoreson, A/L",Monday,12/2/2019,11:00 AM,8:30,285:00:00
+FERA Staff Calendar,"J. Thoreson, A/L",Tuesday,12/17/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, A/L",Monday,12/23/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, A/L",Tuesday,12/24/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, A/L",Wednesday,12/25/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, A/L",Thursday,12/26/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, A/L",Friday,12/27/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/1/2019,11:00 AM,9:30,91:00:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/2/2019,11:00 AM,8:30,17:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/3/2019,11:00 AM,4:00,13:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/3/2019,5:00 PM,3:00,40:00:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/4/2019,11:00 AM,8:30,17:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/11/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/12/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/15/2019,11:00 AM,8:30,21:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/16/2019,11:00 AM,8:30,21:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/17/2019,11:00 AM,9:00,23:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/18/2019,11:00 AM,8:30,19:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/19/2019,11:00 AM,8:00,21:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/22/2019,12:30 PM,7:15,26:45:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/23/2019,11:00 AM,9:30,24:00:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/24/2019,11:00 AM,8:30,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/25/2019,11:00 AM,9:00,21:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/26/2019,11:00 AM,8:30,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/29/2019,11:00 AM,9:30,23:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/30/2019,11:00 AM,9:20,23:20
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/1/2019,11:00 AM,8:30,22:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/2/2019,11:00 AM,8:30,22:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/3/2019,11:30 AM,6:10,20:10
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/6/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/7/2019,11:00 AM,8:30,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/8/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/9/2019,11:30 AM,8:30,18:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/10/2019,11:30 AM,7:30,12:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/13/2019,11:00 AM,8:30,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/14/2019,11:00 AM,11:30,16:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/15/2019,10:00 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/16/2019,10:00 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/17/2019,10:00 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, ADM",Saturday,5/18/2019,10:00 AM,15:30,15:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,5/20/2019,11:00 AM,9:15,14:15
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,5/21/2019,12:30 PM,7:30,18:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,5/22/2019,11:00 AM,9:30,15:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,5/23/2019,11:00 AM,8:00,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/24/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"J. Thoreson, MJO",Monday,5/27/2019,10:00 AM,13:30,326:30:00
+FERA Staff Calendar,"J. Thoreson, MJO",Tuesday,5/28/2019,9:45 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, MJO",Wednesday,5/29/2019,9:15 AM,13:00,13:00
+FERA Staff Calendar,"J. Thoreson, MJO",Thursday,5/30/2019,9:15 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, MJO",Friday,5/31/2019,9:15 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, MJO",Saturday,6/1/2019,9:00 AM,10:45,21:30
+FERA Staff Calendar,"J. Thoreson, MJO",Sunday,6/2/2019,9:00 AM,13:00,26:00:00
+FERA Staff Calendar,"J. Thoreson, MJO",Monday,6/3/2019,9:15 AM,9:50,9:50
+FERA Staff Calendar,"J. Thoreson, MJO",Tuesday,6/4/2019,9:15 AM,13:00,13:00
+FERA Staff Calendar,"J. Thoreson, MJO",Wednesday,6/5/2019,10:00 AM,10:00,15:00
+FERA Staff Calendar,"J. Thoreson, MJO",Thursday,6/6/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"J. Thoreson, MJO",Friday,6/7/2019,10:00 AM,9:45,9:45
+FERA Staff Calendar,"J. Thoreson, MJO",Saturday,6/8/2019,10:00 AM,6:30,6:30
+FERA Staff Calendar,"J. Thoreson, MJO",Sunday,6/9/2019,10:00 AM,13:30,13:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,6/10/2019,11:00 AM,8:30,16:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,6/11/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,6/12/2019,10:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,6/13/2019,10:00 AM,10:30,21:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,6/14/2019,10:00 AM,10:00,21:00
+FERA Staff Calendar,"J. Thoreson, FLB",Saturday,6/15/2019,10:00 AM,12:00,23:00
+FERA Staff Calendar,"J. Thoreson, FLB",Sunday,6/16/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,6/17/2019,10:00 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,6/18/2019,10:00 AM,11:45,11:45
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,6/19/2019,10:00 AM,13:00,13:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,6/20/2019,12:00 PM,9:00,17:00
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,6/21/2019,12:00 PM,3:00,11:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,6/24/2019,12:30 PM,5:30,13:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,6/25/2019,11:45 AM,6:30,14:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,6/26/2019,11:00 AM,8:30,16:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,6/27/2019,11:30 AM,8:30,16:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,6/28/2019,11:00 AM,8:30,16:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/1/2019,9:30 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,7/2/2019,10:00 AM,9:00,9:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,7/3/2019,11:30 AM,8:30,16:30
+FERA Staff Calendar,"J. Thoreson, LVE",Thursday,7/4/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,7/5/2019,12:30 PM,5:00,13:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,7/8/2019,11:30 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,7/9/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,7/10/2019,11:00 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,7/11/2019,11:00 AM,12:00,12:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,7/12/2019,10:00 AM,13:30,13:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,7/13/2019,1:00 PM,3:30,3:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,7/15/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,7/16/2019,12:00 PM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,7/17/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,7/18/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/19/2019,11:30 AM,6:30,6:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,7/22/2019,11:00 AM,9:30,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,7/23/2019,11:00 AM,9:30,10:00
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,7/24/2019,12:00 PM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,7/25/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/26/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Monday,7/29/2019,10:00 AM,13:00,13:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,7/30/2019,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,7/31/2019,10:00 AM,12:30,12:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,8/1/2019,9:30 AM,13:30,13:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Friday,8/2/2019,11:00 AM,7:30,7:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,8/3/2019,11:00 AM,12:00,20:00
+FERA Staff Calendar,"J. Thoreson, FLB",Sunday,8/4/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,8/5/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,8/6/2019,9:30 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,8/7/2019,9:30 AM,12:00,12:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,8/8/2019,9:30 AM,11:30,11:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,8/9/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,8/12/2019,11:30 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,8/13/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,8/14/2019,12:00 PM,7:30,12:30
+FERA Staff Calendar,"J. Thoreson, UAV",Thursday,8/15/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/16/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,8/19/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,8/20/2019,12:00 PM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,8/21/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/22/2019,10:30 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/23/2019,12:30 PM,6:00,6:30
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,8/26/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,8/27/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,8/28/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/29/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, LVE",Monday,9/2/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, UAV",Tuesday,9/3/2019,12:00 PM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, UAV",Wednesday,9/4/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,9/5/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,9/6/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,9/9/2019,10:30 AM,9:00,9:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,9/10/2019,12:00 PM,8:30,23:30
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,9/11/2019,12:00 PM,6:30,17:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,9/12/2019,11:00 AM,10:00,20:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,9/13/2019,12:00 PM,8:30,19:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,9/30/2019,11:30 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/2/2019,11:30 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/3/2019,12:00 PM,8:00,16:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/4/2019,11:00 AM,6:00,6:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/7/2019,12:00 PM,7:00,19:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/8/2019,11:30 AM,9:30,20:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/10/2019,11:30 AM,8:00,17:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/11/2019,11:00 AM,7:30,18:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/16/2019,12:30 PM,7:30,16:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/17/2019,1:00 PM,27:00:00,35:30:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/18/2019,11:00 AM,8:30,13:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/21/2019,12:00 PM,7:30,7:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/22/2019,12:30 PM,7:30,15:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/23/2019,12:00 PM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/25/2019,11:00 AM,9:30,19:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/28/2019,12:00 PM,8:30,18:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/29/2019,12:00 PM,0:30,10:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/30/2019,11:00 AM,8:30,19:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/31/2019,1:30 PM,5:30,15:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/11/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/11/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,11/12/2019,12:30 PM,7:00,7:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,11/13/2019,11:45 AM,7:45,17:15
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/14/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/15/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/21/2019,12:30 PM,2:30,12:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/22/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/25/2019,11:30 AM,9:00,9:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,11/26/2019,1:00 PM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,11/27/2019,1:00 PM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/28/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/29/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/2/2019,11:00 AM,8:30,293:30:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/3/2019,2:00 PM,5:30,14:00
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/5/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/6/2019,11:00 AM,8:30,16:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/9/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/10/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,12/11/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/12/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/13/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/16/2019,1:00 PM,8:00,16:30
+FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,12/18/2019,12:00 PM,8:00,16:30
+FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/19/2019,11:30 AM,9:00,17:30
+FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/20/2019,11:00 AM,8:30,17:00
+FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/30/2019,10:30 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/31/2019,10:30 AM,5:00,5:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,9/16/2019,9:30 AM,14:00,14:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,9/17/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,9/18/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,9/19/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,9/20/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,"J. Thoreson, FLB",Saturday,9/21/2019,10:30 AM,10:30,26:00:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,10/14/2019,9:30 AM,16:00,16:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,10/15/2019,10:00 AM,15:30,15:30
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,11/1/2019,9:30 AM,14:00,14:00
+FERA Staff Calendar,"J. Thoreson, FLB",Saturday,11/2/2019,12:00 PM,9:00,28:30:00
+FERA Staff Calendar,"J. Thoreson, FLB",Sunday,11/3/2019,9:30 AM,11:00,22:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,11/4/2019,9:30 AM,11:00,11:00
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,11/5/2019,9:30 AM,12:15,22:45
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,11/6/2019,9:30 AM,11:15,21:45
+FERA Staff Calendar,"J. Thoreson, FLB",Thursday,11/7/2019,9:30 AM,13:00,25:00:00
+FERA Staff Calendar,"J. Thoreson, FLB",Friday,11/8/2019,9:30 AM,13:00,20:00
+FERA Staff Calendar,"J. Thoreson, FLB",Saturday,11/9/2019,11:30 AM,9:30,19:00
+FERA Staff Calendar,"J. Thoreson, FLB",Monday,11/18/2019,6:00 AM,13:30,13:30
+FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,11/19/2019,9:30 AM,12:30,25:00:00
+FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,11/20/2019,10:00 AM,13:00,24:00:00
+FERA Staff Calendar,"J. Thoreson, JVM",Tuesday,10/1/2019,10:00 AM,12:00,24:00:00
+FERA Staff Calendar,"J. Thoreson, PERSONAL DAY",Thursday,10/24/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"J. Thoreson, Sick Leave",Wednesday,12/4/2019,11:00 AM,8:30,15:00
+FERA Staff Calendar,"J. Thoreson, TRN",Friday,4/5/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"J. Thoreson, TRN",Saturday,4/6/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, TRN",Sunday,4/7/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J. Thoreson, UAV",Wednesday,10/9/2019,9:30 AM,10:30,10:30
+FERA Staff Calendar,"J.Restaino, 3DF",Thursday,2/7/2019,1:00 PM,3:00,14:00
 FERA Staff Calendar,"J.Restaino, ADM",Thursday,1/3/2019,12:30 PM,3:00,11:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/3/2019,4:00 PM,3:30,14:30
-FERA Staff Calendar,"Jim Cronan, LVE",Friday,1/4/2019,11:00 AM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, ADM",Friday,1/4/2019,11:00 AM,5:00,13:00
-FERA Staff Calendar,"Jim Cronan, LVE",Monday,1/7/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,1/7/2019,12:00 PM,8:00,16:00
-FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,1/8/2019,11:00 AM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, ADM",Tuesday,1/8/2019,12:00 PM,3:30,11:30
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,1/8/2019,4:00 PM,2:30,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,1/9/2019,11:00 AM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, ADM",Wednesday,1/9/2019,12:00 PM,4:00,12:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/9/2019,4:30 PM,2:00,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Thursday,1/10/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/10/2019,12:00 PM,3:30,11:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/10/2019,4:00 PM,2:30,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Friday,1/11/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,1/22/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,1/24/2019,10:00 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,1/25/2019,10:00 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,1/29/2019,12:00 PM,6:00,9:30
+FERA Staff Calendar,"J.Restaino, ADM",Friday,2/1/2019,12:00 PM,6:00,14:30
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,2/5/2019,5:00 PM,2:00,15:30
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/7/2019,11:00 AM,2:00,11:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/7/2019,6:00 PM,1:00,17:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,2/8/2019,3:00 PM,2:00,27:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,2/20/2019,11:00 AM,7:00,16:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/21/2019,4:00 PM,3:00,12:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,2/22/2019,3:30 PM,3:00,28:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,2/25/2019,11:30 AM,7:00,16:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,2/26/2019,4:00 PM,3:00,28:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/28/2019,11:00 AM,8:00,17:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,3/4/2019,11:00 AM,9:00,17:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/5/2019,12:00 PM,6:00,15:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/7/2019,3:00 PM,3:00,12:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,3/11/2019,11:00 AM,2:00,11:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,3/11/2019,3:00 PM,4:00,17:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/12/2019,10:30 AM,5:00,14:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/13/2019,10:30 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/13/2019,6:00 PM,2:00,15:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/14/2019,10:30 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/14/2019,6:00 PM,2:00,15:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,3/15/2019,10:30 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,3/18/2019,11:00 AM,8:00,16:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/19/2019,11:00 AM,8:00,16:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/20/2019,11:00 AM,6:00,14:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,3/25/2019,12:00 PM,8:00,34:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/26/2019,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/27/2019,10:00 AM,10:00,10:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,3/29/2019,2:00 PM,4:00,38:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,4/1/2019,11:00 AM,7:00,98:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,4/3/2019,11:00 AM,7:00,31:30:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,4/8/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,4/15/2019,11:00 AM,8:00,38:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,4/17/2019,11:00 AM,4:00,27:00:00
+FERA Staff Calendar,"J.Restaino, ADM",Friday,4/19/2019,11:00 AM,4:00,4:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,4/25/2019,11:00 AM,7:00,12:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,5/6/2019,11:00 AM,8:00,22:00
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/8/2019,11:00 AM,8:00,22:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,5/9/2019,11:00 AM,5:00,10:00
+FERA Staff Calendar,"J.Restaino, ADM",Monday,5/13/2019,12:00 PM,7:00,20:30
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/15/2019,3:00 PM,3:00,21:30
+FERA Staff Calendar,"J.Restaino, ADM",Friday,5/17/2019,12:00 PM,6:00,21:30
+FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/22/2019,11:30 AM,8:00,23:00
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,5/30/2019,12:00 PM,2:00,17:30
+FERA Staff Calendar,"J.Restaino, ADM",Thursday,6/6/2019,12:00 PM,6:00,34:00:00
 FERA Staff Calendar,"J.Restaino, FCC",Friday,1/11/2019,12:00 PM,4:00,12:00
+FERA Staff Calendar,"J.Restaino, FCC",Thursday,1/31/2019,12:00 PM,6:00,15:30
+FERA Staff Calendar,"J.Restaino, FCC",Friday,2/8/2019,6:00 PM,1:00,29:00:00
+FERA Staff Calendar,"J.Restaino, FCC",Monday,4/22/2019,11:00 AM,5:00,19:30
+FERA Staff Calendar,"J.Restaino, FCC",Wednesday,4/24/2019,11:00 AM,5:00,28:30:00
+FERA Staff Calendar,"J.Restaino, FCC",Friday,5/3/2019,12:00 PM,8:00,28:10:00
+FERA Staff Calendar,"J.Restaino, LVE",Tuesday,1/1/2019,12:00 PM,6:00,14:00
+FERA Staff Calendar,"J.Restaino, LVE",Monday,1/7/2019,12:00 PM,8:00,16:00
 FERA Staff Calendar,"J.Restaino, LVE",Monday,1/14/2019,12:00 PM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, LVE",Tuesday,1/15/2019,12:00 PM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, LVE",Wednesday,1/16/2019,12:00 PM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, LVE",Thursday,1/17/2019,12:00 PM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, LVE",Friday,1/18/2019,12:00 PM,8:00,8:00
 FERA Staff Calendar,"J.Restaino, LVE",Monday,1/21/2019,1:00 PM,6:00,6:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,1/22/2019,10:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/23/2019,10:00 AM,7:00,7:00
 FERA Staff Calendar,"J.Restaino, LVE",Wednesday,1/23/2019,5:30 PM,2:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,1/24/2019,10:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/24/2019,4:00 PM,3:00,8:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,1/25/2019,10:00 AM,5:00,5:00
 FERA Staff Calendar,"J.Restaino, LVE",Monday,1/28/2019,1:00 PM,6:00,6:00
-FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,11:00 AM,3:30,3:30
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,1/29/2019,12:00 PM,6:00,9:30
-FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,5:30 PM,0:30,10:00
-FERA Staff Calendar,"Jim Cronan, 3DF",Tuesday,1/29/2019,6:00 PM,0:30,10:30
-FERA Staff Calendar,"Jim Cronan, FCM",Tuesday,1/29/2019,6:30 PM,0:30,11:00
-FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,7:00 PM,1:30,12:30
-FERA Staff Calendar,"Jim Cronan, ADM",Wednesday,1/30/2019,10:00 AM,3:30,3:30
+FERA Staff Calendar,"J.Restaino, LVE",Wednesday,2/6/2019,12:00 PM,8:00,17:00
+FERA Staff Calendar,"J.Restaino, LVE",Thursday,2/7/2019,4:00 PM,2:00,16:00
+FERA Staff Calendar,"J.Restaino, LVE",Monday,2/11/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, LVE",Tuesday,2/12/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, LVE",Wednesday,2/13/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, LVE",Thursday,2/14/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, LVE",Friday,2/15/2019,10:00 AM,8:00,8:00
+FERA Staff Calendar,"J.Restaino, LVE",Monday,2/18/2019,11:00 AM,6:00,14:00
+FERA Staff Calendar,"J.Restaino, LVE",Friday,3/1/2019,10:00 AM,6:00,6:00
+FERA Staff Calendar,"J.Restaino, LVE",Friday,3/8/2019,12:00 PM,6:00,15:00
+FERA Staff Calendar,"J.Restaino, LVE",Monday,3/11/2019,1:00 PM,2:00,13:00
+FERA Staff Calendar,"J.Restaino, LVE",Tuesday,4/2/2019,11:00 AM,6:00,23:30
+FERA Staff Calendar,"J.Restaino, LVE",Friday,4/5/2019,11:00 AM,4:00,34:30:00
+FERA Staff Calendar,"J.Restaino, LVE",Wednesday,4/10/2019,11:00 AM,6:00,63:30:00
+FERA Staff Calendar,"J.Restaino, LVE",Friday,4/12/2019,11:00 AM,6:00,22:30
+FERA Staff Calendar,"J.Restaino, LVE",Monday,5/20/2019,1:00 PM,6:00,20:15
+FERA Staff Calendar,"J.Restaino, LVE",Monday,5/27/2019,12:00 PM,6:00,337:30:00
+FERA Staff Calendar,"J.Restaino, LVE",Monday,6/3/2019,1:00 PM,6:00,31:50:00
+FERA Staff Calendar,"J.Restaino, LVE",Friday,6/7/2019,1:00 PM,6:00,31:45:00
+FERA Staff Calendar,"J.Restaino, RUD",Friday,2/22/2019,11:00 AM,16:00,25:00:00
+FERA Staff Calendar,"J.Restaino, RUD",Tuesday,2/26/2019,11:30 AM,16:00,25:00:00
+FERA Staff Calendar,"J.Restaino, TRN",Tuesday,4/23/2019,11:00 AM,8:00,32:00:00
+FERA Staff Calendar,"J.Restaino, TRN",Monday,4/29/2019,12:00 PM,8:00,31:30:00
+FERA Staff Calendar,"J.Restaino, TRN",Tuesday,4/30/2019,12:00 PM,8:00,31:20:00
+FERA Staff Calendar,"J.Restaino, TRN",Wednesday,5/1/2019,12:00 PM,8:00,30:30:00
+FERA Staff Calendar,"J.Restaino, TRN",Thursday,5/2/2019,12:00 PM,8:00,30:30:00
+FERA Staff Calendar,"J.Restaino, TRN",Wednesday,5/15/2019,12:00 PM,3:00,18:30
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/2/2019,12:30 PM,3:00,11:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/2/2019,4:00 PM,3:00,14:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/3/2019,4:00 PM,3:30,14:30
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,1/8/2019,4:00 PM,2:30,14:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/9/2019,4:30 PM,2:00,14:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/10/2019,12:00 PM,3:30,11:30
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/10/2019,4:00 PM,2:30,14:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/23/2019,10:00 AM,7:00,7:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,1/24/2019,4:00 PM,3:00,8:00
 FERA Staff Calendar,"J.Restaino, WWC",Wednesday,1/30/2019,12:00 PM,6:00,9:30
-FERA Staff Calendar,"Jim Cronan, 3DF",Wednesday,1/30/2019,1:30 PM,1:30,11:00
-FERA Staff Calendar,"Jim Cronan, 3DF",Wednesday,1/30/2019,3:30 PM,1:30,12:30
-FERA Staff Calendar,"Jim Cronan, ADM",Wednesday,1/30/2019,5:00 PM,1:30,14:00
-FERA Staff Calendar,Jim Cronan,Thursday,1/31/2019,11:30 AM,9:30,9:30
-FERA Staff Calendar,"J.Restaino, FCC",Thursday,1/31/2019,12:00 PM,6:00,15:30
-FERA Staff Calendar,Jim Cronan,Friday,2/1/2019,9:30 AM,8:30,8:30
-FERA Staff Calendar,"J.Restaino, ADM",Friday,2/1/2019,12:00 PM,6:00,14:30
-FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,11:30 AM,2:30,2:30
 FERA Staff Calendar,"J.Restaino, WWC",Monday,2/4/2019,1:30 PM,6:00,8:30
-FERA Staff Calendar,"Jim Cronan, 3DF",Monday,2/4/2019,2:00 PM,1:30,10:00
-FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,4:30 PM,1:00,11:00
-FERA Staff Calendar,"Jim Cronan, UAV",Monday,2/4/2019,5:30 PM,1:00,12:00
-FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,6:30 PM,2:00,14:00
+FERA Staff Calendar,"J.Restaino, WWC",Friday,2/8/2019,11:00 AM,16:00,25:00:00
+FERA Staff Calendar,"J.Restaino, WWC",Friday,2/8/2019,5:00 PM,1:00,28:00:00
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,2/19/2019,11:00 AM,7:00,16:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,2/27/2019,10:30 AM,4:00,4:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,3/6/2019,12:00 PM,6:00,15:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,3/20/2019,5:00 PM,2:00,16:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,3/21/2019,11:00 AM,6:00,6:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,3/28/2019,10:00 AM,8:00,18:30
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/4/2019,11:00 AM,6:00,32:00:00
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,4/9/2019,11:00 AM,5:00,5:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/11/2019,11:00 AM,4:00,12:30
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,4/16/2019,11:00 AM,8:00,29:30:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/18/2019,11:00 AM,6:00,11:00
+FERA Staff Calendar,"J.Restaino, WWC",Friday,4/26/2019,11:00 AM,5:00,18:30
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/7/2019,12:00 PM,6:00,19:30
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/9/2019,4:00 PM,2:00,20:30
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/14/2019,12:00 PM,7:00,23:30
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/16/2019,12:00 PM,4:00,19:30
+FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/21/2019,12:00 PM,6:00,11:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/23/2019,11:30 AM,7:00,20:30
+FERA Staff Calendar,"J.Restaino, WWC",Friday,5/24/2019,12:00 PM,3:00,16:00
+FERA Staff Calendar,"J.Restaino, WWC",Wednesday,5/29/2019,12:30 PM,6:00,24:00:00
+FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/30/2019,2:00 PM,5:00,22:30
+FERA Staff Calendar,"J.Restaino, WWC",Friday,5/31/2019,12:00 PM,4:00,19:30
+FERA Staff Calendar,"J.Restaino, WWC ",Tuesday,5/28/2019,11:00 AM,7:00,22:00
+FERA Staff Calendar,"J.Thoreson, ADM",Monday,3/25/2019,12:00 PM,8:30,26:00:00
+FERA Staff Calendar,"J.Thoreson, ADM",Tuesday,3/26/2019,11:00 AM,9:30,38:30:00
+FERA Staff Calendar,"J.Thoreson, ADM",Wednesday,3/27/2019,11:00 AM,5:00,23:30
+FERA Staff Calendar,"J.Thoreson, ADM",Friday,3/29/2019,11:00 AM,8:30,17:30
+FERA Staff Calendar,"J.Thoreson, ADM",Wednesday,4/10/2019,11:00 AM,8:30,57:30:00
+FERA Staff Calendar,"J.Thoreson, TRN",Thursday,3/28/2019,10:30 AM,10:00,28:30:00
+FERA Staff Calendar,Jim Cronan,Thursday,1/31/2019,11:30 AM,9:30,9:30
+FERA Staff Calendar,Jim Cronan,Friday,2/1/2019,9:30 AM,8:30,8:30
 FERA Staff Calendar,Jim Cronan,Tuesday,2/5/2019,11:00 AM,8:30,8:30
 FERA Staff Calendar,Jim Cronan,Tuesday,2/5/2019,2:00 PM,2:00,10:30
 FERA Staff Calendar,Jim Cronan,Tuesday,2/5/2019,4:00 PM,3:00,13:30
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,2/5/2019,5:00 PM,2:00,15:30
 FERA Staff Calendar,Jim Cronan,Wednesday,2/6/2019,10:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, LVE",Wednesday,2/6/2019,12:00 PM,8:00,17:00
 FERA Staff Calendar,Jim Cronan,Thursday,2/7/2019,10:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/7/2019,11:00 AM,2:00,11:00
-FERA Staff Calendar,"J.Restaino, 3DF",Thursday,2/7/2019,1:00 PM,3:00,14:00
-FERA Staff Calendar,"J.Restaino, LVE",Thursday,2/7/2019,4:00 PM,2:00,16:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/7/2019,6:00 PM,1:00,17:00
 FERA Staff Calendar,Jim Cronan,Friday,2/8/2019,10:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, WWC",Friday,2/8/2019,11:00 AM,16:00,25:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,2/8/2019,3:00 PM,2:00,27:00:00
-FERA Staff Calendar,"J.Restaino, WWC",Friday,2/8/2019,5:00 PM,1:00,28:00:00
-FERA Staff Calendar,"J.Restaino, FCC",Friday,2/8/2019,6:00 PM,1:00,29:00:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,2/11/2019,10:00 AM,8:00,8:00
-FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/11/2019,11:30 AM,1:30,9:30
-FERA Staff Calendar,"Jim Cronan, UAV",Monday,2/11/2019,1:00 PM,2:30,12:00
-FERA Staff Calendar,"Jim Cronan, LVE",Monday,2/11/2019,3:30 PM,4:00,16:00
-FERA Staff Calendar,"J.Restaino, LVE",Tuesday,2/12/2019,10:00 AM,8:00,8:00
-FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,2/12/2019,10:30 AM,2:00,10:00
-FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,2/12/2019,12:30 PM,1:00,11:00
-FERA Staff Calendar,"Jim Cronan, JMV",Tuesday,2/12/2019,1:30 PM,0:30,11:30
-FERA Staff Calendar,"Jim Cronan, 3DF",Tuesday,2/12/2019,2:00 PM,1:00,12:30
-FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,2/12/2019,4:00 PM,0:30,13:00
-FERA Staff Calendar,"Jim Cronan, JMV",Tuesday,2/12/2019,4:30 PM,0:30,13:30
-FERA Staff Calendar,"Jim Cronan, UAV",Tuesday,2/12/2019,5:00 PM,2:30,16:00
-FERA Staff Calendar,"J.Restaino, LVE",Wednesday,2/13/2019,10:00 AM,8:00,8:00
-FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,2/13/2019,11:00 AM,8:00,16:00
-FERA Staff Calendar,"J.Restaino, LVE",Thursday,2/14/2019,10:00 AM,8:00,8:00
-FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,12:00 PM,1:00,9:00
-FERA Staff Calendar,"Jim Cronan, 3DF",Thursday,2/14/2019,1:00 PM,1:00,10:00
-FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,2:00 PM,2:00,12:00
-FERA Staff Calendar,"Jim Cronan, ROV",Thursday,2/14/2019,4:00 PM,1:00,13:00
-FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,6:00 PM,1:00,14:00
-FERA Staff Calendar,"J.Restaino, LVE",Friday,2/15/2019,10:00 AM,8:00,8:00
 FERA Staff Calendar,Jim Cronan,Friday,2/15/2019,11:00 AM,9:00,17:00
-FERA Staff Calendar,Holiday -- Forest Service and Univ. of Washington,Monday,2/18/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,2/18/2019,11:00 AM,6:00,14:00
-FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,2/19/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,2/19/2019,11:00 AM,7:00,16:00
-FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,2/20/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,2/20/2019,11:00 AM,7:00,16:00
-FERA Staff Calendar,"Jim Cronan, Lab",Thursday,2/21/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/21/2019,4:00 PM,3:00,12:00
-FERA Staff Calendar,"Jim Cronan, Lab",Friday,2/22/2019,9:30 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, RUD",Friday,2/22/2019,11:00 AM,16:00,25:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,2/22/2019,3:30 PM,3:00,28:00:00
-FERA Staff Calendar,"Jim Cronan, Lab",Monday,2/25/2019,11:30 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,2/25/2019,11:30 AM,7:00,16:00
-FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,2/26/2019,11:30 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, RUD",Tuesday,2/26/2019,11:30 AM,16:00,25:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,2/26/2019,4:00 PM,3:00,28:00:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,2/27/2019,10:30 AM,4:00,4:00
-FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,2/27/2019,11:00 AM,9:00,13:00
-FERA Staff Calendar,"Jim Cronan, Lab",Thursday,2/28/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,2/28/2019,11:00 AM,8:00,17:00
-FERA Staff Calendar,"J.Restaino, LVE",Friday,3/1/2019,10:00 AM,6:00,6:00
-FERA Staff Calendar,"Jim Cronan, LVE",Friday,3/1/2019,11:00 AM,8:00,14:00
-FERA Staff Calendar,"Jim Cronan, LVE",Monday,3/4/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,3/4/2019,11:00 AM,9:00,17:00
+FERA Staff Calendar,"Jim Cronan, 3DF",Tuesday,1/29/2019,6:00 PM,0:30,10:30
+FERA Staff Calendar,"Jim Cronan, 3DF",Wednesday,1/30/2019,1:30 PM,1:30,11:00
+FERA Staff Calendar,"Jim Cronan, 3DF",Wednesday,1/30/2019,3:30 PM,1:30,12:30
+FERA Staff Calendar,"Jim Cronan, 3DF",Monday,2/4/2019,2:00 PM,1:30,10:00
+FERA Staff Calendar,"Jim Cronan, 3DF",Tuesday,2/12/2019,2:00 PM,1:00,12:30
+FERA Staff Calendar,"Jim Cronan, 3DF",Thursday,2/14/2019,1:00 PM,1:00,10:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Sunday,4/28/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Monday,4/29/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Tuesday,4/30/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Wednesday,5/1/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Thursday,5/2/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Friday,5/3/2019,11:00 AM,9:00,14:00
+FERA Staff Calendar,"Jim Cronan, A/L",Friday,4/12/2019,11:00 AM,8:00,16:30
+FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,11:00 AM,3:30,3:30
+FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,5:30 PM,0:30,10:00
+FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,1/29/2019,7:00 PM,1:30,12:30
+FERA Staff Calendar,"Jim Cronan, ADM",Wednesday,1/30/2019,10:00 AM,3:30,3:30
+FERA Staff Calendar,"Jim Cronan, ADM",Wednesday,1/30/2019,5:00 PM,1:30,14:00
+FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,11:30 AM,2:30,2:30
+FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,4:30 PM,1:00,11:00
+FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/4/2019,6:30 PM,2:00,14:00
+FERA Staff Calendar,"Jim Cronan, ADM",Monday,2/11/2019,11:30 AM,1:30,9:30
+FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,2/12/2019,12:30 PM,1:00,11:00
+FERA Staff Calendar,"Jim Cronan, ADM",Tuesday,2/12/2019,4:00 PM,0:30,13:00
+FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,12:00 PM,1:00,9:00
+FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,2:00 PM,2:00,12:00
+FERA Staff Calendar,"Jim Cronan, ADM",Thursday,2/14/2019,6:00 PM,1:00,14:00
+FERA Staff Calendar,"Jim Cronan, FCM",Tuesday,1/29/2019,6:30 PM,0:30,11:00
 FERA Staff Calendar,"Jim Cronan, Field",Tuesday,3/5/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/5/2019,12:00 PM,6:00,15:00
 FERA Staff Calendar,"Jim Cronan, Field",Wednesday,3/6/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,3/6/2019,12:00 PM,6:00,15:00
 FERA Staff Calendar,"Jim Cronan, Field",Thursday,3/7/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/7/2019,3:00 PM,3:00,12:00
 FERA Staff Calendar,"Jim Cronan, Field",Friday,3/8/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, LVE",Friday,3/8/2019,12:00 PM,6:00,15:00
 FERA Staff Calendar,"Jim Cronan, Field",Saturday,3/9/2019,8:00 AM,9:00,9:00
 FERA Staff Calendar,"Jim Cronan, Field",Sunday,3/10/2019,8:00 AM,9:00,9:00
 FERA Staff Calendar,"Jim Cronan, Field",Monday,3/11/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,3/11/2019,11:00 AM,2:00,11:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,3/11/2019,1:00 PM,2:00,13:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,3/11/2019,3:00 PM,4:00,17:00
 FERA Staff Calendar,"Jim Cronan, Field",Tuesday,3/12/2019,8:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/12/2019,10:30 AM,5:00,14:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/13/2019,10:30 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, Lve",Wednesday,3/13/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/13/2019,6:00 PM,2:00,15:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/14/2019,10:30 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, Lve",Thursday,3/14/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,3/14/2019,6:00 PM,2:00,15:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,3/15/2019,10:30 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, LVE",Friday,3/15/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"Jim Cronan, LVE",Monday,3/18/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,3/18/2019,11:00 AM,8:00,16:00
-FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,3/19/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/19/2019,11:00 AM,8:00,16:00
-FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,3/20/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/20/2019,11:00 AM,6:00,14:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,3/20/2019,5:00 PM,2:00,16:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,3/21/2019,11:00 AM,6:00,6:00
+FERA Staff Calendar,"Jim Cronan, Field",Thursday,6/13/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Jim Cronan, Field",Friday,6/14/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Jim Cronan, Field",Saturday,6/15/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,"Jim Cronan, Fire Refresher/WCT",Thursday,4/11/2019,11:00 AM,9:00,21:30
+FERA Staff Calendar,"Jim Cronan, JMV",Tuesday,2/12/2019,1:30 PM,0:30,11:30
+FERA Staff Calendar,"Jim Cronan, JMV",Tuesday,2/12/2019,4:30 PM,0:30,13:30
+FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,2/19/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,2/20/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Thursday,2/21/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Friday,2/22/2019,9:30 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Monday,2/25/2019,11:30 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,2/26/2019,11:30 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,2/27/2019,11:00 AM,9:00,13:00
+FERA Staff Calendar,"Jim Cronan, Lab",Thursday,2/28/2019,11:00 AM,9:00,9:00
 FERA Staff Calendar,"Jim Cronan, Lab",Thursday,3/21/2019,11:00 AM,9:00,15:00
 FERA Staff Calendar,"Jim Cronan, Lab",Friday,3/22/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"Jim Cronan, Rx-410",Sunday,3/24/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,D. Nemens ADM,Monday,3/25/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"Jim Cronan, Rx-410",Monday,3/25/2019,11:00 AM,9:00,17:30
-FERA Staff Calendar,"J.Thoreson, ADM",Monday,3/25/2019,12:00 PM,8:30,26:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,3/25/2019,12:00 PM,8:00,34:00:00
-FERA Staff Calendar,"N.Tripodi, ADM",Monday,3/25/2019,12:00 PM,8:30,42:30:00
-FERA Staff Calendar,"J.Restaino, ADM",Tuesday,3/26/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,N.Tripodi,Tuesday,3/26/2019,10:30 AM,10:00,20:00
-FERA Staff Calendar,"Jim Cronan, Rx-410",Tuesday,3/26/2019,11:00 AM,9:00,29:00:00
-FERA Staff Calendar,"J.Thoreson, ADM",Tuesday,3/26/2019,11:00 AM,9:30,38:30:00
-FERA Staff Calendar,D. Nemens ADM,Tuesday,3/26/2019,1:00 PM,2:00,40:30:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,3/27/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,N.Tripodi ADM,Wednesday,3/27/2019,10:30 AM,8:30,18:30
-FERA Staff Calendar,"J.Thoreson, ADM",Wednesday,3/27/2019,11:00 AM,5:00,23:30
-FERA Staff Calendar,"Jim Cronan, Rx-410",Wednesday,3/27/2019,11:00 AM,9:00,32:30:00
-FERA Staff Calendar,D. Nemens TRN,Thursday,3/28/2019,10:00 AM,10:30,10:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,3/28/2019,10:00 AM,8:00,18:30
-FERA Staff Calendar,"J.Thoreson, TRN",Thursday,3/28/2019,10:30 AM,10:00,28:30:00
-FERA Staff Calendar,N.Tripodi Training,Thursday,3/28/2019,10:30 AM,8:00,36:30:00
 FERA Staff Calendar,"Jim Cronan, Lab",Thursday,3/28/2019,11:00 AM,9:00,45:30:00
 FERA Staff Calendar,"Jim Cronan, Lab",Friday,3/29/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J.Thoreson, ADM",Friday,3/29/2019,11:00 AM,8:30,17:30
-FERA Staff Calendar,N.Tripodi ADM,Friday,3/29/2019,11:00 AM,8:30,26:00:00
-FERA Staff Calendar,D. Nemens ADM,Friday,3/29/2019,11:30 AM,8:00,34:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,3/29/2019,2:00 PM,4:00,38:00:00
-FERA Staff Calendar,SERDP Mock Plot Sample Processing (3DF),Monday,4/1/2019,6:00 AM,73:00:00,73:00:00
 FERA Staff Calendar,"Jim Cronan, Lab",Monday,4/1/2019,10:30 AM,8:30,81:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/1/2019,11:00 AM,9:30,91:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,4/1/2019,11:00 AM,7:00,98:00:00
-FERA Staff Calendar,D. Nemens JMV,Monday,4/1/2019,11:30 AM,32:30:00,130:30:00
-FERA Staff Calendar,N.Tripodi,Monday,4/1/2019,11:30 AM,9:00,139:30:00
-FERA Staff Calendar,"SEFS event - Diaz: Mining Public Data to Enhance Forest Assessment, Monitoring, and Modeling",Monday,4/1/2019,2:00 PM,1:00,140:30:00
 FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,4/2/2019,10:30 AM,9:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/2/2019,11:00 AM,8:30,17:30
-FERA Staff Calendar,"J.Restaino, LVE",Tuesday,4/2/2019,11:00 AM,6:00,23:30
-FERA Staff Calendar,N.Tripodi,Tuesday,4/2/2019,11:30 AM,9:00,32:30:00
-FERA Staff Calendar,"Jim Cronan, Portland",Wednesday,4/3/2019,9:00 AM,9:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/3/2019,11:00 AM,4:00,13:00
-FERA Staff Calendar,D. Nemens S/L,Wednesday,4/3/2019,11:00 AM,2:30,15:30
-FERA Staff Calendar,N.Tripodi,Wednesday,4/3/2019,11:00 AM,9:00,24:30:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,4/3/2019,11:00 AM,7:00,31:30:00
-FERA Staff Calendar,D. Nemens ADM,Wednesday,4/3/2019,1:30 PM,2:00,33:30:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,4/3/2019,3:30 PM,3:30,37:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/3/2019,5:00 PM,3:00,40:00:00
-FERA Staff Calendar,"Jim Cronan, Portland",Thursday,4/4/2019,10:30 AM,9:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/4/2019,11:00 AM,8:30,17:30
-FERA Staff Calendar,N.Tripodi,Thursday,4/4/2019,11:00 AM,8:30,26:00:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/4/2019,11:00 AM,6:00,32:00:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,4/4/2019,11:30 AM,8:00,40:00:00
-FERA Staff Calendar,"J. Thoreson, TRN",Friday,4/5/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,D. Nemens JMV,Friday,4/5/2019,11:00 AM,6:00,14:30
 FERA Staff Calendar,"Jim Cronan, Lab",Friday,4/5/2019,11:00 AM,9:00,23:30
-FERA Staff Calendar,N.Tripodi,Friday,4/5/2019,11:00 AM,7:00,30:30:00
-FERA Staff Calendar,"J.Restaino, LVE",Friday,4/5/2019,11:00 AM,4:00,34:30:00
-FERA Staff Calendar,D. Nemens ADM,Friday,4/5/2019,5:00 PM,2:30,37:00:00
-FERA Staff Calendar,"J. Thoreson, TRN",Saturday,4/6/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,N.Tripodi TRN,Saturday,4/6/2019,11:00 AM,8:00,16:00
-FERA Staff Calendar,"J. Thoreson, TRN",Sunday,4/7/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,N.Tripodi TRN,Sunday,4/7/2019,11:00 AM,8:00,16:00
-FERA Staff Calendar,"Jim Cronan, Work at Home",Monday,4/8/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,4/8/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,D. Nemens JMV,Monday,4/8/2019,11:30 AM,4:00,18:00
 FERA Staff Calendar,"Jim Cronan, Lab",Monday,4/8/2019,4:00 PM,4:00,22:00
-FERA Staff Calendar,D. Nemens ADM,Monday,4/8/2019,4:00 PM,4:00,26:00:00
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,4/9/2019,11:00 AM,5:00,5:00
 FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,4/9/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,D. Nemens JMV,Tuesday,4/9/2019,11:30 AM,4:00,18:00
-FERA Staff Calendar,D. Nemens ADM,Tuesday,4/9/2019,4:00 PM,4:00,22:00
-FERA Staff Calendar,TTRS Mock Plot Sample Processing & Data Entry,Wednesday,4/10/2019,6:00 AM,49:00:00,49:00:00
-FERA Staff Calendar,"J.Thoreson, ADM",Wednesday,4/10/2019,11:00 AM,8:30,57:30:00
-FERA Staff Calendar,"J.Restaino, LVE",Wednesday,4/10/2019,11:00 AM,6:00,63:30:00
 FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,4/10/2019,11:00 AM,9:00,72:30:00
-FERA Staff Calendar,N.Tripodi ADM,Wednesday,4/10/2019,11:20 AM,8:30,81:00:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,4/10/2019,11:30 AM,4:00,85:00:00
-FERA Staff Calendar,D. Nemens ADM,Wednesday,4/10/2019,4:00 PM,4:00,89:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/11/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/11/2019,11:00 AM,4:00,12:30
-FERA Staff Calendar,"Jim Cronan, Fire Refresher/WCT",Thursday,4/11/2019,11:00 AM,9:00,21:30
-FERA Staff Calendar,N.Tripodi ADM,Thursday,4/11/2019,11:10 AM,8:30,30:00:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,4/11/2019,11:30 AM,4:00,34:00:00
-FERA Staff Calendar,D. Nemens ADM,Thursday,4/11/2019,4:00 PM,4:00,38:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/12/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"Jim Cronan, A/L",Friday,4/12/2019,11:00 AM,8:00,16:30
-FERA Staff Calendar,"J.Restaino, LVE",Friday,4/12/2019,11:00 AM,6:00,22:30
-FERA Staff Calendar,N.Tripodi ADM,Friday,4/12/2019,11:15 AM,8:30,31:00:00
-FERA Staff Calendar,D. Nemens JMV,Friday,4/12/2019,11:30 AM,4:00,35:00:00
-FERA Staff Calendar,D. Nemens ADM,Friday,4/12/2019,4:00 PM,4:00,39:00:00
-FERA Staff Calendar,"Jim Cronan, Utah",Sunday,4/14/2019,4:00 PM,9:00,9:00
-FERA Staff Calendar,D. Nemens JMV,Monday,4/15/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, Utah",Monday,4/15/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/15/2019,11:00 AM,8:30,21:30
-FERA Staff Calendar,N.Tripodi ADM,Monday,4/15/2019,11:00 AM,8:30,30:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,4/15/2019,11:00 AM,8:00,38:00:00
-FERA Staff Calendar,D. Nemens,Monday,4/15/2019,4:30 PM,3:00,41:00:00
-FERA Staff Calendar,D. Nemens JMV,Tuesday,4/16/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, Utah",Tuesday,4/16/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/16/2019,11:00 AM,8:30,21:30
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,4/16/2019,11:00 AM,8:00,29:30:00
-FERA Staff Calendar,D. Nemens,Tuesday,4/16/2019,4:30 PM,3:00,32:30:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,4/17/2019,11:00 AM,5:00,5:00
 FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,4/17/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/17/2019,11:00 AM,9:00,23:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,4/17/2019,11:00 AM,4:00,27:00:00
-FERA Staff Calendar,D. Nemens,Wednesday,4/17/2019,4:30 PM,3:00,30:00:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,4/18/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,4/18/2019,11:00 AM,6:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/18/2019,11:00 AM,8:30,19:30
 FERA Staff Calendar,"Jim Cronan, Lab",Thursday,4/18/2019,11:00 AM,9:00,28:30:00
-FERA Staff Calendar,D. Nemens,Thursday,4/18/2019,4:30 PM,3:00,31:30:00
-FERA Staff Calendar,"J.Restaino, ADM",Friday,4/19/2019,11:00 AM,4:00,4:00
-FERA Staff Calendar,D. Nemens JMV,Friday,4/19/2019,11:00 AM,5:00,9:00
 FERA Staff Calendar,"Jim Cronan, Lab",Friday,4/19/2019,11:00 AM,4:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/19/2019,11:00 AM,8:00,21:00
-FERA Staff Calendar,D. Nemens,Friday,4/19/2019,4:30 PM,3:00,24:00:00
-FERA Staff Calendar,Vehicle inspection due today,Monday,4/22/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,D. Nemens JMV,Monday,4/22/2019,11:00 AM,5:00,5:30
 FERA Staff Calendar,"Jim Cronan, Lab",Monday,4/22/2019,11:00 AM,9:00,14:30
-FERA Staff Calendar,"J.Restaino, FCC",Monday,4/22/2019,11:00 AM,5:00,19:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/22/2019,12:30 PM,7:15,26:45:00
-FERA Staff Calendar,D. Nemens,Monday,4/22/2019,4:30 PM,3:00,29:45:00
-FERA Staff Calendar,Mail vehicle history today,Tuesday,4/23/2019,10:30 AM,0:30,0:30
 FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,4/23/2019,11:00 AM,9:00,9:30
-FERA Staff Calendar,D. Nemens JMV,Tuesday,4/23/2019,11:00 AM,5:00,14:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/23/2019,11:00 AM,9:30,24:00:00
-FERA Staff Calendar,"J.Restaino, TRN",Tuesday,4/23/2019,11:00 AM,8:00,32:00:00
-FERA Staff Calendar,D. Nemens,Tuesday,4/23/2019,4:30 PM,3:00,35:00:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,4/24/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,4/24/2019,11:00 AM,8:30,13:30
-FERA Staff Calendar,D. Nemens S/L,Wednesday,4/24/2019,11:00 AM,1:00,14:30
 FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,4/24/2019,11:00 AM,9:00,23:30
-FERA Staff Calendar,"J.Restaino, FCC",Wednesday,4/24/2019,11:00 AM,5:00,28:30:00
-FERA Staff Calendar,D. Nemens,Wednesday,4/24/2019,4:30 PM,3:00,31:30:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,4/25/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,4/25/2019,11:00 AM,7:00,12:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,4/25/2019,11:00 AM,9:00,21:00
 FERA Staff Calendar,"Jim Cronan, Lab",Thursday,4/25/2019,11:00 AM,9:00,30:00:00
-FERA Staff Calendar,D. Nemens,Thursday,4/25/2019,4:30 PM,3:00,33:00:00
-FERA Staff Calendar,D. Nemens JMV,Friday,4/26/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,4/26/2019,11:00 AM,8:30,13:30
-FERA Staff Calendar,"J.Restaino, WWC",Friday,4/26/2019,11:00 AM,5:00,18:30
 FERA Staff Calendar,"Jim Cronan, Lab",Friday,4/26/2019,11:00 AM,9:00,27:30:00
-FERA Staff Calendar,work meeting,Friday,4/26/2019,12:30 PM,1:00,28:30:00
-FERA Staff Calendar,D. Nemens,Friday,4/26/2019,4:30 PM,3:00,31:30:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Sunday,4/28/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,D. Nemens JMV,Monday,4/29/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Monday,4/29/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,4/29/2019,11:00 AM,9:30,23:30
-FERA Staff Calendar,"J.Restaino, TRN",Monday,4/29/2019,12:00 PM,8:00,31:30:00
-FERA Staff Calendar,D. Nemens,Monday,4/29/2019,4:30 PM,3:00,34:30:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Tuesday,4/30/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,D. Nemens JMV,Tuesday,4/30/2019,11:00 AM,5:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,4/30/2019,11:00 AM,9:20,23:20
-FERA Staff Calendar,"J.Restaino, TRN",Tuesday,4/30/2019,12:00 PM,8:00,31:20:00
-FERA Staff Calendar,D. Nemens,Tuesday,4/30/2019,4:30 PM,3:00,34:20:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,5/1/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Wednesday,5/1/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/1/2019,11:00 AM,8:30,22:30
-FERA Staff Calendar,"J.Restaino, TRN",Wednesday,5/1/2019,12:00 PM,8:00,30:30:00
-FERA Staff Calendar,D. Nemens,Wednesday,5/1/2019,4:30 PM,3:00,33:30:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,5/2/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Thursday,5/2/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/2/2019,11:00 AM,8:30,22:30
-FERA Staff Calendar,"J.Restaino, TRN",Thursday,5/2/2019,12:00 PM,8:00,30:30:00
-FERA Staff Calendar,D. Nemens,Thursday,5/2/2019,4:30 PM,3:00,33:30:00
-FERA Staff Calendar,D. Nemens JMV,Friday,5/3/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"Jim Cronan, 6th Fire Behavior and Fuels Conference",Friday,5/3/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/3/2019,11:30 AM,6:10,20:10
-FERA Staff Calendar,"J.Restaino, FCC",Friday,5/3/2019,12:00 PM,8:00,28:10:00
-FERA Staff Calendar,D. Nemens,Friday,5/3/2019,4:30 PM,3:00,31:10:00
-FERA Staff Calendar,D. Nemens JMV,Monday,5/6/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/6/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J.Restaino, ADM",Monday,5/6/2019,11:00 AM,8:00,22:00
-FERA Staff Calendar,D. Nemens,Monday,5/6/2019,4:30 PM,3:00,25:00:00
-FERA Staff Calendar,D. Nemens JMV,Tuesday,5/7/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/7/2019,11:00 AM,8:30,13:30
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/7/2019,12:00 PM,6:00,19:30
-FERA Staff Calendar,D. Nemens,Tuesday,5/7/2019,4:30 PM,3:00,22:30
-FERA Staff Calendar,D. Nemens JMV,Wednesday,5/8/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/8/2019,11:00 AM,9:00,14:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/8/2019,11:00 AM,8:00,22:00
-FERA Staff Calendar,D. Nemens,Wednesday,5/8/2019,4:30 PM,3:00,25:00:00
-FERA Staff Calendar,D. Nemens JMV,Thursday,5/9/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,5/9/2019,11:00 AM,5:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/9/2019,11:30 AM,8:30,18:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/9/2019,4:00 PM,2:00,20:30
-FERA Staff Calendar,D. Nemens,Thursday,5/9/2019,4:30 PM,3:00,23:30
-FERA Staff Calendar,D. Nemens JMV,Friday,5/10/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/10/2019,11:30 AM,7:30,12:30
-FERA Staff Calendar,D. Nemens,Friday,5/10/2019,4:30 PM,3:00,15:30
-FERA Staff Calendar,D. Nemens JMV,Monday,5/13/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/13/2019,11:00 AM,8:30,13:30
-FERA Staff Calendar,"J.Restaino, ADM",Monday,5/13/2019,12:00 PM,7:00,20:30
-FERA Staff Calendar,D. Nemens,Monday,5/13/2019,4:30 PM,3:00,23:30
-FERA Staff Calendar,D. Nemens JMV,Tuesday,5/14/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/14/2019,11:00 AM,11:30,16:30
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/14/2019,12:00 PM,7:00,23:30
-FERA Staff Calendar,D. Nemens,Tuesday,5/14/2019,4:30 PM,3:00,26:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/15/2019,10:00 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens JMV,Wednesday,5/15/2019,11:00 AM,5:00,15:30
-FERA Staff Calendar,"J.Restaino, TRN",Wednesday,5/15/2019,12:00 PM,3:00,18:30
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/15/2019,3:00 PM,3:00,21:30
-FERA Staff Calendar,D. Nemens,Wednesday,5/15/2019,4:30 PM,3:00,24:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/16/2019,10:00 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens JMV,Thursday,5/16/2019,11:00 AM,5:00,15:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/16/2019,12:00 PM,4:00,19:30
-FERA Staff Calendar,D. Nemens,Thursday,5/16/2019,4:30 PM,3:00,22:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/17/2019,10:00 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens JMV,Friday,5/17/2019,11:00 AM,5:00,15:30
-FERA Staff Calendar,"J.Restaino, ADM",Friday,5/17/2019,12:00 PM,6:00,21:30
-FERA Staff Calendar,D. Nemens,Friday,5/17/2019,4:30 PM,3:00,24:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,5/18/2019,10:00 AM,15:30,15:30
-FERA Staff Calendar,N.Tripodi TRN,Saturday,5/18/2019,10:00 AM,15:30,31:00:00
-FERA Staff Calendar,D. Nemens JMV,Monday,5/20/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/20/2019,11:00 AM,9:15,14:15
-FERA Staff Calendar,"J.Restaino, LVE",Monday,5/20/2019,1:00 PM,6:00,20:15
-FERA Staff Calendar,D. Nemens,Monday,5/20/2019,4:30 PM,3:00,23:15
-FERA Staff Calendar,D. Nemens JMV,Tuesday,5/21/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J.Restaino, WWC",Tuesday,5/21/2019,12:00 PM,6:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/21/2019,12:30 PM,7:30,18:30
-FERA Staff Calendar,D. Nemens,Tuesday,5/21/2019,4:30 PM,3:00,21:30
-FERA Staff Calendar,Vehicle inspection due today,Wednesday,5/22/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,D. Nemens JMV,Wednesday,5/22/2019,11:00 AM,5:00,5:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/22/2019,11:00 AM,9:30,15:00
-FERA Staff Calendar,"J.Restaino, ADM",Wednesday,5/22/2019,11:30 AM,8:00,23:00
-FERA Staff Calendar,D. Nemens,Wednesday,5/22/2019,4:30 PM,3:00,26:00:00
-FERA Staff Calendar,Mail vehicle history today,Thursday,5/23/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,D. Nemens JMV,Thursday,5/23/2019,11:00 AM,5:00,5:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/23/2019,11:00 AM,8:00,13:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/23/2019,11:30 AM,7:00,20:30
-FERA Staff Calendar,D. Nemens,Thursday,5/23/2019,4:30 PM,3:00,23:30
-FERA Staff Calendar,D. Nemens JMV,Friday,5/24/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/24/2019,11:00 AM,8:00,13:00
-FERA Staff Calendar,"J.Restaino, WWC",Friday,5/24/2019,12:00 PM,3:00,16:00
-FERA Staff Calendar,D. Nemens,Friday,5/24/2019,4:30 PM,3:00,19:00
-FERA Staff Calendar,Chetco Bar,Monday,5/27/2019,7:30 AM,313:00:00,313:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,5/27/2019,10:00 AM,13:30,326:30:00
-FERA Staff Calendar,D. Nemens JMV,Monday,5/27/2019,11:00 AM,5:00,331:30:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,5/27/2019,12:00 PM,6:00,337:30:00
-FERA Staff Calendar,D. Nemens,Monday,5/27/2019,4:30 PM,3:00,340:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,5/28/2019,9:45 AM,10:00,10:00
-FERA Staff Calendar,D. Nemens JMV,Tuesday,5/28/2019,11:00 AM,5:00,15:00
-FERA Staff Calendar,"J.Restaino, WWC ",Tuesday,5/28/2019,11:00 AM,7:00,22:00
-FERA Staff Calendar,D. Nemens,Tuesday,5/28/2019,4:30 PM,3:00,25:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,5/29/2019,9:15 AM,13:00,13:00
-FERA Staff Calendar,D. Nemens JMV,Wednesday,5/29/2019,11:00 AM,5:00,18:00
-FERA Staff Calendar,"J.Restaino, WWC",Wednesday,5/29/2019,12:30 PM,6:00,24:00:00
-FERA Staff Calendar,D. Nemens,Wednesday,5/29/2019,4:30 PM,3:00,27:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,5/30/2019,9:15 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens JMV,Thursday,5/30/2019,11:00 AM,5:00,15:30
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,5/30/2019,12:00 PM,2:00,17:30
-FERA Staff Calendar,"J.Restaino, WWC",Thursday,5/30/2019,2:00 PM,5:00,22:30
-FERA Staff Calendar,D. Nemens,Thursday,5/30/2019,4:30 PM,3:00,25:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,5/31/2019,9:15 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens JMV,Friday,5/31/2019,11:00 AM,5:00,15:30
-FERA Staff Calendar,"J.Restaino, WWC",Friday,5/31/2019,12:00 PM,4:00,19:30
-FERA Staff Calendar,D. Nemens,Friday,5/31/2019,4:30 PM,3:00,22:30
-FERA Staff Calendar,N.Tripodi,Saturday,6/1/2019,9:00 AM,10:45,10:45
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,6/1/2019,9:00 AM,10:45,21:30
-FERA Staff Calendar,N.Tripodi ,Sunday,6/2/2019,9:00 AM,13:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Sunday,6/2/2019,9:00 AM,13:00,26:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,6/3/2019,9:15 AM,9:50,9:50
-FERA Staff Calendar,D. Nemens FLB,Monday,6/3/2019,11:00 AM,8:00,17:50
 FERA Staff Calendar,"Jim Cronan, Lab",Monday,6/3/2019,11:30 AM,8:00,25:50:00
-FERA Staff Calendar,"J.Restaino, LVE",Monday,6/3/2019,1:00 PM,6:00,31:50:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,6/4/2019,9:15 AM,13:00,13:00
-FERA Staff Calendar,D. Nemens FLB,Tuesday,6/4/2019,11:00 AM,8:00,21:00
 FERA Staff Calendar,"Jim Cronan, Lab",Tuesday,6/4/2019,1:30 PM,5:00,26:00:00
-FERA Staff Calendar,"Jim Cronan, Site Visit",Wednesday,6/5/2019,10:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,6/5/2019,10:00 AM,10:00,15:00
-FERA Staff Calendar,D. Nemens FLB,Wednesday,6/5/2019,11:00 AM,8:00,23:00
 FERA Staff Calendar,"Jim Cronan, Lab",Wednesday,6/5/2019,3:00 PM,5:00,28:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,6/6/2019,10:00 AM,11:00,11:00
 FERA Staff Calendar,"Jim Cronan, Lab",Thursday,6/6/2019,11:00 AM,9:00,20:00
-FERA Staff Calendar,D. Nemens FLB,Thursday,6/6/2019,11:00 AM,8:00,28:00:00
-FERA Staff Calendar,"J.Restaino, ADM",Thursday,6/6/2019,12:00 PM,6:00,34:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,6/7/2019,10:00 AM,9:45,9:45
-FERA Staff Calendar,"Jim Cronan, LVE",Friday,6/7/2019,11:00 AM,8:00,17:45
-FERA Staff Calendar,D. Nemens FLB,Friday,6/7/2019,11:00 AM,8:00,25:45:00
-FERA Staff Calendar,"J.Restaino, LVE",Friday,6/7/2019,1:00 PM,6:00,31:45:00
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,6/8/2019,10:00 AM,6:30,6:30
-FERA Staff Calendar,"J. Thoreson, ADM",Sunday,6/9/2019,10:00 AM,13:30,13:30
 FERA Staff Calendar,"Jim Cronan, Lab",Monday,6/10/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,6/10/2019,11:00 AM,8:30,16:30
-FERA Staff Calendar,D. Nemens FLB,Monday,6/10/2019,11:00 AM,8:00,24:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,6/11/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,1/1/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,1/2/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Thursday,1/3/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Friday,1/4/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Monday,1/7/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,1/8/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,1/9/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Thursday,1/10/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Friday,1/11/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Monday,2/11/2019,3:30 PM,4:00,16:00
+FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,2/12/2019,10:30 AM,2:00,10:00
+FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,2/13/2019,11:00 AM,8:00,16:00
+FERA Staff Calendar,"Jim Cronan, LVE",Friday,3/1/2019,11:00 AM,8:00,14:00
+FERA Staff Calendar,"Jim Cronan, LVE",Monday,3/4/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, Lve",Wednesday,3/13/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Jim Cronan, Lve",Thursday,3/14/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Jim Cronan, LVE",Friday,3/15/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Jim Cronan, LVE",Monday,3/18/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Tuesday,3/19/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Wednesday,3/20/2019,11:00 AM,8:00,8:00
+FERA Staff Calendar,"Jim Cronan, LVE",Friday,6/7/2019,11:00 AM,8:00,17:45
+FERA Staff Calendar,"Jim Cronan, Portland",Wednesday,4/3/2019,9:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Portland",Thursday,4/4/2019,10:30 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, ROV",Thursday,2/14/2019,4:00 PM,1:00,13:00
+FERA Staff Calendar,"Jim Cronan, Rx-410",Sunday,3/24/2019,11:00 AM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Rx-410",Monday,3/25/2019,11:00 AM,9:00,17:30
+FERA Staff Calendar,"Jim Cronan, Rx-410",Tuesday,3/26/2019,11:00 AM,9:00,29:00:00
+FERA Staff Calendar,"Jim Cronan, Rx-410",Wednesday,3/27/2019,11:00 AM,9:00,32:30:00
+FERA Staff Calendar,"Jim Cronan, Site Visit",Wednesday,6/5/2019,10:00 AM,5:00,5:00
 FERA Staff Calendar,"Jim Cronan, Travel",Tuesday,6/11/2019,11:00 AM,10:00,18:30
-FERA Staff Calendar,D. Nemens FLB,Tuesday,6/11/2019,11:00 AM,8:00,26:30:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,6/12/2019,10:00 AM,9:30,9:30
 FERA Staff Calendar,"Jim Cronan, Travel",Wednesday,6/12/2019,10:30 AM,12:30,22:00
-FERA Staff Calendar,D. Nemens FLB,Wednesday,6/12/2019,11:00 AM,8:00,30:00:00
-FERA Staff Calendar,"Jim Cronan, Field",Thursday,6/13/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,6/13/2019,10:00 AM,10:30,21:30
-FERA Staff Calendar,D. Nemens FLB,Thursday,6/13/2019,11:00 AM,8:00,29:30:00
-FERA Staff Calendar,"Jim Cronan, Field",Friday,6/14/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,6/14/2019,10:00 AM,10:00,21:00
-FERA Staff Calendar,D. Nemens FLB,Friday,6/14/2019,11:00 AM,8:00,29:00:00
-FERA Staff Calendar,"Jim Cronan, Field",Saturday,6/15/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,6/15/2019,10:00 AM,12:00,23:00
-FERA Staff Calendar,"J. Thoreson, ADM",Sunday,6/16/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,N.Tripodi,Sunday,6/16/2019,10:00 AM,11:00,22:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,6/17/2019,10:00 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens FLB,Monday,6/17/2019,11:00 AM,8:00,18:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,6/18/2019,10:00 AM,11:45,11:45
-FERA Staff Calendar,D. Nemens FLB,Tuesday,6/18/2019,11:00 AM,8:00,19:45
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,6/19/2019,10:00 AM,13:00,13:00
-FERA Staff Calendar,D. Nemens FLB,Wednesday,6/19/2019,11:00 AM,8:00,21:00
-FERA Staff Calendar,D. Nemens FLB,Thursday,6/20/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,6/20/2019,12:00 PM,9:00,17:00
-FERA Staff Calendar,D. Nemens FLB,Friday,6/21/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,6/21/2019,12:00 PM,3:00,11:00
-FERA Staff Calendar,N.Tripodi,Saturday,6/22/2019,10:00 AM,16:00,16:00
-FERA Staff Calendar,Vehicle inspection due today,Saturday,6/22/2019,10:30 AM,0:30,16:30
-FERA Staff Calendar,Mail vehicle history today,Sunday,6/23/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,D. Nemens JMV,Monday,6/24/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,6/24/2019,12:30 PM,5:30,13:30
-FERA Staff Calendar,N.Tripodi ADM,Monday,6/24/2019,4:00 PM,5:00,18:30
-FERA Staff Calendar,D. Nemens JMV,Tuesday,6/25/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,6/25/2019,11:45 AM,6:30,14:30
-FERA Staff Calendar,D. Nemens JMV,Wednesday,6/26/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,6/26/2019,11:00 AM,8:30,16:30
-FERA Staff Calendar,D. Nemens JMV,Thursday,6/27/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,6/27/2019,11:30 AM,8:30,16:30
-FERA Staff Calendar,D. Nemens JMV,Friday,6/28/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,6/28/2019,11:00 AM,8:30,16:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/1/2019,9:30 AM,10:30,10:30
-FERA Staff Calendar,D. Nemens 3DF,Monday,7/1/2019,11:00 AM,8:00,18:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,7/2/2019,10:00 AM,9:00,9:00
-FERA Staff Calendar,D. Nemens 3DF,Tuesday,7/2/2019,11:00 AM,8:00,17:00
-FERA Staff Calendar,D. Nemens ADM,Wednesday,7/3/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,7/3/2019,11:30 AM,8:30,16:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,7/4/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,D. Nemens ADM,Friday,7/5/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/5/2019,12:30 PM,5:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/8/2019,11:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,7/9/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,7/10/2019,11:00 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,7/11/2019,11:00 AM,12:00,12:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/12/2019,10:00 AM,13:30,13:30
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,7/13/2019,1:00 PM,3:30,3:30
-FERA Staff Calendar,N.Tripodi,Saturday,7/13/2019,1:00 PM,3:30,7:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/15/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,7/16/2019,12:00 PM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,7/17/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,DN Dr's appt,Wednesday,7/17/2019,6:00 PM,1:00,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,7/18/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/19/2019,11:30 AM,6:30,6:30
-FERA Staff Calendar,N.Tripodi ADM,Friday,7/19/2019,12:15 PM,8:45,15:15
-FERA Staff Calendar,Vehicle inspection due today,Monday,7/22/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/22/2019,11:00 AM,9:30,10:00
-FERA Staff Calendar,Mail vehicle history today,Tuesday,7/23/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,7/23/2019,11:00 AM,9:30,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,7/24/2019,12:00 PM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,7/25/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,7/26/2019,11:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,7/29/2019,10:00 AM,13:00,13:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,7/30/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,7/31/2019,10:00 AM,12:30,12:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/1/2019,9:30 AM,13:30,13:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/2/2019,11:00 AM,7:30,7:30
-FERA Staff Calendar,Noelle and Joseph's wedding,Saturday,8/3/2019,5:00 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Saturday,8/3/2019,11:00 AM,12:00,20:00
-FERA Staff Calendar,"J. Thoreson, ADM",Sunday,8/4/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,8/5/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,8/6/2019,9:30 AM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,8/7/2019,9:30 AM,12:00,12:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/8/2019,9:30 AM,11:30,11:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/9/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,Dentist,Saturday,8/10/2019,11:00 AM,1:00,1:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,8/12/2019,11:30 AM,8:00,8:00
-FERA Staff Calendar,Conference call,Monday,8/12/2019,5:00 PM,1:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,8/13/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,D. Nemens ADM,Wednesday,8/14/2019,11:00 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,8/14/2019,12:00 PM,7:30,12:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/15/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/16/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,Linc Pass ID Check Appointment,Friday,8/16/2019,1:00 PM,0:15,8:45
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,8/19/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,8/20/2019,12:00 PM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,8/21/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,field crew meeting,Wednesday,8/21/2019,4:00 PM,1:00,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/22/2019,10:30 AM,9:30,9:30
-FERA Staff Calendar,Vehicle inspection due today,Thursday,8/22/2019,10:30 AM,0:30,10:00
-FERA Staff Calendar,Mail vehicle history today,Friday,8/23/2019,10:30 AM,0:30,0:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,8/23/2019,12:30 PM,6:00,6:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,8/26/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,8/27/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,8/28/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,Truck brakes and 2879 fender,Wednesday,8/28/2019,12:00 PM,1:00,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,8/29/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,Oil change,Saturday,8/31/2019,2:00 PM,1:00,1:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,9/2/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,9/3/2019,12:00 PM,8:00,8:00
-FERA Staff Calendar,Soundpeats earbuds,Tuesday,9/3/2019,12:00 PM,1:00,9:00
-FERA Staff Calendar,Meeting,Tuesday,9/3/2019,4:00 PM,1:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,9/4/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,9/5/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,9/6/2019,11:00 AM,9:00,9:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,9/9/2019,10:30 AM,9:00,9:00
-FERA Staff Calendar,"L. Lascheck, ADM",Monday,9/9/2019,11:00 AM,6:00,15:00
-FERA Staff Calendar,"L. Lascheck, FLB",Tuesday,9/10/2019,7:00 AM,15:00,15:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,9/10/2019,12:00 PM,8:30,23:30
-FERA Staff Calendar,"L. Lascheck, FLB",Wednesday,9/11/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,9/11/2019,12:00 PM,6:30,17:00
-FERA Staff Calendar,"L. Lascheck, FLB",Thursday,9/12/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,9/12/2019,11:00 AM,10:00,20:30
-FERA Staff Calendar,"L. Lascheck, FLB",Friday,9/13/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,9/13/2019,12:00 PM,8:30,19:00
-FERA Staff Calendar,"L. Lascheck, FLB",Saturday,9/14/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,N.Tripodi FLB,Saturday,9/14/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"L. Lascheck, FLB",Sunday,9/15/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,N.Tripodi FLB,Sunday,9/15/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"J. Thoreson, FLB",Monday,9/16/2019,9:30 AM,14:00,14:00
-FERA Staff Calendar,"L. Lascheck, FLB",Monday,9/16/2019,10:30 AM,11:00,25:00:00
-FERA Staff Calendar,"L. Lascheck, FLB",Tuesday,9/17/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,9/17/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"L. Lascheck, FLB",Wednesday,9/18/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,9/18/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"L. Lascheck, FLB",Thursday,9/19/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Thursday,9/19/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"L. Lascheck, FLB",Friday,9/20/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Friday,9/20/2019,10:30 AM,10:30,21:00
-FERA Staff Calendar,"L. Lascheck, FLB",Saturday,9/21/2019,10:30 AM,15:30,15:30
-FERA Staff Calendar,"J. Thoreson, FLB",Saturday,9/21/2019,10:30 AM,10:30,26:00:00
-FERA Staff Calendar,N.Tripodi FLB,Saturday,9/21/2019,11:00 AM,11:45,37:45:00
-FERA Staff Calendar,"J. Thoreson, 3DF",Sunday,9/22/2019,10:30 AM,12:30,12:30
-FERA Staff Calendar,Vehicle inspection due today,Sunday,9/22/2019,10:30 AM,0:30,13:00
-FERA Staff Calendar,"J. Thoreson, 3DF",Monday,9/23/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,Mail vehicle history today,Monday,9/23/2019,10:30 AM,0:30,11:30
-FERA Staff Calendar,"J. Thoreson, 3DF",Tuesday,9/24/2019,10:30 AM,10:00,10:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Tuesday,9/24/2019,3:00 PM,5:00,15:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Wednesday,9/25/2019,10:00 AM,12:30,12:30
-FERA Staff Calendar,"J. Thoreson, 3DF",Wednesday,9/25/2019,10:30 AM,10:30,23:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Thursday,9/26/2019,10:30 AM,11:30,11:30
-FERA Staff Calendar,"J. Thoreson, 3DF",Thursday,9/26/2019,10:30 AM,12:00,23:30
-FERA Staff Calendar,"J. Thoreson, 3DF",Friday,9/27/2019,10:30 AM,11:00,11:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Friday,9/27/2019,10:30 AM,11:00,22:00
-FERA Staff Calendar,"J. Thoreson, 3DF",Saturday,9/28/2019,10:00 AM,12:30,12:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,9/28/2019,10:00 AM,12:30,25:00:00
-FERA Staff Calendar,"L. Lascheck, ADM",Monday,9/30/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,9/30/2019,11:30 AM,8:30,17:00
-FERA Staff Calendar,"L. Lascheck, JMV",Tuesday,10/1/2019,10:00 AM,12:00,12:00
-FERA Staff Calendar,"J. Thoreson, JVM",Tuesday,10/1/2019,10:00 AM,12:00,24:00:00
-FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/2/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/2/2019,11:30 AM,8:30,17:00
-FERA Staff Calendar,"L. Lascheck, ADM",Thursday,10/3/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/3/2019,12:00 PM,8:00,16:30
-FERA Staff Calendar,Field Staff Meeting,Thursday,10/3/2019,5:30 PM,1:00,17:30
-FERA Staff Calendar,SEFS Salmon FEED,Thursday,10/3/2019,7:00 PM,2:00,19:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/4/2019,11:00 AM,6:00,6:00
-FERA Staff Calendar,N.Tripodi 3DF,Saturday,10/5/2019,10:00 AM,11:30,11:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,10/5/2019,10:00 AM,11:30,23:00
-FERA Staff Calendar,N.Tripodi 3DF,Sunday,10/6/2019,10:30 AM,10:30,10:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Sunday,10/6/2019,10:30 AM,11:00,21:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Monday,10/7/2019,11:00 AM,12:00,12:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/7/2019,12:00 PM,7:00,19:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Tuesday,10/8/2019,11:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/8/2019,11:30 AM,9:30,20:00
-FERA Staff Calendar,"J. Thoreson, UAV",Wednesday,10/9/2019,9:30 AM,10:30,10:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Wednesday,10/9/2019,10:00 AM,11:30,22:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Thursday,10/10/2019,11:30 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/10/2019,11:30 AM,8:00,17:30
-FERA Staff Calendar,"L. Lascheck, 3DF",Friday,10/11/2019,11:00 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/11/2019,11:00 AM,7:30,18:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,10/12/2019,10:30 AM,13:00,13:00
-FERA Staff Calendar,"L. Lascheck, 3DF",Sunday,10/13/2019,8:30 AM,12:30,12:30
-FERA Staff Calendar,"J. Thoreson, FLB",Monday,10/14/2019,9:30 AM,16:00,16:00
-FERA Staff Calendar,"L. Lascheck, ADM",Monday,10/14/2019,11:30 AM,8:30,24:30:00
-FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,10/15/2019,10:00 AM,15:30,15:30
-FERA Staff Calendar,"L. Lascheck, ADM",Tuesday,10/15/2019,11:30 AM,8:30,24:00:00
-FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/16/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/16/2019,12:30 PM,7:30,16:00
-FERA Staff Calendar,"L. Lascheck, ADM",Thursday,10/17/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/17/2019,1:00 PM,27:00:00,35:30:00
-FERA Staff Calendar,"L. Lascheck, ADM",Friday,10/18/2019,10:30 AM,5:00,5:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/18/2019,11:00 AM,8:30,13:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/21/2019,12:00 PM,7:30,7:30
-FERA Staff Calendar,"L. Lascheck, ADM",Monday,10/21/2019,1:00 PM,6:30,14:00
-FERA Staff Calendar,"L. Lascheck, ADM",Tuesday,10/22/2019,11:30 AM,7:30,7:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/22/2019,12:30 PM,7:30,15:00
-FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/23/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/23/2019,12:00 PM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, PERSONAL DAY",Thursday,10/24/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"L. Lascheck, ADM",Friday,10/25/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,10/25/2019,11:00 AM,9:30,19:00
-FERA Staff Calendar,L. Lascheck FLB,Sunday,10/27/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,L. Lascheck FLB,Monday,10/28/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,10/28/2019,12:00 PM,8:30,18:30
-FERA Staff Calendar,L. Lascheck FLB,Tuesday,10/29/2019,10:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,10/29/2019,12:00 PM,0:30,10:00
-FERA Staff Calendar,L. Lascheck FLB,Wednesday,10/30/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,10/30/2019,11:00 AM,8:30,19:30
-FERA Staff Calendar,N.Tripodi,Wednesday,10/30/2019,11:30 AM,10:00,29:30:00
-FERA Staff Calendar,L. Lascheck FLB,Thursday,10/31/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,10/31/2019,1:30 PM,5:30,15:30
-FERA Staff Calendar,"J. Thoreson, FLB",Friday,11/1/2019,9:30 AM,14:00,14:00
-FERA Staff Calendar,L. Lascheck FLB,Friday,11/1/2019,10:00 AM,10:30,24:30:00
-FERA Staff Calendar,L. Lascheck FLB,Saturday,11/2/2019,9:30 AM,10:30,10:30
-FERA Staff Calendar,N.Tripodi FLB,Saturday,11/2/2019,12:00 PM,9:00,19:30
-FERA Staff Calendar,"J. Thoreson, FLB",Saturday,11/2/2019,12:00 PM,9:00,28:30:00
-FERA Staff Calendar,L. Lascheck FLB,Sunday,11/3/2019,9:30 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, FLB",Sunday,11/3/2019,9:30 AM,11:00,22:00
-FERA Staff Calendar,N.Tripodi FLB,Sunday,11/3/2019,9:30 AM,11:00,33:00:00
-FERA Staff Calendar,"J. Thoreson, FLB",Monday,11/4/2019,9:30 AM,11:00,11:00
-FERA Staff Calendar,L. Lascheck FLB,Monday,11/4/2019,9:30 AM,11:00,22:00
-FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/5/2019,9:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,11/5/2019,9:30 AM,12:15,22:45
-FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/6/2019,9:30 AM,10:30,10:30
-FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,11/6/2019,9:30 AM,11:15,21:45
-FERA Staff Calendar,L. Lascheck FLB,Thursday,11/7/2019,9:30 AM,12:00,12:00
-FERA Staff Calendar,"J. Thoreson, FLB",Thursday,11/7/2019,9:30 AM,13:00,25:00:00
-FERA Staff Calendar,L. Lascheck FLB,Friday,11/8/2019,9:30 AM,7:00,7:00
-FERA Staff Calendar,"J. Thoreson, FLB",Friday,11/8/2019,9:30 AM,13:00,20:00
-FERA Staff Calendar,N.Tripodi FLB,Saturday,11/9/2019,11:30 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, FLB",Saturday,11/9/2019,11:30 AM,9:30,19:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/11/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/11/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,11/12/2019,12:30 PM,7:00,7:00
-FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/12/2019,1:00 PM,9:30,16:30
-FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/13/2019,11:00 AM,9:30,9:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,11/13/2019,11:45 AM,7:45,17:15
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/14/2019,11:30 AM,8:30,8:30
-FERA Staff Calendar,L. Lascheck ADM,Thursday,11/14/2019,11:30 AM,8:30,17:00
-FERA Staff Calendar,meeting,Thursday,11/14/2019,12:00 PM,0:30,17:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/15/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,L. Lascheck ADM,Friday,11/15/2019,11:30 AM,6:30,15:00
-FERA Staff Calendar,"J. Thoreson, FLB",Monday,11/18/2019,6:00 AM,13:30,13:30
-FERA Staff Calendar,L. Lascheck FLB,Monday,11/18/2019,6:00 AM,13:00,26:30:00
-FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/19/2019,9:30 AM,12:30,12:30
-FERA Staff Calendar,"J. Thoreson, FLB",Tuesday,11/19/2019,9:30 AM,12:30,25:00:00
-FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/20/2019,10:00 AM,11:00,11:00
-FERA Staff Calendar,"J. Thoreson, FLB",Wednesday,11/20/2019,10:00 AM,13:00,24:00:00
-FERA Staff Calendar,L. Lascheck FLB,Thursday,11/21/2019,10:00 AM,10:00,10:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/21/2019,12:30 PM,2:30,12:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/22/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,11/25/2019,11:30 AM,9:00,9:00
-FERA Staff Calendar,L. Lascheck ADM,Monday,11/25/2019,12:00 PM,3:00,12:00
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,11/26/2019,1:00 PM,8:00,8:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,11/27/2019,1:00 PM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,11/28/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,11/29/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,IFPL Measurements,Monday,12/2/2019,3:30 AM,265:00:00,265:00:00
+FERA Staff Calendar,"Jim Cronan, UAV",Monday,2/4/2019,5:30 PM,1:00,12:00
+FERA Staff Calendar,"Jim Cronan, UAV",Monday,2/11/2019,1:00 PM,2:30,12:00
+FERA Staff Calendar,"Jim Cronan, UAV",Tuesday,2/12/2019,5:00 PM,2:30,16:00
+FERA Staff Calendar,"Jim Cronan, Utah",Sunday,4/14/2019,4:00 PM,9:00,9:00
+FERA Staff Calendar,"Jim Cronan, Utah",Monday,4/15/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Jim Cronan, Utah",Tuesday,4/16/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,"Jim Cronan, Work at Home",Monday,4/8/2019,11:00 AM,5:00,5:00
 FERA Staff Calendar,L. Lascheck 3DF,Monday,12/2/2019,10:00 AM,11:30,276:30:00
-FERA Staff Calendar,"J. Thoreson, A/L",Monday,12/2/2019,11:00 AM,8:30,285:00:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/2/2019,11:00 AM,8:30,293:30:00
 FERA Staff Calendar,L. Lascheck 3DF,Tuesday,12/3/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/3/2019,2:00 PM,5:30,14:00
 FERA Staff Calendar,L. Lascheck 3DF,Wednesday,12/4/2019,11:00 AM,6:30,6:30
-FERA Staff Calendar,"J. Thoreson, Sick Leave",Wednesday,12/4/2019,11:00 AM,8:30,15:00
 FERA Staff Calendar,L. Lascheck 3DF,Thursday,12/5/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/5/2019,11:00 AM,8:30,17:00
 FERA Staff Calendar,L. Lascheck 3DF,Friday,12/6/2019,11:00 AM,7:30,7:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/6/2019,11:00 AM,8:30,16:00
 FERA Staff Calendar,L. Lascheck 3DF,Monday,12/9/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/9/2019,11:00 AM,8:30,17:00
 FERA Staff Calendar,L. Lascheck 3DF,Tuesday,12/10/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/10/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,12/11/2019,11:00 AM,8:30,8:30
 FERA Staff Calendar,L. Lascheck 3DF,Wednesday,12/11/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/12/2019,11:00 AM,8:30,8:30
 FERA Staff Calendar,L. Lascheck 3DF,Thursday,12/12/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/13/2019,11:00 AM,8:30,8:30
 FERA Staff Calendar,L. Lascheck 3DF,Friday,12/13/2019,11:00 AM,7:30,16:00
 FERA Staff Calendar,L. Lascheck 3DF,Saturday,12/14/2019,10:30 AM,7:30,7:30
+FERA Staff Calendar,L. Lascheck ADM,Thursday,11/14/2019,11:30 AM,8:30,17:00
+FERA Staff Calendar,L. Lascheck ADM,Friday,11/15/2019,11:30 AM,6:30,15:00
+FERA Staff Calendar,L. Lascheck ADM,Monday,11/25/2019,12:00 PM,3:00,12:00
 FERA Staff Calendar,L. Lascheck ADM,Monday,12/16/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/16/2019,1:00 PM,8:00,16:30
 FERA Staff Calendar,L. Lascheck ADM,Tuesday,12/17/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, A/L",Tuesday,12/17/2019,11:00 AM,8:30,17:00
 FERA Staff Calendar,L. Lascheck ADM,Wednesday,12/18/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Wednesday,12/18/2019,12:00 PM,8:00,16:30
 FERA Staff Calendar,L. Lascheck ADM,Thursday,12/19/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Thursday,12/19/2019,11:30 AM,9:00,17:30
 FERA Staff Calendar,L. Lascheck ADM,Friday,12/20/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, ADM",Friday,12/20/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, A/L",Monday,12/23/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,L. Lascheck FLB,Sunday,10/27/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,L. Lascheck FLB,Monday,10/28/2019,10:00 AM,10:00,10:00
+FERA Staff Calendar,L. Lascheck FLB,Tuesday,10/29/2019,10:00 AM,9:30,9:30
+FERA Staff Calendar,L. Lascheck FLB,Wednesday,10/30/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,L. Lascheck FLB,Thursday,10/31/2019,10:00 AM,10:00,10:00
+FERA Staff Calendar,L. Lascheck FLB,Friday,11/1/2019,10:00 AM,10:30,24:30:00
+FERA Staff Calendar,L. Lascheck FLB,Saturday,11/2/2019,9:30 AM,10:30,10:30
+FERA Staff Calendar,L. Lascheck FLB,Sunday,11/3/2019,9:30 AM,11:00,11:00
+FERA Staff Calendar,L. Lascheck FLB,Monday,11/4/2019,9:30 AM,11:00,22:00
+FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/5/2019,9:30 AM,10:30,10:30
+FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/6/2019,9:30 AM,10:30,10:30
+FERA Staff Calendar,L. Lascheck FLB,Thursday,11/7/2019,9:30 AM,12:00,12:00
+FERA Staff Calendar,L. Lascheck FLB,Friday,11/8/2019,9:30 AM,7:00,7:00
+FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/12/2019,1:00 PM,9:30,16:30
+FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/13/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,L. Lascheck FLB,Monday,11/18/2019,6:00 AM,13:00,26:30:00
+FERA Staff Calendar,L. Lascheck FLB,Tuesday,11/19/2019,9:30 AM,12:30,12:30
+FERA Staff Calendar,L. Lascheck FLB,Wednesday,11/20/2019,10:00 AM,11:00,11:00
+FERA Staff Calendar,L. Lascheck FLB,Thursday,11/21/2019,10:00 AM,10:00,10:00
 FERA Staff Calendar,L. Lascheck FLB,Monday,12/23/2019,11:00 AM,6:30,15:00
-FERA Staff Calendar,"J. Thoreson, A/L",Tuesday,12/24/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, A/L",Wednesday,12/25/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, A/L",Thursday,12/26/2019,11:00 AM,8:30,8:30
 FERA Staff Calendar,L. Lascheck FLB,Thursday,12/26/2019,11:00 AM,9:30,18:00
 FERA Staff Calendar,L. Lascheck FLB,Friday,12/27/2019,11:00 AM,8:30,8:30
-FERA Staff Calendar,"J. Thoreson, A/L",Friday,12/27/2019,11:00 AM,8:30,17:00
-FERA Staff Calendar,"J. Thoreson, ADM",Monday,12/30/2019,10:30 AM,9:30,9:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Tuesday,9/24/2019,3:00 PM,5:00,15:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Wednesday,9/25/2019,10:00 AM,12:30,12:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Thursday,9/26/2019,10:30 AM,11:30,11:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Friday,9/27/2019,10:30 AM,11:00,22:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,9/28/2019,10:00 AM,12:30,25:00:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,10/5/2019,10:00 AM,11:30,23:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Sunday,10/6/2019,10:30 AM,11:00,21:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Monday,10/7/2019,11:00 AM,12:00,12:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Tuesday,10/8/2019,11:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Wednesday,10/9/2019,10:00 AM,11:30,22:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Thursday,10/10/2019,11:30 AM,9:30,9:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Friday,10/11/2019,11:00 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, 3DF",Saturday,10/12/2019,10:30 AM,13:00,13:00
+FERA Staff Calendar,"L. Lascheck, 3DF",Sunday,10/13/2019,8:30 AM,12:30,12:30
+FERA Staff Calendar,"L. Lascheck, ADM",Monday,9/9/2019,11:00 AM,6:00,15:00
+FERA Staff Calendar,"L. Lascheck, ADM",Monday,9/30/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/2/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Thursday,10/3/2019,11:00 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Monday,10/14/2019,11:30 AM,8:30,24:30:00
+FERA Staff Calendar,"L. Lascheck, ADM",Tuesday,10/15/2019,11:30 AM,8:30,24:00:00
+FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/16/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Thursday,10/17/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Friday,10/18/2019,10:30 AM,5:00,5:00
+FERA Staff Calendar,"L. Lascheck, ADM",Monday,10/21/2019,1:00 PM,6:30,14:00
+FERA Staff Calendar,"L. Lascheck, ADM",Tuesday,10/22/2019,11:30 AM,7:30,7:30
+FERA Staff Calendar,"L. Lascheck, ADM",Wednesday,10/23/2019,11:30 AM,8:30,8:30
+FERA Staff Calendar,"L. Lascheck, ADM",Friday,10/25/2019,11:00 AM,9:30,9:30
+FERA Staff Calendar,"L. Lascheck, FLB",Tuesday,9/10/2019,7:00 AM,15:00,15:00
+FERA Staff Calendar,"L. Lascheck, FLB",Wednesday,9/11/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Thursday,9/12/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Friday,9/13/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Saturday,9/14/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Sunday,9/15/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Monday,9/16/2019,10:30 AM,11:00,25:00:00
+FERA Staff Calendar,"L. Lascheck, FLB",Tuesday,9/17/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Wednesday,9/18/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Thursday,9/19/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Friday,9/20/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,"L. Lascheck, FLB",Saturday,9/21/2019,10:30 AM,15:30,15:30
+FERA Staff Calendar,"L. Lascheck, JMV",Tuesday,10/1/2019,10:00 AM,12:00,12:00
 FERA Staff Calendar,"Lascheck, FLB",Monday,12/30/2019,11:00 AM,6:00,15:30
 FERA Staff Calendar,"Lascheck, LVE",Monday,12/30/2019,5:00 PM,2:00,17:30
-FERA Staff Calendar,"J. Thoreson, ADM",Tuesday,12/31/2019,10:30 AM,5:00,5:00
 FERA Staff Calendar,"Lascheck, LVE",Tuesday,12/31/2019,11:00 AM,8:00,13:00
+FERA Staff Calendar,Linc Pass ID Check Appointment,Friday,8/16/2019,1:00 PM,0:15,8:45
+FERA Staff Calendar,Mail vehicle history today,Tuesday,4/23/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Mail vehicle history today,Thursday,5/23/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Mail vehicle history today,Sunday,6/23/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Mail vehicle history today,Tuesday,7/23/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Mail vehicle history today,Friday,8/23/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Mail vehicle history today,Monday,9/23/2019,10:30 AM,0:30,11:30
+FERA Staff Calendar,Meeting,Tuesday,9/3/2019,4:00 PM,1:00,10:00
+FERA Staff Calendar,meeting,Thursday,11/14/2019,12:00 PM,0:30,17:30
+FERA Staff Calendar,N.Tripodi,Tuesday,3/26/2019,10:30 AM,10:00,20:00
+FERA Staff Calendar,N.Tripodi,Monday,4/1/2019,11:30 AM,9:00,139:30:00
+FERA Staff Calendar,N.Tripodi,Tuesday,4/2/2019,11:30 AM,9:00,32:30:00
+FERA Staff Calendar,N.Tripodi,Wednesday,4/3/2019,11:00 AM,9:00,24:30:00
+FERA Staff Calendar,N.Tripodi,Thursday,4/4/2019,11:00 AM,8:30,26:00:00
+FERA Staff Calendar,N.Tripodi,Friday,4/5/2019,11:00 AM,7:00,30:30:00
+FERA Staff Calendar,N.Tripodi,Saturday,6/1/2019,9:00 AM,10:45,10:45
+FERA Staff Calendar,N.Tripodi,Sunday,6/16/2019,10:00 AM,11:00,22:00
+FERA Staff Calendar,N.Tripodi,Saturday,6/22/2019,10:00 AM,16:00,16:00
+FERA Staff Calendar,N.Tripodi,Saturday,7/13/2019,1:00 PM,3:30,7:00
+FERA Staff Calendar,N.Tripodi,Wednesday,10/30/2019,11:30 AM,10:00,29:30:00
+FERA Staff Calendar,N.Tripodi ,Sunday,6/2/2019,9:00 AM,13:00,13:00
+FERA Staff Calendar,N.Tripodi 3DF,Saturday,10/5/2019,10:00 AM,11:30,11:30
+FERA Staff Calendar,N.Tripodi 3DF,Sunday,10/6/2019,10:30 AM,10:30,10:30
+FERA Staff Calendar,N.Tripodi ADM,Wednesday,3/27/2019,10:30 AM,8:30,18:30
+FERA Staff Calendar,N.Tripodi ADM,Friday,3/29/2019,11:00 AM,8:30,26:00:00
+FERA Staff Calendar,N.Tripodi ADM,Wednesday,4/10/2019,11:20 AM,8:30,81:00:00
+FERA Staff Calendar,N.Tripodi ADM,Thursday,4/11/2019,11:10 AM,8:30,30:00:00
+FERA Staff Calendar,N.Tripodi ADM,Friday,4/12/2019,11:15 AM,8:30,31:00:00
+FERA Staff Calendar,N.Tripodi ADM,Monday,4/15/2019,11:00 AM,8:30,30:00:00
+FERA Staff Calendar,N.Tripodi ADM,Monday,6/24/2019,4:00 PM,5:00,18:30
+FERA Staff Calendar,N.Tripodi ADM,Friday,7/19/2019,12:15 PM,8:45,15:15
+FERA Staff Calendar,N.Tripodi FLB,Saturday,9/14/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,N.Tripodi FLB,Sunday,9/15/2019,10:30 AM,10:30,21:00
+FERA Staff Calendar,N.Tripodi FLB,Saturday,9/21/2019,11:00 AM,11:45,37:45:00
+FERA Staff Calendar,N.Tripodi FLB,Saturday,11/2/2019,12:00 PM,9:00,19:30
+FERA Staff Calendar,N.Tripodi FLB,Sunday,11/3/2019,9:30 AM,11:00,33:00:00
+FERA Staff Calendar,N.Tripodi FLB,Saturday,11/9/2019,11:30 AM,9:30,9:30
+FERA Staff Calendar,N.Tripodi Training,Thursday,3/28/2019,10:30 AM,8:00,36:30:00
+FERA Staff Calendar,N.Tripodi TRN,Saturday,4/6/2019,11:00 AM,8:00,16:00
+FERA Staff Calendar,N.Tripodi TRN,Sunday,4/7/2019,11:00 AM,8:00,16:00
+FERA Staff Calendar,N.Tripodi TRN,Saturday,5/18/2019,10:00 AM,15:30,31:00:00
+FERA Staff Calendar,"N.Tripodi, ADM",Monday,3/25/2019,12:00 PM,8:30,42:30:00
+FERA Staff Calendar,Noelle and Joseph's wedding,Saturday,8/3/2019,5:00 AM,8:00,8:00
+FERA Staff Calendar,Oil change,Saturday,8/31/2019,2:00 PM,1:00,1:00
+FERA Staff Calendar,"SEFS event - Diaz: Mining Public Data to Enhance Forest Assessment, Monitoring, and Modeling",Monday,4/1/2019,2:00 PM,1:00,140:30:00
+FERA Staff Calendar,SEFS Salmon FEED,Thursday,10/3/2019,7:00 PM,2:00,19:30
+FERA Staff Calendar,SERDP Mock Plot Sample Processing (3DF),Monday,4/1/2019,6:00 AM,73:00:00,73:00:00
+FERA Staff Calendar,Soundpeats earbuds,Tuesday,9/3/2019,12:00 PM,1:00,9:00
+FERA Staff Calendar,Truck brakes and 2879 fender,Wednesday,8/28/2019,12:00 PM,1:00,9:30
+FERA Staff Calendar,TTRS Mock Plot Sample Processing & Data Entry,Wednesday,4/10/2019,6:00 AM,49:00:00,49:00:00
+FERA Staff Calendar,Vehicle inspection due today,Monday,4/22/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Vehicle inspection due today,Wednesday,5/22/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Vehicle inspection due today,Saturday,6/22/2019,10:30 AM,0:30,16:30
+FERA Staff Calendar,Vehicle inspection due today,Monday,7/22/2019,10:30 AM,0:30,0:30
+FERA Staff Calendar,Vehicle inspection due today,Thursday,8/22/2019,10:30 AM,0:30,10:00
+FERA Staff Calendar,Vehicle inspection due today,Sunday,9/22/2019,10:30 AM,0:30,13:00
+FERA Staff Calendar,work meeting,Friday,4/26/2019,12:30 PM,1:00,28:30:00
