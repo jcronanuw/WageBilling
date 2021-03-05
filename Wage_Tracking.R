@@ -57,7 +57,7 @@ drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Tem
 
 
 #Open Data
-setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/")
+setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/input_files/temp_downloads/")
 cronan <- read.xlsx("cronan.csv", sheetIndex = 1, startRow = 2, header = T)
 darmody <- read.xlsx("darmody.csv", sheetIndex = 1, startRow = 2, header = T)
 nemens <- read.xlsx("nemens.csv", sheetIndex = 1, startRow = 2, header = T)
@@ -67,7 +67,7 @@ file_names <- objects()
 file_names <- file_names[file_names != "target"]
 
 #Set working drive
-setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/2021/")
+setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/input_files/")
 codes <- read.table("project_codes_2021.csv", header = T, fill = T, skip = 0, sep = ",")
 period <- read.table("reporting_period.txt", header = T, fill = T, skip = 0, sep = ",")
 staff_list <- read.table("staff_list.csv", header = T, fill = T, skip = 0, sep = ",")
@@ -703,7 +703,7 @@ mid.month.date <- as.Date(mid.month, "%Y-%m-%d")
 year_name <- format(mid.month.date, "%Y")
 month_name <- format(mid.month.date, "%B")
 dir.create(month_name)
-setwd(paste("C:/Users/jcronan/Documents/GitHub/WageBilling/2021/", month_name, sep = ""))
+setwd(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/2021/", month_name, sep = ""))
 write.csv(project_weekly, file = paste(year_name, "_", month_name, "_salary_summarized_by_week_by_project.csv", sep = ""))
 write.csv(pi_weekly, file = paste(year_name, "_", month_name, "_salary_summarized_by_week_by_pi.csv", sep = ""))
 write.csv(pi_monthly_base, file = paste(year_name, "_", month_name, "_salary_summary_for_month_by_pi_base_hours.csv", sep = ""))
