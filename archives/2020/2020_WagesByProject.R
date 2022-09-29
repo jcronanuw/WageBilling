@@ -514,7 +514,7 @@ total_leave_arch <- total_leave
 total_ot_arch <- total_ot
 
 #Save 
-write.csv(summary_owner_2018, file = "summary_byOwner_2018.csv")
+write.csv(owner_summary, file = "summary_byOwner_2020.csv")
 
 #Calculate salary allocations as a percentage
 total_hrs <- apply(owner_summary[,2:10], 1, sum)

@@ -21,57 +21,77 @@ library(sjmisc)#str_find
 library(readxl)#needed to import reporting_period file. Date format will be altered to default (mm/dd/yyyy) if csv file is used and needs to be in
 #yyyy-mm-dd format for as.Date function to interpret
 
+#Set working directory
+setwd("C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/")
+
+#Delete existing files from temp downloads folder
+temp = list.files(pattern="*.csv")
+if (file.exists(temp)) {
+  unlink(temp)
+  cat("The files are deleted")
+}
+
 #Drive authorization -- provide authorization to access Google Drive
 drive_auth()
 1#jcronan@uw.edu
 
 #Cronan
 #Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1uhUgwtkgGyNQDjj2l-CqigCDhCUqiveU/edit?rtpof=true")
+target <- drive_get("https://docs.google.com/spreadsheets/d/1uhUgwtkgGyNQDjj2l-CqigCDhCUqiveU/edit#gid=2107396445")
 #Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/cronan.csv", overwrite = T)
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/cronan.csv", overwrite = T)
 
-#Darmody
+#Gould
 #Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1K4hyfFMyDzmM1Ii8nDdM86NJK9GMj-Cn/edit#gid=2107396445")
+target <- drive_get("https://docs.google.com/spreadsheets/d/1vW1Pa0dmLnVeYkzP5Q7WyfPj__Q8x9y_/edit#gid=2107396445")
 #Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/darmody.csv", overwrite = T)
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/gould.csv", overwrite = T)
+
+#Hallet
+#Copy link to file into an object
+target <- drive_get("https://docs.google.com/spreadsheets/d/1u2ekINrAKzZAc617j1fts4aOP0vd0FbL/edit#gid=1715091972")
+#Download a copy of the fuel moisture file
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/hallet.csv", overwrite = T)
 
 #Nemens
 #Copy link to file into an object
 target <- drive_get("https://docs.google.com/spreadsheets/d/1Lv2MpzFuDRx8Pp_BvXgKhgo4ttK5WVj3/edit#gid=2107396445")
 #Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/nemens.csv", overwrite = T)
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/nemens.csv", overwrite = T)
 
-#Thoreson
+#Patterson
 #Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1ef__wRFLKZcMIz9C9k1ix_3kulV3H0o3/edit#gid=2107396445")
+target <- drive_get("https://docs.google.com/spreadsheets/d/1u1Eu6CI7uBB4G2RveEMoppvgkOFYie__/edit#gid=2107396445")
 #Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/thoreson.csv", overwrite = T)
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/patterson.csv", overwrite = T)
 
-#Tripodi
+#Swan-Streepy
 #Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/15mHg1H__ZrvaNjmmDjb0OlQ6x-9fGJMH/edit#gid=2107396445")
+target <- drive_get("https://docs.google.com/spreadsheets/d/1ivGAwCtjUPk-GfoFI33ryWItOEfXOTWj/edit#gid=1715091972")
 #Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/Documents/GitHub/WageBilling/Temp_Downloads/tripodi.csv", overwrite = T)
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/swan.csv", overwrite = T)
 
+#Open files you just downloaded.
+temp = list.files(pattern="*.csv")
+temp_names <- substring(temp,1, nchar(temp)-4)
+for (i in 1:length(temp)) 
+  {
+  assign(temp_names[i], read.xlsx(temp[i], sheetIndex = 1, startRow = 2, header = T))
+}
 
-#Open Data
-setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/input_files/temp_downloads/")
-cronan <- read.xlsx("cronan.csv", sheetIndex = 1, startRow = 2, header = T)
-darmody <- read.xlsx("darmody.csv", sheetIndex = 1, startRow = 2, header = T)
-nemens <- read.xlsx("nemens.csv", sheetIndex = 1, startRow = 2, header = T)
-thoreson <- read.xlsx("thoreson.csv", sheetIndex = 1, startRow = 2, header = T)
-tripodi <- read.xlsx("tripodi.csv", sheetIndex = 1, startRow = 2, header = T)
 file_names <- objects()
-file_names <- file_names[file_names != "target"]
+file_names <- file_names[!file_names %in% c("file_names", "temp", "i", "target", "temp_names")]
 
 #Set working drive
-setwd("C:/Users/jcronan/Documents/GitHub/WageBilling/input_files/")
-codes <- read.table("project_codes_2021.csv", header = T, fill = T, skip = 0, sep = ",")
-period <- read.table("reporting_period.txt", header = T, fill = T, skip = 0, sep = ",")
+setwd("C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/")
+codes <- read.table("project_codes.csv", header = T, fill = T, skip = 0, sep = ",")
+period_dates_as_factors <- read.table("reporting_period.txt", header = T, fill = T, skip = 0, sep = ",")
+period <- data.frame(employer = period_dates_as_factors$employer, 
+                     start_date = as.Date(period_dates_as_factors$start_date),
+                     end_date = as.Date(period_dates_as_factors$end_date))
 staff_list <- read.table("staff_list.csv", header = T, fill = T, skip = 0, sep = ",")
-
+staff_list <- staff_list[order(staff_list$last_name),]#needs to be ordered by last name or hours will be assigned to wrong person.
+staff_wages <- read.table("staff_wages.csv", header = T, fill = T, skip = 0, sep = ",")
 ###########################################################################################################################################
 ###########################################################################################################################################
 ###########################################################################################################################################
@@ -94,11 +114,18 @@ for(i in 1:length(file_names))
 {
   start.col[i] <- which(colnames(get(file_names[i])) %in% "Date")
   end.col[i] <- which(colnames(get(file_names[i])) %in% "Check.with.Jim.or.Deborah.before.adding.new.codes.")
-  temp <- get(file_names[i])[,-c(1:(start.col[i]-1),end.col[i]:length(colnames(get(file_names[i]))))]
-  temp <- temp[temp$Date >= period$start_date[period$employer == empl] & temp$Date <= period$end_date[period$employer == empl],]
-  temp <- temp[-which(is.na(temp$Date)==T),]
-  staff[[i]] <- temp 
-  code_test_list <- c(code_test_list, colnames(temp)[colnames(temp) != "Date"])
+  temp.1 <- get(file_names[i])[,-c(1:(start.col[i]-1),end.col[i]:length(colnames(get(file_names[i]))))]
+  temp.2 <- temp.1[temp.1$Date >= period$start_date[period$employer == empl] & temp.1$Date <= period$end_date[period$employer == empl],]
+    if(length(which(is.na(temp.2$Date)==T)) == 0)#if statement needed b/c if test result is zero then all valid dates will be dropped.
+      {
+      temp.3 <- temp.2
+      } else
+        {
+          temp.3 <- temp.2[-which(is.na(temp.2$Date)==T),]
+        }
+  
+  staff[[i]] <- temp.3 
+  code_test_list <- c(code_test_list, colnames(temp.3)[colnames(temp.3) != "Date"])
 }
 
 #For some reason some columns may be imported as character values despite being classified as numeric in .csv file.
@@ -125,8 +152,18 @@ employees_uw <- staff_list$last_name[staff_list$employer == empl]
 #that allocates OT hours to project.)
 #rows = employee x project code
 #cols = week number
-week <- as.numeric(strftime(staff_uw[[1]]$Date, format = "%W"))
-week_number <- sort(unique(week))
+if(length(unique(as.numeric(strftime(staff_uw[[1]]$Date, format = "%Y")))) == 1)
+{
+  week <- as.numeric(strftime(staff_uw[[1]]$Date, format = "%W"))
+  week_number <- sort(unique(week))
+    } else
+  {
+    week <- as.numeric(strftime(staff_uw[[1]]$Date, format = "%W"))
+    week_number <- sort(unique(week))
+    past_year_max <- max(week_number)#used in final section of this script.
+    week[week == max(week_number)] <- min(week_number)
+    week_number <- week_number[-which(week_number == max(week_number))]
+    }
 code_test_list <- sort(unique(code_test_list))
 code_name_rows <- expand.grid(code_test_list, employees_uw)
 time_by_week <- data.frame(lastName = as.character(code_name_rows$Var2), 
@@ -135,11 +172,11 @@ time_by_week <- data.frame(lastName = as.character(code_name_rows$Var2),
                            stringsAsFactors = F)
 
 #Summarize data into data frame.
-for(i in 1:length(staff_uw))
+for(i in 1:length(staff_uw))#6
   {
-  for(a in 1:length(code_test_list))
+  for(a in 1:length(code_test_list))#16
     {
-    for(b in 1:length(week_number))
+    for(b in 1:length(week_number))#6
       {
       temp.a <- colnames(staff_uw[[i]]) == code_test_list[a]
       if(length(temp.a[temp.a == T]) == 0)
@@ -323,11 +360,18 @@ for(i in 1:length(file_names))
 {
   start.col[i] <- which(colnames(get(file_names[i])) %in% "Date")
   end.col[i] <- which(colnames(get(file_names[i])) %in% "Check.with.Jim.or.Deborah.before.adding.new.codes.")
-  temp <- get(file_names[i])[,-c(1:(start.col[i]-1),end.col[i]:length(colnames(get(file_names[i]))))]
-  temp <- temp[temp$Date >= period$start_date[period$employer == empl] & temp$Date <= period$end_date[period$employer == empl],]
-  temp <- temp[-which(is.na(temp$Date)==T),]
-  staff[[i]] <- temp 
-  code_test_list <- c(code_test_list, colnames(temp)[colnames(temp) != "Date"])
+  temp.1 <- get(file_names[i])[,-c(1:(start.col[i]-1),end.col[i]:length(colnames(get(file_names[i]))))]
+  temp.2 <- temp.1[temp.1$Date >= period$start_date[period$employer == empl] & temp.1$Date <= period$end_date[period$employer == empl],]
+  if(length(which(is.na(temp.2$Date)==T)) == 0)#if statement needed b/c if test result is zero then all valid dates will be dropped.
+  {
+    temp.3 <- temp.2
+  } else
+  {
+    temp.3 <- temp.2[-which(is.na(temp.2$Date)==T),]
+  }
+  
+  staff[[i]] <- temp.3
+  code_test_list <- c(code_test_list, colnames(temp.3)[colnames(temp.3) != "Date"])
 }
 
 #For some reason some columns may be imported as character values despite being classified as numeric in .csv file.
@@ -354,7 +398,16 @@ employees_fs <- staff_list$last_name[staff_list$employer == empl]
 #that allocates OT hours to project.)
 #rows = employee x project code
 #cols = week number
-week <- as.numeric(strftime(staff_fs[[1]]$Date, format = "%U"))
+if(length(unique(as.numeric(strftime(staff_fs[[1]]$Date, format = "%Y")))) == 1)
+{
+  week <- as.numeric(strftime(staff_fs[[1]]$Date, format = "%W"))
+  week[seq(1,length(week),7)] <- week[seq(1,length(week),7)] + 1#adjust week number based on USFS work week, different than %W 
+} else
+{
+  week <- as.numeric(strftime(staff_fs[[1]]$Date, format = "%W"))
+  week[seq(1,length(week),7)] <- week[seq(1,length(week),7)] + 1#adjust week number based on USFS work week, different than %W 
+  week[week %in% week[week > 10]] <- min(week_number)
+}
 code_test_list <- sort(unique(code_test_list))
 code_name_rows <- expand.grid(code_test_list, employees_fs)
 time_by_week <- data.frame(lastName = as.character(code_name_rows$Var2), 
@@ -589,12 +642,19 @@ start.ot <- flush.cols + (length(code_test_list)+1)
 end.ot <- flush.cols + (length(code_test_list)*2)
 base_rwta <- rwta[,start.base:end.base]
 ot_rwta <- rwta[,start.ot:end.ot]
-friday <- as.Date(paste(2021, week_number, 5, sep="-"), "%Y-%W-%w")
+if(min(week_number) == 0)
+{
+  friday <- as.Date(paste(as.numeric(format(Sys.Date(), "%Y"))-1, past_year_max, 5, sep="-"), "%Y-%W-%w")
+  friday <- c(friday, as.Date(paste(format(Sys.Date(), "%Y"), week_number[-1], 5, sep="-"), "%Y-%W-%w"))
+  } else
+    {
+      friday <- as.Date(paste(format(Sys.Date(), "%Y"), week_number, 5, sep="-"), "%Y-%W-%w")
+    }
 colnames(base_rwta) <- paste("base", colnames(base_rwta), sep = "_")
 colnames(ot_rwta) <- paste("ot", colnames(ot_rwta), sep = "_")
 project_weekly <- data.frame(last_name = rwta$LastName, 
                          friday = rep(friday, length(unique(rwta$LastName))), 
-                         base_hrs = rwta$Total_Hrs, 
+                         base_hrs = rwta$Total_Hrs - rwta$OT_Hours, 
                          ot_hrs = rwta$OT_Hours, 
                          base_rwta, 
                          ot_rwta)
@@ -697,13 +757,23 @@ pi_monthly_ot <- data.frame(pi_weekly_reduced_ot %>%
 
 #Save data 
 #Weekly by project
-uw.start.date <- period$start_date[period$employer == "uw"]
-mid.month <- paste(str_sub(uw.start.date, 1,8), "-", (as.numeric(str_sub(uw.start.date,-2,-1))+10), sep = "")
-mid.month.date <- as.Date(mid.month, "%Y-%m-%d")
-year_name <- format(mid.month.date, "%Y")
-month_name <- format(mid.month.date, "%B")
-dir.create(month_name)
-setwd(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/2021/", month_name, sep = ""))
+mid_month <- staff_uw[[1]]$Date[14]
+year_name <- format(mid_month, "%Y")
+month_name <- format(mid_month, "%B")
+month_no <- substr(mid_month,6,7)
+if(dir.exists(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/", as.numeric(format(Sys.Date(), "%Y")), sep = "")) == T)
+  {
+  setwd(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/", as.numeric(format(Sys.Date(), "%Y")), sep = ""))
+  } else
+    {
+      setwd("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/")
+      year_dir <- paste(year_name)
+      dir.create(year_dir)
+      setwd(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/", format(Sys.Date(), "%Y"), sep = ""))
+      }
+sub_dir <- paste(year_name, "_", month_no, "_", month_name, sep = "")
+dir.create(sub_dir)
+setwd(paste("C:/Users/jcronan/Box/FERA-UW/Admin/HR/Wage_Tracking/", format(Sys.Date(), "%Y"), "/", sub_dir, sep = ""))
 write.csv(project_weekly, file = paste(year_name, "_", month_name, "_salary_summarized_by_week_by_project.csv", sep = ""))
 write.csv(pi_weekly, file = paste(year_name, "_", month_name, "_salary_summarized_by_week_by_pi.csv", sep = ""))
 write.csv(pi_monthly_base, file = paste(year_name, "_", month_name, "_salary_summary_for_month_by_pi_base_hours.csv", sep = ""))
@@ -711,3 +781,7 @@ write.csv(pi_monthly_ot, file = paste(year_name, "_", month_name, "_salary_summa
 write.csv(staff_list, file = paste(year_name, "_", month_name, "_lookup_table_staff_list.csv", sep = ""))
 write.csv(period, file = paste(year_name, "_", month_name, "_lookup_table_reporting_period.csv", sep = ""))
 write.csv(codes, file = paste(year_name, "_", month_name, "_lookup_table_project_codes.csv", sep = ""))
+
+###################################################################################################################################
+#END
+###################################################################################################################################
