@@ -35,27 +35,21 @@ if (file.exists(temp)) {
 drive_auth()
 1#jcronan@uw.edu
 
+#Boyd
+#Copy link to file into an object
+target <- drive_get("https://docs.google.com/spreadsheets/d/167Lo-bjcP_ErkpbdnRIDvZpgWzmtrCFT/edit#gid=1715091972")
+#Download a copy of the fuel moisture file
+drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/boyd.csv", overwrite = T)
+
 #Cronan
 #Copy link to file into an object
 target <- drive_get("https://docs.google.com/spreadsheets/d/1uhUgwtkgGyNQDjj2l-CqigCDhCUqiveU/edit#gid=2107396445")
 #Download a copy of the fuel moisture file
 drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/cronan.csv", overwrite = T)
 
-#Gould
-#Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1vW1Pa0dmLnVeYkzP5Q7WyfPj__Q8x9y_/edit#gid=2107396445")
-#Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/gould.csv", overwrite = T)
-
-#Hallet
-#Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1u2ekINrAKzZAc617j1fts4aOP0vd0FbL/edit#gid=1715091972")
-#Download a copy of the fuel moisture file
-drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/hallet.csv", overwrite = T)
-
 #Nemens
 #Copy link to file into an object
-target <- drive_get("https://docs.google.com/spreadsheets/d/1Lv2MpzFuDRx8Pp_BvXgKhgo4ttK5WVj3/edit#gid=2107396445")
+target <- drive_get("https://docs.google.com/spreadsheets/d/16GjdxU5lGuD21wwAbd-feirqQmXAGG7C/edit#gid=198112230")
 #Download a copy of the fuel moisture file
 drive_download(target, path = "C:/Users/jcronan/OneDrive - USDA/Documents/GitHub/WageBilling/input_files/temp_downloads/nemens.csv", overwrite = T)
 
